@@ -886,6 +886,448 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
         }
       ]
     }
+  ],
+  "/cs/": [
+    {
+      "text": "O webu",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Úvod",
+          "link": "/cs/about"
+        },
+        {
+          "text": "Od nunko/dinuz",
+          "link": "/cs/original"
+        }
+      ]
+    },
+    {
+      "text": "Základy gramatiky a struktura věty",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "1. Základní typy vět",
+          "link": "/cs/1-the-basic-types-of-sentences"
+        },
+        {
+          "text": "2. Neviditelný vagon a částice を",
+          "link": "/cs/2-the-invisible-carriage-and-the-を-particle"
+        },
+        {
+          "text": "3. Částice は",
+          "link": "/cs/3-the-は-particle"
+        },
+        {
+          "text": "4. Japonské slovesné časy",
+          "link": "/cs/4-japanese-verb-tenses"
+        },
+        {
+          "text": "5. Skupiny sloves a て-forma",
+          "link": "/cs/5-verb-groups-and-the-て-form"
+        },
+        {
+          "text": "6. Přídavná jména",
+          "link": "/cs/6-adjectives"
+        },
+        {
+          "text": "7. Záporné tvary a přídavná jména v minulém čase",
+          "link": "/cs/7-negative-forms-and-adjectives-in-past-tense"
+        },
+        {
+          "text": "7.5. Časování",
+          "link": "/cs/7-5-conjugation"
+        },
+        {
+          "text": "8. Částice に a へ",
+          "link": "/cs/8-the-に-and-へ-particles"
+        },
+        {
+          "text": "8b. Vysvětlení částic.",
+          "link": "/cs/8b-particles-explained"
+        },
+        {
+          "text": "9. Podmět japonské věty a vyjádření přání: ほしい, たい, たがる",
+          "link": "/cs/9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる"
+        },
+        {
+          "text": "10. Pomocná slovesa a potenciální pomocné sloveso",
+          "link": "/cs/10-helper-verbs-the-potential-helper-verb"
+        },
+        {
+          "text": "11. Souvětí, くれる, あげる a další užití て-formy",
+          "link": "/cs/11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form"
+        },
+        {
+          "text": "12. Citační částice と, složená slovesa a podstatná jména",
+          "link": "/cs/12-quotation-particle-と-compound-verbs-nouns"
+        },
+        {
+          "text": "13. Trpné časování / přijímací pomocné sloveso",
+          "link": "/cs/13-passive-conjugation-receptive-helper-verb"
+        },
+        {
+          "text": "14. Příslovce a částice も",
+          "link": "/cs/14-adverbs-and-the-も-particle"
+        },
+        {
+          "text": "15. Přechodná a nepřechodná slovesa",
+          "link": "/cs/15-transitive-intransitive-verbs"
+        },
+        {
+          "text": "16. てみる, částice や, částice から, výlučné „a“",
+          "link": "/cs/16-てみる-や-particle-から-particle-exclusive-and"
+        },
+        {
+          "text": "17. Zdvořilá japonština a volní tvar",
+          "link": "/cs/17-polite-japanese-and-the-volitional"
+        },
+        {
+          "text": "18. って = は?? Záhady vysvětleny! – おうとする, とする, として, という, っていう",
+          "link": "/cs/18-って-は-mysteries-explained-おうとする-とする-として-という-っていう"
+        },
+        {
+          "text": "19. Kauzativ + kauzativně-přijímací tvar",
+          "link": "/cs/19-causative-causative-receptive"
+        },
+        {
+          "text": "20. Ukazovací slova: それ・その・そんな・そう atd.",
+          "link": "/cs/20-directionals-それ-その-そんな-そう-etc"
+        }
+        ]
+    },
+    {
+      "text": "Pokročilá gramatika a vyjadřování",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "21. てある/ている a ておく",
+          "link": "/cs/21-てある-ている-ておく"
+        },
+        {
+          "text": "22. ては a ても",
+          "link": "/cs/22-ては-ても"
+        },
+        {
+          "text": "23. だって + だから a それから",
+          "link": "/cs/23-だって-だから-それから"
+        },
+        {
+          "text": "24. Doslechy a domněnky – そう・そうだ・そうです",
+          "link": "/cs/24-hearsay-guesses-そう-そうだ-そうです"
+        },
+        {
+          "text": "25. らしい vs そうだ / そうです + っぽい (ppoi)",
+          "link": "/cs/25-らしい-vs-そうだ-そうです-っぽい-ppoi"
+        },
+        {
+          "text": "26. Přirovnání: ようだ・のように・のような・みたい",
+          "link": "/cs/26-similes-ようだ-のように-のような-みたい"
+        },
+        {
+          "text": "27. ばかり",
+          "link": "/cs/27-ばかり"
+        },
+        {
+          "text": "28. ように – jeden klíč ke všem hlavním užitím",
+          "link": "/cs/28-ように-one-key-to-all-the-main-uses"
+        },
+        {
+          "text": "29. ことにする a ことになる",
+          "link": "/cs/29-ことにする-ことになる"
+        },
+        {
+          "text": "30. Japonské podmínkové konstrukce: と",
+          "link": "/cs/30-japanese-conditionals-と"
+        },
+        {
+          "text": "31. Podmínková konstrukce ば / れば",
+          "link": "/cs/31-the-ば-れば-conditional"
+        },
+        {
+          "text": "32. Podmínkové konstrukce たら, なら",
+          "link": "/cs/32-the-たら-なら-conditionals"
+        },
+        {
+          "text": "33. Omezující výrazy: だけ, しか, ばかり, のみ",
+          "link": "/cs/33-limiting-terms-だけ-しか-ばかり-のみ"
+        },
+        {
+          "text": "34. Porozumějte jakékoli větě",
+          "link": "/cs/34-understand-any-sentence"
+        },
+        {
+          "text": "35. より, のほう, 一方",
+          "link": "/cs/35-より-のほう-一方"
+        },
+        {
+          "text": "36. 所 – pojem místa",
+          "link": "/cs/36-所-the-concept-of-place"
+        },
+        {
+          "text": "37. Nová tajemství struktury + な vs の, přídavná jména なる a たる",
+          "link": "/cs/37-new-structure-secrets-な-vs-の-なる-たる-adjectives"
+        },
+        {
+          "text": "38. Když „není“ znamená „je“: záhady じゃない (janai), ではない (de wa nai)",
+          "link": "/cs/38-when-it-isn-t-means-it-is-じゃない-ではない"
+        },
+        {
+          "text": "39. Částice か: skryté otázky, かな, もんか, かどうか…",
+          "link": "/cs/39-the-か-particle-buried-questions-かな-もんか-かどうか"
+        },
+        {
+          "text": "40. 3 nástrahy v japonštině a jak se jim vyhnout",
+          "link": "/cs/40-3-pitfalls-in-japanese-and-how-to-avoid-them"
+        }
+      ]
+    },
+    {
+      "text": "Strategie učení a rozbor vět",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "41. 5 klíčových faktů o základní struktuře japonštiny",
+          "link": "/cs/41-5-key-facts-about-the-basic-structure-of-japanese"
+        },
+        {
+          "text": "42. Základní záměna slov | まま",
+          "link": "/cs/42-basic-word-confusion-まま"
+        },
+        {
+          "text": "43. ZMĚNA PARADIGMATU: Prosekejte se zmatkem",
+          "link": "/cs/43-paradigm-shift-cut-through-the-confusion"
+        },
+        {
+          "text": "44. Jak používat přirozenou japonštinu: ちゃう, ちゃった",
+          "link": "/cs/44-how-to-use-natural-japanese-ちゃう-ちゃった"
+        },
+        {
+          "text": "45. Průvodce prvním krokem k technice vlastního ponoření",
+          "link": "/cs/45-first-step-guide-into-self-immersion-technique"
+        },
+        {
+          "text": "46. Na pořadí slov ZÁLEŽÍ: 2 jednoduchá pravidla na rozlousknutí těžkých vět",
+          "link": "/cs/46-word-order-matters-2-simple-rules-to-crack-tough-sentences"
+        },
+        {
+          "text": "47. Jak rozumět japonštině: vaše tajná zbraň na rozbor vět",
+          "link": "/cs/47-how-to-understand-japanese-your-secret-weapon-for-breaking-down-sentences"
+        },
+        {
+          "text": "48. Jak si poradit s nejednoznačností v japonštině",
+          "link": "/cs/48-dealing-with-ambiguity-in-japanese"
+        },
+        {
+          "text": "49. Japonský úhel pohledu bez zmatku! – もらう・てもらう",
+          "link": "/cs/49-japanese-point-of-view-deconfused-もらう-てもらう"
+        },
+        {
+          "text": "50. 2 aspekty japonštiny, které cizinci nedokážou pochopit: させてもらう, poslední tajemství potenciálu",
+          "link": "/cs/50-2-aspects-of-japanese-that-foreigners-can-t-fathom-させてもらう-last-secret-of-the-potential"
+        },
+        {
+          "text": "51. Jak číst japonský 怪談 / かいだん (strašidelný příběh)",
+          "link": "/cs/51-how-to-read-a-japanese-怪談-かいだん-ghost-story"
+        },
+        {
+          "text": "52. Hloubkový rozbor japonských vět v reálném rodilém kontextu",
+          "link": "/cs/52-in-depth-japanese-sentence-analysis-in-real-native-context"
+        },
+        {
+          "text": "53. Užijte si japonský horor v japonštině",
+          "link": "/cs/53-enjoy-japanese-horror-in-japanese"
+        },
+        {
+          "text": "54. NEPRAVIDELNOSTI a jak fungují | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
+          "link": "/cs/54-irregularities-how-they-work-見る-見られる-見れる-見える-聞く-聞ける-聞こえる"
+        },
+        {
+          "text": "55. Tajemství částice で. Proč říkáme みんなで行く? a 世界で一番?",
+          "link": "/cs/55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番"
+        },
+        {
+          "text": "56. Hbitost: hlubší tajemství částic は a の",
+          "link": "/cs/56-agility-deeper-secrets-of-は-and-の-particles"
+        },
+        {
+          "text": "57. 込む (komu) a tajemství víceznačných japonských slov",
+          "link": "/cs/57-込む-komu-and-the-secret-of-multi-meaning-japanese-words"
+        },
+        {
+          "text": "58. Japonské dvojité částice. Jak fungují",
+          "link": "/cs/58-japanese-double-particles-how-they-work"
+        },
+        {
+          "text": "59. Nepřeložitelná japonština existuje! Jak jí porozumět",
+          "link": "/cs/59-untranslatable-japanese-exists-how-to-understand-it"
+        },
+        {
+          "text": "60. DRUHÁ POLOVINA japonské struktury – nelogická struktura téma/komentář",
+          "link": "/cs/60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure"
+        }
+      ]
+    },
+    {
+      "text": "Pokročilá témata a kulturní kontext",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "61. は a が: hlubší tajemství! Struktura jin-jang japonštiny",
+          "link": "/cs/61-は-and-が-the-deeper-secrets-the-yin-yang-structure-of-japanese"
+        },
+        {
+          "text": "62. ておく vs てしまう, tajemství pomocných sloves",
+          "link": "/cs/62-ておく-vs-てしまう-helper-verb-secrets"
+        },
+        {
+          "text": "63. „DIVOKÉ“ ukončovače vět v reálné japonštině: かい、だい、ぜ、ぞ、さ、から、し、ちょうだい",
+          "link": "/cs/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい"
+        },
+        {
+          "text": "64. Věci se zamotávají! もの a こと – pokročilá tajemství: ものだ, ことがある, こと jako ukončovač věty",
+          "link": "/cs/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender"
+        },
+        {
+          "text": "65. Přicházení a odcházení: hlubší tajemství 行く a 来る, て行く a て来る (te-iku, te-kuru)",
+          "link": "/cs/65-coming-and-going-deeper-secrets-of-行く-and-来る-て行くand-て来る-te-iku-te-kuru"
+        },
+        {
+          "text": "66. SKRYTÉ podměty v japonštině – a jak jim porozumět",
+          "link": "/cs/66-hidden-subjects-in-japanese-and-how-to-understand-them"
+        },
+        {
+          "text": "67. もう a まだ: časové vztahy, které jim dávají smysl",
+          "link": "/cs/67-もう-and-まだ-the-time-relations-that-make-sense-of-them"
+        },
+        {
+          "text": "68. Skrytá logika japonštiny: わけ、そういうわけ、わけが分からない、わけない",
+          "link": "/cs/68-japanese-underlying-logic-わけ-そういうわけ-わけが分からない-わけない"
+        },
+        {
+          "text": "69. Japonština v praxi! Jak se poprat s autentickými japonskými materiály. 怪談 4",
+          "link": "/cs/69-japanese-in-the-wild-tackling-native-japanese-material-怪談-4"
+        },
+        {
+          "text": "70. かける / かかる: univerzální japonština vysvětlena!",
+          "link": "/cs/70-かける-かかる-all-purpose-japanese-explained"
+        },
+        {
+          "text": "71. Japonské počítací přípony: 3 jednoduchá pravidla",
+          "link": "/cs/71-japanese-counters-3-simple-rules"
+        },
+        {
+          "text": "72. Velký spojovatel (kouzlo い-kmene)",
+          "link": "/cs/72-the-great-connector-い-stem-magic"
+        },
+        {
+          "text": "73. Tajemství 気: 気になる, 気にする, 気がする, 気に入る atd.",
+          "link": "/cs/73-secrets-of-気-気になる-気にする-気がする-気に入る-etc"
+        },
+        {
+          "text": "74. LÁSKA a další záhady こと! あなたのことが好き, 私のことが嫌い, ということ, そういうこと, どういうこと, そんなこと",
+          "link": "/cs/74-love-and-other-mysteries-of-こと-あなたのことが好き-私のことが嫌い-ということ-そういうこと-どういうこと-そんなこと"
+        },
+        {
+          "text": "75. Japonština NENÍ angličtina: jak se liší strategie vyjadřování | zdvořilá 英本語 = hrubá japonština",
+          "link": "/cs/75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese"
+        },
+        {
+          "text": "76. Správné otevření? | あく, あける, ひらく, ひらける, 開く, 開け",
+          "link": "/cs/76-the-right-opening-あく-あける-ひらく-ひらける-開く-開け"
+        },
+        {
+          "text": "77. Skutečná struktura japonštiny vs. Tae Kim: strukturní recenze gramatiky Tae Kima",
+          "link": "/cs/77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar"
+        },
+        {
+          "text": "78. Rozbití jádra: Tae Kim vs. spona | kritická recenze založená na struktuře japonštiny",
+          "link": "/cs/78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review"
+        },
+        {
+          "text": "79. Hlubší tajemství spony",
+          "link": "/cs/79-deeper-secret-of-the-copula"
+        },
+        {
+          "text": "80. Vynechané částice a neformální vypouštění",
+          "link": "/cs/80-dropped-particles-casual-omissions"
+        }
+      ]
+    },
+    {
+      "text": "Doladění vaší japonštiny",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "81. Globální princip všech japonských slovních tvarů.",
+          "link": "/cs/81-global-principle-of-all-japanese-word-forms"
+        },
+        {
+          "text": "82. なんて、なんか、など: 3 běžná slova vyjasněna.",
+          "link": "/cs/82-なんて-なんか-など-3-common-words-clarified"
+        },
+        {
+          "text": "83. Tři úrovně rozkazů v japonštině: rozkazy て-formou, なさい, rozkazy s な, rozkazovací tvar.",
+          "link": "/cs/83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form"
+        },
+        {
+          "text": "84. である a struktura japonštiny. Co nám říkají starší spony: である, であります、でござる、でございます",
+          "link": "/cs/84-である-and-the-structure-of-japanese-what-older-copulas-tell-us-である-であります-でござる-でございます"
+        },
+        {
+          "text": "85. まい – záporné pomocné sloveso",
+          "link": "/cs/85-まい-the-negative-helper"
+        },
+        {
+          "text": "86. 次第 (shidai)",
+          "link": "/cs/86-次第-shidai"
+        },
+        {
+          "text": "87. Japonská struktura NARUBY: podivný život しか",
+          "link": "/cs/87-japanese-structure-inverted-strange-life-of-しか"
+        },
+        {
+          "text": "88. Xをしたい vs Xがしたい",
+          "link": "/cs/88-xをしたい-vs-xがしたい"
+        },
+        {
+          "text": "89. Odhalení japonštiny. Univerzální podmět",
+          "link": "/cs/89-de-mystifying-japanese-the-universal-subject"
+        },
+        {
+          "text": "90. Japonská interpunkce: jak funguje.",
+          "link": "/cs/90-japanese-punctuation-how-it-works"
+        },
+        {
+          "text": "91. Krajní meze! 限る a 限り: jejich mnoho významů a jak fungují 知っている限り、とは限らない a další",
+          "link": "/cs/91-outer-limits-限る-限り-its-many-meanings-and-how-they-work-知っている限り-とは限らない-and-more"
+        },
+        {
+          "text": "92. Sní angličtina japonštinu? Invaze přejatých slov – je to opravdu hrozba?",
+          "link": "/cs/92-will-english-eat-japanese-loan-word-invasion-is-it-really-a-threat"
+        },
+        {
+          "text": "93. Spílání pomocí くせに. Jak to funguje.",
+          "link": "/cs/93-cussin-em-out-with-くせに-how-it-works"
+        },
+        {
+          "text": "94. くらい VS ほど",
+          "link": "/cs/94-くらい-vs-ほど"
+        },
+        {
+          "text": "95. Chytré využití historie slov: どうも、やっぱり、やはり",
+          "link": "/cs/95-using-word-history-the-smart-way-どうも-やっぱり-やはり"
+        },
+        {
+          "text": "96. 通り a せっかく: metaforická cesta a nepřeložitelné slovo.",
+          "link": "/cs/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word"
+        },
+        {
+          "text": "97. Významy うち: domov, já, společenská hranice, časový ukazatel: いまのうち、そのうち",
+          "link": "/cs/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち"
+        }
+      ]
+    }
   ]
 };
 

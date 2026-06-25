@@ -18,6 +18,10 @@ export default defineConfig({
     ru: {
       label: 'Russian',
       lang: 'ru',
+    },
+    cs: {
+      label: 'Čeština',
+      lang: 'cs',
     }
   },
 
