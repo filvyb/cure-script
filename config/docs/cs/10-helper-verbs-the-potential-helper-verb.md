@@ -88,7 +88,7 @@ Asi to není to, jak Japonci obvykle mluví. Dalo by se to nazvat <code>poangli�
 Není na nás, abychom řešili, jestli je to špatná japonština, nebo ne. Jde o to, že většinou uvidíte <code>**ほんがよめる**</code>, a **<code>(わたしは)ほんがよめる</code> nemůže doslova znamenat <code>Umím přečíst tu knihu</code>.** **Znamená <code>Kniha je čitelná</code>.**
 
 ::: info
-わたしは se dá říct, aby se naznačilo, že kniha dělá čitelnou MNĚ – téma, ale obvykle se to nezmiňuje.
+Můžete přidat わたしは, a ustanovit tak sebe jako téma („co se týče mě, kniha je čitelná“), ale obvykle se to vynechává.
 :::
 
 Takže to je dost jednoduché, a pokud si tohle pamatujeme, neuvrhneme všechny ty částice do šílené nelogičnosti.
