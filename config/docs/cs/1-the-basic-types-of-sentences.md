@@ -26,7 +26,7 @@ Sloveso <code>chodit</code> je japonsky <code>あるく</code>. Potřebujeme je�
 
 ## Věty se sponou
 
-Teď vezmeme větu <code>A je B</code>: <code>Sakura je Japonka</code>, neboli, jak říkáme, <code>Sakura je japonský člověk</code>. A je tedy zase Sakura, B je にほんじん/日本人, což znamená <code>japonský člověk</code>, a **opět potřebujeme が, abychom je spojili. Vagon A, hlavní vagon, si tedy představíme s が na něm, protože hlavní vagon, podmět věty, vždycky nese が, aby ho spojil s lokomotivou.**
+Teď vezmeme větu <code>A je B</code>: <code>Sakura je Japonka</code>, neboli, jak říkáme, <code>Sakura je japonský člověk</code>. A je tedy zase Sakura, B je [日本人]{にほんじん}, což znamená <code>japonský člověk</code>, a **opět potřebujeme が, abychom je spojili. Vagon A, hlavní vagon, si tedy představíme s が na něm, protože hlavní vagon, podmět věty, vždycky nese が, aby ho spojil s lokomotivou.**
 
 Takže さくらが日本人 – a potřebujeme ještě jednu věc. Je tu ještě jedna věc, se kterou chci, abyste se spřátelili, a to だ (da). <code>さくらが日本人だ</code> = <code>Sakura je japonský člověk</code>.
 
@@ -40,11 +40,11 @@ Proč je ohraničené zleva? Protože funguje jen jedním směrem. Zamyslete se 
 
 Teď tedy máme větu <code>A je B</code> a větu <code>A dělá B</code>. Existuje ještě jeden tvar japonské jádrové věty, neboť má tvary tři. Třetí tvar je, když máme popisné slovo, přídavné jméno.
 
-**V japonštině popisná slova končí na い** (i), stejně jako v češtině často končí na -ý nebo -í: šťastný, slunečný, zamračený, hloupý. V japonštině je to úplně stejné: šťastný – うれしい/嬉しい; smutný – かなしい/悲しい; modrý – あおい/青い.
+**V japonštině popisná slova končí na い** (i), stejně jako v češtině často končí na -ý nebo -í: šťastný, slunečný, zamračený, hloupý. V japonštině je to úplně stejné: šťastný – [嬉]{うれ}しい; smutný – [悲]{かな}しい; modrý – [青]{あお}い.
 
-Nemusíme se všechna tahle slova učit, ale potřebujeme vědět o japonských přídavných jménech končících na い, protože tvoří třetí typ věty. Vezměme tedy jedno snadné: ペン (to je pěkné jednoduché slovo, protože znamená <code>pero</code>) – <code>ペンが赤い/あかい</code> = <code>pero je červené</code>.
+Nemusíme se všechna tahle slova učit, ale potřebujeme vědět o japonských přídavných jménech končících na い, protože tvoří třetí typ věty. Vezměme tedy jedno snadné: ペン (to je pěkné jednoduché slovo, protože znamená <code>pero</code>) – <code>ペンが[赤]{あか}い</code> = <code>pero je červené</code>.
 
-Teď si všimnete, že u téhle věty nemáme だ. Proč to tak je? **Protože い-přídavné jméno あかい/赤い (červený) – neznamená červený, znamená je-červené. Funkce だ, funkce rovnítka, je do těchto い-přídavných jmen zabudovaná.**
+Teď si všimnete, že u téhle věty nemáme だ. Proč to tak je? **Protože い-přídavné jméno [赤]{あか}い (červený) – neznamená červený, znamená je-červené. Funkce だ, funkce rovnítka, je do těchto い-přídavných jmen zabudovaná.**
 
 ![](../media/image557.webp)
 

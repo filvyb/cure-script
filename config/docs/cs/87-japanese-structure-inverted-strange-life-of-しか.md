@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Dnes pro vás bohužel nemám žádné soby, ale mám pár jelenů. Budeme si povídat o slově <code>シカ / 鹿</code>, které, jak pravděpodobně víte, znamená <code>jelen</code>,
+Dnes pro vás bohužel nemám žádné soby, ale mám pár jelenů. Budeme si povídat o slově <code>[鹿]{シカ}</code>, které, jak pravděpodobně víte, znamená <code>jelen</code>,
 ::: info
 Jen pro jistotu, toto しか je odlišné od částice しか z této lekce, proto katakana, existuje spousta různých podstatných jmen しか a podobně s vlastními kanji, ale jen jedna částice しか
 :::
@@ -80,7 +80,7 @@ Teď, **je v tom také implicitní věta relevance**, takže když říkáme <co
 
 ![](../media/image1034.webp)
 
-**Teď, to <code>いない</code> nám to částečně říká**, ale není to jen tím, protože **to také **neznamená**, že tu nejsou žádní králíčci**, **nejsou tu žádní ptáci, nejsou tu žádné kapybary** (vyslovila jsem to správně?)
+**Teď, to <code>いない</code> nám to částečně říká**, ale není to jen tím, protože **to také neznamená, že tu nejsou žádní králíčci, nejsou tu žádní ptáci, nejsou tu žádné kapybary** (vyslovila jsem to správně?)
 
 ![](../media/image1029.webp)
 
@@ -146,7 +146,7 @@ No, samozřejmě že existuje, **tohle je velmi hovorové**, ale pokud jde o ná
 
 **V češtině** bychom mohli říct <code>**Buď utíkat, nebo nic**</code>, a opět, **to je negramatické a ze stejného důvodu,** **ze kterého je negramatická ta japonština, že <code>utíkat</code> není podstatné jméno.**
 
-**Ale když se po vás ta věc žene, koho zajímá gramatika?.**
+**Ale když se po vás ta věc žene, koho zajímá gramatika?**
 ::: info
 Nějaké užitečné komentáře, asi, pod videem…
 
@@ -154,5 +154,7 @@ Nějaké užitečné komentáře, asi, pod videem…
 
 ![](../media/image477.webp)
 
-*Jedna různá poznámka o くせに (癖に?), pro celou lekci natočila [**toto video**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Lekce 93*![](../media/image556.webp)
+*Jedna různá poznámka o くせに (癖に?), pro celou lekci natočila [**toto video**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Lekce 93*
+
+![](../media/image556.webp)
 :::

@@ -20,7 +20,7 @@ Takže vidíte, že tohle je v japonštině stylu です/ます, takže jestli s
 
 ![](../media/image641.webp)
 
-Takže <code>犬が肉をくわえた</code> je <code>pes držel maso v tlamě</code>, ale <code>肉をくわえた犬</code> je <code>pes, který držel maso v tlamě</code>. Takže ten pes je podmět naší věty, označený が. <code>肉をくわえた犬がはしをわたっていました.</code> <code>橋/はし</code> je <code>most</code> a <code>わたる</code> je <code>přejít</code>. Takže ten pes byl v procesu (<code>-ている</code>) přecházení mostu. <code>肉をくわえた犬がはしをわたっていました.</code> Takže to nastavilo scénu. Víme, co se děje.
+Takže <code>犬が肉をくわえた</code> je <code>pes držel maso v tlamě</code>, ale <code>肉をくわえた犬</code> je <code>pes, který držel maso v tlamě</code>. Takže ten pes je podmět naší věty, označený が. <code>肉をくわえた犬がはしをわたっていました.</code> <code>[橋]{はし}</code> je <code>most</code> a <code>わたる</code> je <code>přejít</code>. Takže ten pes byl v procesu (<code>-ている</code>) přecházení mostu. <code>肉をくわえた犬がはしをわたっていました.</code> Takže to nastavilo scénu. Víme, co se děje.
 
 <code>ふと下を見ると、川の中にも肉をくわえた犬がいます.</code>
 
@@ -96,13 +96,13 @@ A znovu jsme přepnuli do přítomného času, abychom tomu dali větší bezpro
 
 <code>さっきの川の中の犬は水に映った自分の顔だったのです</code> <code>のです</code> — <code>Faktem je, že to bylo…</code> Faktem je, že to bylo co?
 
-Faktem je, že… さっきの川の中の犬は" — <code>さっき</code> v tomhle případě znamená <code>před chvílí</code> nebo <code>předchozí</code>. Takže <code>さっきの川の中の犬</code> je <code>ten pes v řece z předchozí chvíle</code>; <code>水に映った自分の顔だった</code> — <code>自分</code> je <code>on sám</code>, takže je to <code>jeho vlastní obličej odražený ve vodě</code>: <code>水に映った自分の顔だったのです.</code>
+Faktem je, že… <code>さっきの川の中の犬は</code> — <code>さっき</code> v tomhle případě znamená <code>před chvílí</code> nebo <code>předchozí</code>. Takže <code>さっきの川の中の犬</code> je <code>ten pes v řece z předchozí chvíle</code>; <code>水に映った自分の顔だった</code> — <code>自分</code> je <code>on sám</code>, takže je to <code>jeho vlastní obličej odražený ve vodě</code>: <code>水に映った自分の顔だったのです.</code>
 
 Faktem je, že to bylo… faktem je, že ten předchozí pes v řece byl jeho vlastní obličej odražený ve vodě. A teď z tohohle příběhu plynou dvě ponaučení. A jsou dána do jedné dlouhé složené věty, která vypadá trochu těžko, takže ji jen rozdělme na dvě části.
 
 ![](../media/image331.webp)
 
-<code>同じ物を持っていても人が持っている物のほうが良く見え、</code> Teď, za prvé, to <code>見え</code> je <code>連用形/れんようけい</code>, い-kmen slovesa <code>見える</code>, <code>být vidět nebo vypadat</code>. Nevypadá to jako い-kmen, protože je to ičidanové sloveso a, jak víme, všechny kmeny ičidanového slovesa vypadají stejně. Ale い-kmen slovesa se dá použít, zvlášť v knižních kontextech, jako て-forma, ke spojení dvou logických větných celků v rámci souvětí. Takže to <code>見え</code> dokončuje logický větný celek a pak vede k druhému logickému větnému celku, který je to druhé ponaučení z příběhu.
+<code>同じ物を持っていても人が持っている物のほうが良く見え、</code> Teď, za prvé, to <code>見え</code> je <code>[連用形]{れんようけい}</code>, い-kmen slovesa <code>見える</code>, <code>být vidět nebo vypadat</code>. Nevypadá to jako い-kmen, protože je to ičidanové sloveso a, jak víme, všechny kmeny ičidanového slovesa vypadají stejně. Ale い-kmen slovesa se dá použít, zvlášť v knižních kontextech, jako て-forma, ke spojení dvou logických větných celků v rámci souvětí. Takže to <code>見え</code> dokončuje logický větný celek a pak vede k druhému logickému větnému celku, který je to druhé ponaučení z příběhu.
 
 Takže se podívejme nejdřív na první ponaučení. <code>同じ物を持っていても</code> — teď, koncovka <code>-ても</code>, jak víme, znamená <code>i když / třebaže</code>, takže říkáme <code>同じ物</code> — <code>stejná věc</code> — <code>を持っていても</code> — <code>je ve stavu nesení</code> (nebo držení nebo vlastnění). Takže i když vlastní stejnou věc (<code>同じ物</code>) <code>人が持っている物</code> — <code>věc, kterou mají lidé</code> — a <code>人</code> tady znamená <code>ostatní lidé</code>.
 

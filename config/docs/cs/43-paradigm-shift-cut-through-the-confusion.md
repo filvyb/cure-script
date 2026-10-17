@@ -40,7 +40,7 @@ Teď, oba tyhle způsoby jsou dost přirozené. Subjektivita je ve skutečnosti 
 
 Takže například japonština klidně řekne <code>水が犬に飲まれた</code>, což znamená <code>Voda obdržela napití od psa</code>. Klíčový konatel téhle věty je voda, ne pes. Voda přijímá akt napití od psa. Čeština (i angličtina) je proti tomuhle tak zaujatá, že je skoro nemožné tohle přeložit, aniž bychom to převedli do trpného rodu. V japonštině to trpný rod není.
 
-A tahle zaujatost jde tak hluboko, že celé pomocné sloveso <code>-れる/-</code>られる<code></code>, což je sloveso přijímání děje, se v téhle pseudo-japonské gramatice, která se učí v angličtině, nazývá <code>trpný rod</code>. Není to trpný rod — jde jen o to, že jediný způsob, jak to přeložit do našich jazyků, je převést to do trpného rodu. Teď se vraťme k našim palačinkám.
+A tahle zaujatost jde tak hluboko, že celé pomocné sloveso <code>-れる/-られる</code>, což je sloveso přijímání děje, se v téhle pseudo-japonské gramatice, která se učí v angličtině, nazývá <code>trpný rod</code>. Není to trpný rod — jde jen o to, že jediný způsob, jak to přeložit do našich jazyků, je převést to do trpného rodu. Teď se vraťme k našim palačinkám.
 
 Když řekneme <code>クレープが食べたい</code>, střed děje jsou palačinky. Vyvolávají ve mně touhu. Když řekneme <code>お腹が空いた、 *(zeroが)* 早く食べたい</code>, říkáme <code>Mám hlad; chci se brzy najíst.</code> Teď, <code>早く食べたい</code> nemá viditelného konatele, ale konatel tohohle - to nulové - je <code>já</code>, takže je to <code>(zeroが) 早く食べたい</code> — <code>Chci se brzy najíst.</code>
 
@@ -66,7 +66,7 @@ Například potenciál. Když řekneme <code>本が読める</code>, říkáme <
 
 ![](../media/image684.webp)
 
-Tohle nemůžeme přeložit přímo, protože je to sloveso a <code>čitelný</code> není sloveso v češtině, ale v japonštině říkáme <code>Kniha dělá čitelnou.</code> Teď, tohle je subjektivita v jistém smyslu, protože to nemluví o faktu, že je obecně možné tu knihu přečíst. To by bylo <code>可能性/かのうせい</code>.
+Tohle nemůžeme přeložit přímo, protože je to sloveso a <code>čitelný</code> není sloveso v češtině, ale v japonštině říkáme <code>Kniha dělá čitelnou.</code> Teď, tohle je subjektivita v jistém smyslu, protože to nemluví o faktu, že je obecně možné tu knihu přečíst. To by bylo <code>[可能性]{かのうせい}</code>.
 
 Mluví to o faktu, že kniha je čitelná pro nějakou osobu nebo lidi konkrétně. Ale znovu, ten が-označený podmět je kniha. Takže říkat <code>Můžu přečíst tu knihu</code> nebo <code>Můžeme přečíst tu knihu</code> je prostě nepravda.
 
@@ -111,5 +111,5 @@ Takže vidíte celé tohle obracení polarity, které je založeno na jednotněj
 A jestli tohle dokážeme uchopit, poslední problém je vyřešen a celá oblast japonštiny je odemčena a osvobozena od nutnosti přesměrovávat ji přes naše jazyky.
 
 ::: info
-Jako obvykle, jestli vám tahle lekce přijde matoucí nebo složitá, doporučuju nahlédnout do komentářů* [**videa**](https://www.youtube.com/watch?v=X_HlngOAvX8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=47&ab_channel=OrganicJapanesewithCureDolly)*, kde Dolly některé věci probírá do větší hloubky.
+Jako obvykle, jestli vám tahle lekce přijde matoucí nebo složitá, doporučuju nahlédnout do komentářů [**videa**](https://www.youtube.com/watch?v=X_HlngOAvX8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=47&ab_channel=OrganicJapanesewithCureDolly), kde Dolly některé věci probírá do větší hloubky.
 :::

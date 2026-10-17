@@ -26,7 +26,7 @@ A důvod toho je, že <code>あげる</code> ve skutečnosti není uctivé a **o
 
 ![](../media/image693.webp)
 
-**Takže jestli mluvíte k nadřízenému takovým způsobem, že naznačujete, že mu prokazujete laskavost,** **tohle urazí**, takže bychom neměli považovat <code>あげる</code> a <code>くれる</code> za vlastně uctivé nebo pokorné. **Nejsou to けいご/敬語.**
+**Takže jestli mluvíte k nadřízenému takovým způsobem, že naznačujete, že mu prokazujete laskavost,** **tohle urazí**, takže bychom neměli považovat <code>あげる</code> a <code>くれる</code> za vlastně uctivé nebo pokorné. **Nejsou to [敬語]{けいご}.**
 
 **<code>くれる</code> může naznačovat vděčnost, ale nenaznačuje pokoru.** **A <code>あげる</code> nenaznačuje ctění té osoby, na kterou se uplatňuje.** Dobře. Tak teď se posuňme k <code>もらう</code>.
 ::: info
@@ -57,18 +57,18 @@ V push-větě に označuje nepřímý předmět, konečného příjemce děje. 
 
 V pull-větě, kde příjemce je が-označený konatel, pak je に-označená osoba konečný dárce, konečný zdroj děje. Takže je ve skutečnosti mnohem užitečnější přirovnat <code>もらう</code> k <code>-れる/-られる</code>, receptivnímu pomocníku, protože dělá skoro přesně to samé.
 
-Bere sloveso, přidá k němu další, pomocné sloveso, které nám říká, že děj je přijímán a konatel věty koná děj přijímání toho děje od někoho jiného. A tahle podobnost, tahle obdoba, mezi <code>もらう</code> a <code>-れる/-</code>られる<code></code> není obvyklou japonskou gramatikou poukázána, ačkoli je to vlastně zdaleka nejlepší způsob, jak tomu porozumět, protože samozřejmě zamotávají celou věc tím, že nazývají receptivního pomocníka <code>-れる/-られる</code> <code>trpným rodem</code>.
+Bere sloveso, přidá k němu další, pomocné sloveso, které nám říká, že děj je přijímán a konatel věty koná děj přijímání toho děje od někoho jiného. A tahle podobnost, tahle obdoba, mezi <code>もらう</code> a <code>-れる/-られる</code> není obvyklou japonskou gramatikou poukázána, ačkoli je to vlastně zdaleka nejlepší způsob, jak tomu porozumět, protože samozřejmě zamotávají celou věc tím, že nazývají receptivního pomocníka <code>-れる/-られる</code> <code>trpným rodem</code>.
 
-Není to trpný rod, **je to receptiv, zrovna jako *<code>もらう</code>****.*
+Není to trpný rod, **je to receptiv, zrovna jako *<code>もらう</code>***.
 
 ::: info
-Mimochodem, nemůžete použít oba tyhle receptivy najednou. Dolly to vysvětluje v* [**komentářích**](https://www.youtube.com/watch?v=CESFJaFp8FI&lc=UgwTi3XYA1fzqe30n-14AaABAg.8x4VnfQdsss8x57oxMYR66&ab_channel=OrganicJapanesewithCureDolly).
+Mimochodem, nemůžete použít oba tyhle receptivy najednou. Dolly to vysvětluje v [**komentářích**](https://www.youtube.com/watch?v=CESFJaFp8FI&lc=UgwTi3XYA1fzqe30n-14AaABAg.8x4VnfQdsss8x57oxMYR66&ab_channel=OrganicJapanesewithCureDolly).
 
 ![](../media/image890.webp)
 :::
 
 
-A fungují velmi podobně. Rozdíl mezi nimi je, že <code>-れる/-</code>られる<code></code> naznačuje, že děj se nám prostě stal. Možná jsme ho chtěli, možná ne, ale nebylo to vlastně naše konání.
+A fungují velmi podobně. Rozdíl mezi nimi je, že <code>-れる/-られる</code> naznačuje, že děj se nám prostě stal. Možná jsme ho chtěli, možná ne, ale nebylo to vlastně naše konání.
 
 <code>もらう</code> naznačuje, že jsme ten děj podnikli, že jsme aktivně přivodili ten děj na sebe od někoho jiného; přiměli jsme ho, aby to pro nás udělal. Tak si pojďme povídat o přijímání služby.
 
@@ -80,7 +80,7 @@ Přesně nevím, proč to dělají. Myslím, že je to proto, že mají pocit, �
 
 <code>お医者さんに見てもらう</code> neznamená <code>Půjdu k doktorovi</code>; znamená to <code>Nechám se doktorem prohlédnout / Nechám se vyšetřit doktorem</code>. Teď, tohle vidíme mnohem jasněji, jestli mluvíme o kadeřnictví nebo o stříhání.
 
-<code>さんぱつ/散髪</code> znamená <code>stříhání vlasů</code> nebo <code>ostříhání</code>. A když řekneme <code>散髪をしてもらう</code>, říkáme <code>nechat si od někoho ostříhat vlasy</code>.
+<code>[散髪]{さんぱつ}</code> znamená <code>stříhání vlasů</code> nebo <code>ostříhání</code>. A když řekneme <code>散髪をしてもらう</code>, říkáme <code>nechat si od někoho ostříhat vlasy</code>.
 
 ![](../media/image417.webp)
 

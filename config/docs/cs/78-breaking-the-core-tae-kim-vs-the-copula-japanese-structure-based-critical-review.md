@@ -1,6 +1,6 @@
 # **78. Rozbití jádra: Tae Kim vs spona | Kritická recenze založená na japonské struktuře**
 
-[**Skutečná japonská struktura vs Tae Kim - Strukturní recenze gramatiky japonštiny od Tae Kima | Lekce 78**](https://www.youtube.com/watch?v=-JuHi-yKGFc&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=80&ab_channel=OrganicJapanesewithCureDolly)
+[**Rozbití jádra: Tae Kim vs spona | Kritická recenze založená na japonské struktuře | Lekce 78**](https://www.youtube.com/watch?v=u2RBlHxD7fk)
 
 こんにちは。
 
@@ -247,5 +247,5 @@ A to není překvapivé, protože to nikdo neučí, nikdo nikomu nic neříká.
 
 Takže doufám, že jsem tu pomohla věci trochu uvést na pravou míru…
 ::: info
-Zase jsem zkoušel ta podtržení, v tomhle stylu mám pocit, že to vypadá docela dobře a může pomoct líp ukázat ty důležité části. Ale můžete mi samozřejmě dát vědět svůj názor na to* (o≧▽゜)o
+Zase jsem zkoušel ta podtržení, v tomhle stylu mám pocit, že to vypadá docela dobře a může pomoct líp ukázat ty důležité části. Ale můžete mi samozřejmě dát vědět svůj názor na to (o≧▽゜)o
 :::

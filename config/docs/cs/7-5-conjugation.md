@@ -247,9 +247,9 @@ Pomocné sloveso, které se nalepuje na lepkavý kmen z え-řádku, je る / �
 
 ![](../media/image102.webp)
 
-**A ano, i když je to prostě る, jen ten jeden znak, je to pomocné sloveso** – když si ho vyhledáte v japonském slovníku (ne v japonsko-anglickém slovníku, ale ve skutečném japonském slovníku), najdete tam る jako 助動詞/*džodóši*, pomocné sloveso – a má tyhle dva tvary, る a られる.
+**A ano, i když je to prostě る, jen ten jeden znak, je to pomocné sloveso** – když si ho vyhledáte v japonském slovníku (ne v japonsko-anglickém slovníku, ale ve skutečném japonském slovníku), najdete tam る jako [助動詞]{じょどうし} (*džodóši*), pomocné sloveso – a má tyhle dva tvary, る a られる.
 
-**られる je, jak jste si všimli, totéž jako takzvaný trpný rod** *(přijímací)*, れる / られる, takže ičidanový tvar trpného rodu a potenciálu je stejný** – ale protože se používají velmi odlišně, je velmi, velmi málo příležitostí, kdy byste si je spletli, takže to vlastně není problém.
+**られる je, jak jste si všimli, totéž jako takzvaný trpný rod** *(přijímací)*, れる / られる, takže ičidanový tvar trpného rodu a potenciálu je stejný – ale protože se používají velmi odlišně, je velmi, velmi málo příležitostí, kdy byste si je spletli, takže to vlastně není problém.
 
 ---
 

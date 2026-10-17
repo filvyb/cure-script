@@ -98,7 +98,7 @@ Takže se vrátila do senpaiova bytu. <code>引き返し</code>, to znamená <co
 
 Takže se vrátila do senpaiova bytu — <code>先輩の部屋に戻って呼び鈴を押す</code>. Vrátila se do senpaiova pokoje a zmáčkla zvonek.
 
-<code>呼び鈴</code>: <code>呼ぶ</code> je <code>volat</code>, <code>鈴/りん</code> je onové čtení slova <code>鈴/すず</code>, <code>zvoneček</code>, takže <code>呼び鈴</code> je <code>zvonek na volání / zvonek k přivolání</code>.
+<code>呼び鈴</code>: <code>呼ぶ</code> je <code>volat</code>, <code>[鈴]{りん}</code> je onové čtení slova <code>[鈴]{すず}</code>, <code>zvoneček</code>, takže <code>呼び鈴</code> je <code>zvonek na volání / zvonek k přivolání</code>.
 
 <code>押す</code>: zmáčkne zvonek. A jak jsme viděli dřív, v japonském vyprávění je přípustné použít věty v přítomném čase v rámci vyprávění v minulém čase, aby se přidala bezprostřednost. A smysl tady je, že jsme přišli k jednomu bodu, k bodu skoro jako odpočívadlo na schodech, kde si na chvíli odpočineme a uděláme z tohohle svou přítomnost.
 

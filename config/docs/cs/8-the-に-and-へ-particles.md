@@ -104,7 +104,7 @@ Teď si možná říkáte: <code>Hmm, jak často se dneska lidi mění v žáby?
 
 ---
 
-Například <code>ことし(zeroが)十八さいになる</code>: <code>ことし</code> je <code>letos</code>, <code>十八さい/じゅうはっさい</code> je <code>18 let věku</code>. Takže říkáme <code>Letos se (mi) stane 18</code>. *Neboli, jak je uvedeno: <code>Letos se (já) 18 let starým-stát.</code>*
+Například <code>ことし(zeroが)十八さいになる</code>: <code>ことし</code> je <code>letos</code>, <code>[十八]{じゅうはっ}さい</code> je <code>18 let věku</code>. Takže říkáme <code>Letos se (mi) stane 18</code>. *Neboli, jak je uvedeno: <code>Letos se (já) 18 let starým-stát.</code>*
 
 ![](../media/image1157.webp)
 

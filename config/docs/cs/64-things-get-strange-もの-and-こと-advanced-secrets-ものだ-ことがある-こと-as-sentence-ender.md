@@ -22,11 +22,13 @@ Moje mecenáška řekla, že si to vyhledala na různých webech na učení japo
 
 Tak to vůbec není. To, co <code>もの</code> ve skutečnosti označuje, je <code>věc</code>. A věc je podstatné jméno, takže to může být konkrétní věc jako jablko nebo kniha nebo vesmír, ale taky to může být abstraktní věc jako láska nebo štěstí. Tohle všechno jsou podstatná jména.
 
-Takže <code>愛はすばらしいいものだ</code> je jediný způsob, jak to můžete říct, protože <code>ai</code> je <code>もの</code>, ne <code>koto</code>. Je to podstatné jméno. Je to věc. Není to stav, není to děj, není to podmínka. Je to věc.
+Takže <code>愛はすばらしいものだ</code> je jediný způsob, jak to můžete říct, protože <code>ai</code> je <code>もの</code>, ne <code>koto</code>. Je to podstatné jméno. Je to věc. Není to stav, není to děj, není to podmínka. Je to věc.
 
 A tohle musíme mít na paměti, jak se díváme na některé z rozšířenějších významů <code>もの</code> a <code>こと</code>, jak začínáme vídat <code>もの</code> a <code>こと</code>, jak se občas používají jako něco jako zakončovače vět.
 
-Ale než se k tomu dostaneme, podívejme se na některá z dalších rozšířených použití <code>こと</code>. Teď, jedno z nejběžnějších je <code>したことがある</code>.![](../media/image455.webp)
+Ale než se k tomu dostaneme, podívejme se na některá z dalších rozšířených použití <code>こと</code>. Teď, jedno z nejběžnějších je <code>したことがある</code>.
+
+![](../media/image455.webp)
 
 Například bychom mohli říct <code>日本に行ったことがある</code>. A to znamená <code>Byl jsem v Japonsku</code>.
 
@@ -82,9 +84,13 @@ Nedává to logický smysl, ale to, co děláte, je, že uděláte ten výrok a 
 
 Teď, zajímavé je, že tohle platí, když máme <code>ものだ</code> v přítomnosti; když to dáme do minulosti, má to jiný podtext. A zase, tohle není nějaké podivné pravidlo, které se musíme naučit.
 
-![](../media/image372.webp)Stejně jako u <code>することがある</code> versus <code>したことがある</code>, jsou tu naprosto dobré důvody, proč to musí být takhle. To <code>ものだ</code>, které jsme právě probrali, musí být v přítomném čase, protože mluvíme o zobecnění, a přítomný čas, jak víme, není ve skutečnosti přítomný čas.
+![](../media/image372.webp)
 
-Pokrývá přítomnost i budoucnost, a může, i když se nazývá ne-minulý čas![](../media/image680.webp) — je to ve skutečnosti neurčitý čas – může pokrývat i minulost, pokud taky pokrývá přítomnost a budoucnost. Takže v tomhle případě je to čas zobecnění. Ale když to řekneme v minulosti, má to jiný význam.
+Stejně jako u <code>することがある</code> versus <code>したことがある</code>, jsou tu naprosto dobré důvody, proč to musí být takhle. To <code>ものだ</code>, které jsme právě probrali, musí být v přítomném čase, protože mluvíme o zobecnění, a přítomný čas, jak víme, není ve skutečnosti přítomný čas.
+
+Pokrývá přítomnost i budoucnost, a může, i když se nazývá ne-minulý čas (ve skutečnosti je to neurčitý čas), pokrývat i minulost, pokud taky pokrývá přítomnost a budoucnost. Takže v tomhle případě je to čas zobecnění. Ale když to řekneme v minulosti, má to jiný význam.
+
+![](../media/image680.webp)
 
 Jestli řekneme <code>子供のころには、よくこちらに来たものだ</code>, to, co říkáme, je <code>Když jsem byl dítě, často jsem chodíval na tohle místo.</code>
 

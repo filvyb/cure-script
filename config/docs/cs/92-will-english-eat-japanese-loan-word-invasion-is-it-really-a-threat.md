@@ -70,15 +70,15 @@ Tak proč se lidé tímhle obávají víc v japonštině než v jiných jazycíc
 
 ![](../media/image562.webp)
 
-**Japonština má své vlastní slovo pro lva, kterým je <code>獅子 / しし</code>, ale v dnešní době má tendenci znít trochu knižně, trochu staromódně,** a pokud máme mluvit o lvu, máme tendenci říct <code>ライオン</code>. **To je tak trochu výjimka.**
+**Japonština má své vlastní slovo pro lva, kterým je <code>[獅子]{しし}</code>, ale v dnešní době má tendenci znít trochu knižně, trochu staromódně,** a pokud máme mluvit o lvu, máme tendenci říct <code>ライオン</code>. **To je tak trochu výjimka.**
 
-**Pokud mluvíme o slonu, řekneme <code>象 / ぞう</code>.** **Pokud mluvíme o tygru, řekneme <code>虎 / とら</code>.** **Většina divokých zvířat je známa pod svými japonskými jmény, i když je anglické jméno v Japonsku také známé.**
+**Pokud mluvíme o slonu, řekneme <code>[象]{ぞう}</code>.** **Pokud mluvíme o tygru, řekneme <code>[虎]{とら}</code>.** **Většina divokých zvířat je známa pod svými japonskými jmény, i když je anglické jméno v Japonsku také známé.**
 
 **Je tu baseballový tým zvaný 阪神タイガース,**
 
 ![](../media/image895.webp)
 
-**ale tohle je typický případ používání cizího slova, protože zní tak nějak cool.** **Normálně pokud prostě mluvíte o tygru, řeknete <code>虎 / とら</code>.**
+**ale tohle je typický případ používání cizího slova, protože zní tak nějak cool.** **Normálně pokud prostě mluvíte o tygru, řeknete <code>[虎]{とら}</code>.**
 
 ## Do jaké míry se angličtina opravdu stěhuje do japonštiny?
 

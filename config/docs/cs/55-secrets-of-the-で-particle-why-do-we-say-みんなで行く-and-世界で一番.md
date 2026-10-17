@@ -46,7 +46,7 @@ A je důležité pochopit, že když přidáme logickou částici nebo sponu k p
 
 ---
 
-Takže například když přidáme měkkou sponu <code>な</code> k přídavnému podstatnému jménu jako <code>綺麗/きれい</code>, máme <code>綺麗な</code>, a <code>綺麗な</code> se považuje za jednotku samu o sobě.
+Takže například když přidáme měkkou sponu <code>な</code> k přídavnému podstatnému jménu jako <code>[綺麗]{きれい}</code>, máme <code>綺麗な</code>, a <code>綺麗な</code> se považuje za jednotku samu o sobě.
 
 ![](../media/image434.webp)
 

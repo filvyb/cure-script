@@ -32,7 +32,7 @@ Jsou velmi jednoduchá. Když vezmeme slovo <code>勉強</code> z čínštiny, k
 
 V podstatě jsme přivařením <code>する</code> na podstatné jméno proměnili tu kombinaci ve skutečné sloveso. Takže v tomhle konkrétním případě můžeme říct, že podstatné jméno přišlo z čínštiny a opravdu zdomácnělo jako する sloveso.
 
-Nicméně jestli chceme použít podstatné jméno jako přídavné jméno, řekněme podstatné jméno <code>綺麗/きれい</code>, které znamená <code>krása/hezkost</code> nebo <code>čistota</code>, nikdy nepřestane být podstatným jménem.
+Nicméně jestli chceme použít podstatné jméno jako přídavné jméno, řekněme podstatné jméno <code>[綺麗]{きれい}</code>, které znamená <code>krása/hezkost</code> nebo <code>čistota</code>, nikdy nepřestane být podstatným jménem.
 
 ![](../media/image655.webp)
 
@@ -40,25 +40,25 @@ Slovníky a učebnice nám vyprávějí o <code>な-přídavných jménech</code
 
 Existuje přídavné podstatné jméno, které dál funguje skoro v každém ohledu jako jakékoli jiné podstatné jméno. Jediný rozdíl mezi přídavným podstatným jménem a jakýmkoli jiným podstatným jménem je, že s ním můžeme použít <code>な</code>.
 
-A <code>な</code>, jak víme, je prostě spojovací tvar <code>だ</code>. Takže můžeme říct <code>女の子は 綺麗/きれい だ</code> — <code>to děvče je hezké</code> — nebo můžeme říct <code>きれいな女の子</code>, což znamená <code>hezké děvče</code>.
+A <code>な</code>, jak víme, je prostě spojovací tvar <code>だ</code>. Takže můžeme říct <code>女の子は [綺麗]{きれい} だ</code> — <code>to děvče je hezké</code> — nebo můžeme říct <code>きれいな女の子</code>, což znamená <code>hezké děvče</code>.
 
 <code>きれいだ</code> znamená <code>je hezké</code> a <code>きれいな</code> taky znamená <code>je hezké</code>, takže říkáme <code>děvče je hezké</code> nebo <code>je-hezké děvče</code>. <code>な</code> a <code>だ</code> jsou tatáž spona.
 
 Teď, důvod, proč se těmhle říká přídavná podstatná jména, je, že tuhle přesnou věc nemůžeme udělat s jinými podstatnými jmény. Ale můžeme udělat něco velmi blízkého, a k tomu se velmi brzy dostaneme.
 
-Ale jen poznamenám, než půjdu dál, že můžeme říct, že jsou v zásadě dva typy přídavného podstatného jména, a to ty jako <code>綺麗/きれい</code>, které se vlastně jako obyčejná podstatná jména vůbec nepoužívají; jsou skoro úplně oddané tomu být přídavné: nemluvíme o něčí <code>きれい</code>. A pak jsou ty, které dál fungují jako samostatná podstatná jména, jako <code>元気</code>.
+Ale jen poznamenám, než půjdu dál, že můžeme říct, že jsou v zásadě dva typy přídavného podstatného jména, a to ty jako <code>[綺麗]{きれい}</code>, které se vlastně jako obyčejná podstatná jména vůbec nepoužívají; jsou skoro úplně oddané tomu být přídavné: nemluvíme o něčí <code>きれい</code>. A pak jsou ty, které dál fungují jako samostatná podstatná jména, jako <code>元気</code>.
 
 Takže můžeme říct <code>子どもが元気だ</code> — <code>to dítě je čilé</code>; můžeme říct <code>元気な子ども</code> — <code>čilé dítě</code>. Ale můžeme taky říct věci jako <code>元気を出して</code>, což volně přeloženo znamená <code>rozvesel se / hlavu vzhůru</code>, ale doslova přeloženo znamená <code>vytáhni ze sebe své 元気</code>.
 
 <code>元気</code> je tady věc: je označené částicí を, a logickou částici nemůžete dát na nic jiného než na podstatné jméno. Takže <code>元気</code>, i když je primárně přídavné a je zařazené jako přídavné podstatné jméno, funguje jako přídavné jméno i jako podstatné jméno.
 
-Teď, jestli podstatné jméno není zařazené jako přídavné podstatné jméno, můžeme ho stejně použít přídavně. Takže slovo <code>魔法/まほう</code>, které znamená <code>kouzlo/magie</code>, se dá použít jako podstatné jméno, stejně jako se dá v češtině.
+Teď, jestli podstatné jméno není zařazené jako přídavné podstatné jméno, můžeme ho stejně použít přídavně. Takže slovo <code>[魔法]{まほう}</code>, které znamená <code>kouzlo/magie</code>, se dá použít jako podstatné jméno, stejně jako se dá v češtině.
 
 Můžeme mluvit o magii jako o věci. Ale můžeme taky říct <code>魔法の帽子</code> — <code>kouzelný klobouk</code>.
 
 Není to přídavné podstatné jméno, ale jak vidíte, můžeme dosáhnout skoro stejného účinku prostě tím, že použijeme <code>の</code> místo <code>な</code>. Jsou taky některá slova, která můžou být buď の-, nebo な-přídavná.
 
-Dobrý příklad tohohle je <code>不思議/ふしぎ</code>, které znamená <code>záhada</code> nebo <code>div</code>. Má sklon se velmi často používat jako přídavné jméno jako v <code>不思議な屋敷/やしき</code> — <code>záhadné sídlo</code> – ale používá se taky docela často jako podstatné jméno.
+Dobrý příklad tohohle je <code>[不思議]{ふしぎ}</code>, které znamená <code>záhada</code> nebo <code>div</code>. Má sklon se velmi často používat jako přídavné jméno jako v <code>不思議な[屋敷]{やしき}</code> — <code>záhadné sídlo</code> – ale používá se taky docela často jako podstatné jméno.
 
 Můžeme mluvit o školních <code>七不思議</code> — což znamená doslova **sedm divů** nebo <code>sedm záhad</code> školy, a to, na co to obvykle odkazuje, jsou ve skutečnosti strašidelné historky spojené se školou, jako <code>トイレのはなこさん</code>, o které jste možná slyšeli — dívka, která straší na záchodě.
 
@@ -82,15 +82,15 @@ jsou méně běžná, ale existují <code>なる-přídavná jména</code> a <co
 
 ### なる
 
-Takže když vezmeme knihu, kterou má ráda má sestřička… jmenuje se <code>アリスとペンギん:華麗なる探偵</code>, což znamená <code>Alice a Penguin: Velkolepí detektivové</code>. Vlastně <code>華麗/かれい</code> je přídavné podstatné jméno, takže ho můžeme použít s <code>な</code>, ale v tomhle případě se autor rozhodl použít místo toho <code>なる</code>.
+Takže když vezmeme knihu, kterou má ráda má sestřička… jmenuje se <code>アリスとペンギン:華麗なる探偵</code>, což znamená <code>Alice a Penguin: Velkolepí detektivové</code>. Vlastně <code>[華麗]{かれい}</code> je přídavné podstatné jméno, takže ho můžeme použít s <code>な</code>, ale v tomhle případě se autor rozhodl použít místo toho <code>なる</code>.
 
 Co tady <code>なる</code> znamená? Je to to <code>なる</code>, které znamená <code>stát se</code>? Ne, není.
 
 Je to stažení <code>のある</code>. A jak jsem vysvětlil v jiném videu, <code>の</code> se dá použít místo <code>が</code> v přídavných výrazech.
 
-A vysvětlil jsem, proč to tak je, v tom druhém [**videu**](https://www.youtube.com/watch?v=wxX6poiuyAI&ab_channel=OrganicJapanesewithCureDolly). Takže <code>華麗なる探偵</code> znamená <code>華麗のある探偵</code>, což znamená <code>華麗がある探偵</code>, což znamená <code>detektivové vládnoucí **華麗/かれい**</code>. (dosl. 華麗-existuje detektivové)
+A vysvětlil jsem, proč to tak je, v tom druhém [**videu**](https://www.youtube.com/watch?v=wxX6poiuyAI&ab_channel=OrganicJapanesewithCureDolly). Takže <code>華麗なる探偵</code> znamená <code>華麗のある探偵</code>, což znamená <code>華麗がある探偵</code>, což znamená <code>detektivové vládnoucí **[華麗]{かれい}**</code>. (dosl. 華麗-existuje detektivové)
 
-Co je <code>華麗/かれい</code>? No, je to <code>nádhera</code> nebo <code>velkolepost</code>.
+Co je <code>[華麗]{かれい}</code>? No, je to <code>nádhera</code> nebo <code>velkolepost</code>.
 
 ::: info
 existuje [**nedávný komentář**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=UgzSIge_mK0a_8dz6s14AaABAg.9e0E5zhgA3t9fc3pGOOLln&ab_channel=OrganicJapanesewithCureDolly) od jistého Nihila, který podává nesmírně užitečný a podrobný rozbor toho, že tohle なる je zkratka za にある, a ne za のある. Z mého nahlédnutí do japonských slovníků jsem taky zjistil, že odkazuje na にある (z archaického なり) místo のある. Proto vřele doporučuju přečíst si Nihilovy komentáře pod [**videem**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=UgzSIge_mK0a_8dz6s14AaABAg.9e0E5zhgA3t9fc3pGOOLln&ab_channel=OrganicJapanesewithCureDolly). Bohužel, jelikož už tu Dolly není, možná úplně nepoznáme, co tu myslela, ale v komentářích sama přiznává, že nezjistila, co なる vlastně znamená (v plném tvaru). Samozřejmě, pro někoho to možná není ve velkém schématu chápání nic obrovského, ale myslím, že je dobré to vědět, a Nihilovy odpovědi jsou prostě neuvěřitelné, takže si zaslouží trochu uznání:)
@@ -134,13 +134,13 @@ A tohle funguje úplně stejně jako v češtině. Například v češtině mám
 
 V japonštině můžeme dělat přesně to samé. Takže máme <code>本棚</code> — <code>本</code> je <code>kniha</code>, <code>棚</code> je <code>police</code>: <code>本棚</code> je <code>knihovna</code> (police na knihy), úplně stejně, jako <code>voda</code> + <code>pád</code> dají <code>vodopád</code>.
 
-<code>海草</code> — <code>海/かい</code> je 音読み-čtení slova <code>海/うみ</code>, <code>moře</code>; <code>草/そう</code> je 音読み-čtení slova <code>草/くさ</code>, <code>tráva</code>, a dohromady tvoří <code>海草</code> — <code>mořská řasa</code>, protože <code>tráva</code> může znamenat jakýkoli druh rostlinstva, proto máme travové Pokémony.
+<code>海草</code> — <code>[海]{かい}</code> je 音読み-čtení slova <code>[海]{うみ}</code>, <code>moře</code>; <code>[草]{そう}</code> je 音読み-čtení slova <code>[草]{くさ}</code>, <code>tráva</code>, a dohromady tvoří <code>海草</code> — <code>mořská řasa</code>, protože <code>tráva</code> může znamenat jakýkoli druh rostlinstva, proto máme travové Pokémony.
 
-A tohle se děje i v případě kombinací, které v češtině neexistují, jako <code>指輪</code>. <code>指/ゆび</code> je <code>prst</code>, <code>輪/わ</code> je <code>kruh/kroužek</code>, takže <code>指輪</code> je prsten na prst (a všimněte si, že i české <code>prsten</code> je odvozeno od <code>prstu</code>).
+A tohle se děje i v případě kombinací, které v češtině neexistují, jako <code>指輪</code>. <code>[指]{ゆび}</code> je <code>prst</code>, <code>[輪]{わ}</code> je <code>kruh/kroužek</code>, takže <code>指輪</code> je prsten na prst (a všimněte si, že i české <code>prsten</code> je odvozeno od <code>prstu</code>).
 
 Nicméně můžeme vidět i větší kombinace, pro věci, které by v češtině byly spíš slovní spojení než slova. A znovu se to dělá přesně stejným způsobem, jak se to děje v češtině, takže by to opravdu nemělo být důvod ke znepokojení.
 
-Například máme <code>大学教育</code> — <code>大学</code> znamená <code>univerzita</code>; <code>教育</code> znamená <code>vzdělání</code> nebo <code>výcvik</code>. Takže <code>大学教育/だいがくきょういく</code> je <code>vysokoškolské vzdělání</code>.
+Například máme <code>大学教育</code> — <code>大学</code> znamená <code>univerzita</code>; <code>教育</code> znamená <code>vzdělání</code> nebo <code>výcvik</code>. Takže <code>[大学教育]{だいがくきょういく}</code> je <code>vysokoškolské vzdělání</code>.
 
 A jak vidíte, znovu to funguje úplně stejně jako v češtině. Nemusíme pokaždé říkat <code>vzdělání na univerzitě</code>; můžeme říct <code>univerzitní vzdělání</code>.
 

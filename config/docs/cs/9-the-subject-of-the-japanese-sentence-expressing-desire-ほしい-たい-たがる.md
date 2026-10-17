@@ -70,7 +70,7 @@ No, dejme tomu, že něco chceme. Řekněme <code>こねこがほしい</code>.
 
 ![](../media/image14.webp)
 
-<code>こねこ</code> je kotě: <code>こ/子</code> je dítě nebo malá věc a <code>ねこ</code> je kočka. A <code>ほしい</code> se do češtiny překládá jako <code>chtít</code>. Když se na to podíváte, první věc, kterou vidíte, je, že **to není sloveso. Je to přídavné jméno.** Končí na <code>い</code>, ne na <code>う</code>. A druhá věc, kterou vidíte, a ta je nejdůležitější, je, že **konatel téhle věty označený が nejsem já, kdo to kotě chce. Je to kotě, které je chtěné.**
+<code>こねこ</code> je kotě: <code>[子]{こ}</code> je dítě nebo malá věc a <code>ねこ</code> je kočka. A <code>ほしい</code> se do češtiny překládá jako <code>chtít</code>. Když se na to podíváte, první věc, kterou vidíte, je, že **to není sloveso. Je to přídavné jméno.** Končí na <code>い</code>, ne na <code>う</code>. A druhá věc, kterou vidíte, a ta je nejdůležitější, je, že **konatel téhle věty označený が nejsem já, kdo to kotě chce. Je to kotě, které je chtěné.**
 
 ![](../media/image519.webp)
 

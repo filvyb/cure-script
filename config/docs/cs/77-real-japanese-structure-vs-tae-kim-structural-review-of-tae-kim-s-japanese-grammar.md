@@ -180,5 +180,5 @@ A je to opravdu jen proto, že je tak důležitý a tak inteligentní, že jsem 
 ::: info
 Abych to zopakoval, tohle NENÍ Dolly, jak shazuje Tae-Kima-sensei nebo říká, že její způsob je nadřazený, protože jazyk není černobílý… Jen to srovnává Dollyho porozumění s Tae-Kimovým.  
 A je úplně v pořádku mít různé druhy myšlení o věcech v jazyce. Tohle se v lingvistice děje pořád. Není to myšleno tak, aby to způsobilo jakoukoli zlou krev nebo posměch.  
+*Všichni jsme různí a pro každého z nás funguje něco jiného, takže je v tom prospěch.*
 :::
-Všichni jsme různí a pro každého z nás funguje něco jiného, takže je v tom prospěch.*

@@ -1,4 +1,4 @@
-# **51. Jak číst japonský 怪談 / かいだん (strašidelný příběh)**
+# **51. Jak číst japonský [怪談]{かいだん} (strašidelný příběh)**
 
 [**Japonština v praxi: Jak číst japonský kaidan (strašidelný příběh) | Lekce 51**](https://www.youtube.com/watch?v=uO1rHcwjADA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=53&pp=iAQB)
 
@@ -55,11 +55,11 @@ Teď, jak vidíte, mezi <code>それは</code> a <code>日</code> přichází ú
 
 Takže <code>ある女の子が先輩のアパートで行われた飲み会に参加した</code>
 
-\*\*\* Je to rozvíjecí mánie! \*\*\*
+***Je to rozvíjecí mánie!***
 
 ![](../media/image142.webp)
 
-Takže tuhle větu, znovu, můžeme rozebrat na její vagon A, což je očividně <code>女の子が</code>, a její lokomotivu, což je <code>した</code> — <code>udělala</code>. A pak <code>参加した</code> — <code>'参加 udělala</code> — <code>zúčastnila se</code>.
+Takže tuhle větu, znovu, můžeme rozebrat na její vagon A, což je očividně <code>女の子が</code>, a její lokomotivu, což je <code>した</code> — <code>udělala</code>. A pak <code>参加した</code> — „<code>参加</code> udělala“ — „zúčastnila se“.
 
 A pak celý zbytek téhle věty jsou postupně se rozvíjející prvky, které rozvíjejí <code>参加した</code>: <code>先輩のアパートで行われた飲み会</code>. Takže <code>飲み会</code> je <code>pitka / popíjecí sešlost</code>.
 

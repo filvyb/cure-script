@@ -12,7 +12,7 @@ Takže se podíváme na **<code>らしい</code>, což je pomocné přídavné j
 
 ![](../media/image117.webp)
 
-Všechna skutečná přídavná jména, jak víte, končí na -い. Takzvaná přídavná jména, která nekončí na -い, jsou ve skutečnosti přídavná podstatná jména. *(jako きれい/綺麗)* Ale skupina těch přídavných jmen končících na い končí na -しい. *(asi některá z těch <code>skutečných</code> příd. jmen)* Jak vidíte, **pořád to končí na -い, ale má to taky -し, takže je to -しい.** A charakteristikou téhle skupiny přídavných jmen je, že **celkově vzato vyjadřují subjektivity.** To jest **ne přesné měřitelné vlastnosti, ale věci, které do jisté míry závisejí na dojmu lidských nebo jiných cítících bytostí z nich.** Takže například <code>かな/悲しい</code> je <code>smutný</code>; <code>うれ/嬉しい</code> je <code>šťastný</code>. <code>むずか/難しい</code> znamená <code>těžký</code>, a ačkoli se to zdá poněkud objektivnější než <code>嬉しい</code> a <code>悲しい</code>, **pořád je to svým způsobem subjektivita, protože obtížnost je relativní vůči konkrétním jedincům.**
+Všechna skutečná přídavná jména, jak víte, končí na -い. Takzvaná přídavná jména, která nekončí na -い, jsou ve skutečnosti přídavná podstatná jména. *(jako [綺麗]{きれい})* Ale skupina těch přídavných jmen končících na い končí na -しい. *(asi některá z těch <code>skutečných</code> příd. jmen)* Jak vidíte, **pořád to končí na -い, ale má to taky -し, takže je to -しい.** A charakteristikou téhle skupiny přídavných jmen je, že **celkově vzato vyjadřují subjektivity.** To jest **ne přesné měřitelné vlastnosti, ale věci, které do jisté míry závisejí na dojmu lidských nebo jiných cítících bytostí z nich.** Takže například <code>[悲]{かな}しい</code> je <code>smutný</code>; <code>[嬉]{うれ}しい</code> je <code>šťastný</code>. <code>[難]{むずか}しい</code> znamená <code>těžký</code>, a ačkoli se to zdá poněkud objektivnější než <code>嬉しい</code> a <code>悲しい</code>, **pořád je to svým způsobem subjektivita, protože obtížnost je relativní vůči konkrétním jedincům.**
 
 ![](../media/image553.webp)
 
@@ -112,10 +112,10 @@ Vlastně v češtině bychom mohli říct, že <code>子ども**らしい**</cod
 Může být trochu záludné říct, které části překladu mám zvýraznit, aby odpovídaly tomu, co Dolly uvádí v 日本語, ale snad to pomáhá, snažím se to odvodit, jak nejlíp dovedu (p^-^)p
 **Každopádně odteď tahle podtržení nebudu používat až zhruba do Lekce 78.**
 
-**Pozdější lekce je budou mít zase, tyhle mezilekce je nemají, protože jsem tehdy používal jen tučné a podtržení jsem přidal až později, proto na nich zatím čáry nejsou.****
+**Pozdější lekce je budou mít zase, tyhle mezilekce je nemají, protože jsem tehdy používal jen tučné a podtržení jsem přidal až později, proto na nich zatím čáry nejsou.**
 
 **Taky lekce odteď až do 64 patří mezi první, které jsem upravoval, a poznámky v nich jsem ještě nezkontroloval, takže to mějte na paměti a berte je jako obvykle s rezervou, pro jistotu, protože má japonština je pořád velmi omezená a nedostal jsem na ně žádnou zpětnou vazbu od profesionálnějších / pokročilejších lidí.**
-**Důvodem je taky to, že jsem si nebyl (a tak trochu pořád nejsem) úplně jistý, jestli je mám, nebo nemám používat (Yomichan nechce pořádně naskenovat různě stylované části, 10ten ale ano…)
+**Důvodem je taky to, že jsem si nebyl (a tak trochu pořád nejsem) úplně jistý, jestli je mám, nebo nemám používat (Yomichan nechce pořádně naskenovat různě stylované části, 10ten ale ano…)**
 
 Zabralo spoustu času a práce podtrhat důležité části, takže se k tomu možná později vrátím, abych to aspoň sjednotil.
 Pokud můžete, dejte mi prosím vědět přes Discord nebo e-mail, jestli preferujete podtržené důležité části, nebo prostě nepodtržený text, protože někdy může být množství <code>důležitých věcí</code> trochu hůř čitelné, když je všechno podtržené. S tučným to bylo ještě horší, proto jsem ho přestal používat a převedl.

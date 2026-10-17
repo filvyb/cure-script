@@ -8,7 +8,7 @@ Teď se pojďme pustit do příběhu, který, jak věřím, všichni známe.
 
 `ある日アリスは川のそばにいた.`
 
-Tohle je jednoduchá věta. Slovo `川/かわ` znamená `řeka`, a **`そば` znamená `vedle` a je to podstatné jméno.**
+Tohle je jednoduchá věta. Slovo <code>[川]{かわ}</code> znamená `řeka`, a **`そば` znamená `vedle` a je to podstatné jméno.**
 
 ![](../media/image937.webp)
 
@@ -44,7 +44,7 @@ Takže proč to všechno děláme? Pojďme se podívat. `おねえちゃんは�
 
 ![](../media/image451.webp)
 
-**A když tu závěrečnou う-lokomotivu změníme na て-formu, říkáme, že po tomhle větném celku bude něco následovat.** **Naznačujeme, že tvoříme souvětí složené z více než jednoho větného celku.** Takže je to jako říct `Starší sestra četla nudnou knihu **a…**` A to něco dalšího přichází: `あそんでくれなかった`.
+**A když tu závěrečnou う-lokomotivu změníme na て-formu, říkáme, že po tomhle větném celku bude něco následovat.** **Naznačujeme, že tvoříme souvětí složené z více než jednoho větného celku.** Takže je to jako říct <code>Starší sestra četla nudnou knihu **a…**</code> A to něco dalšího přichází: `あそんでくれなかった`.
 
 ![](../media/image1113.webp)
 
@@ -68,7 +68,7 @@ No, není to ta kniha. Vlastně to není žádný skutečný předmět. **Dává
 
 Co tím myslíme? **No, `くれる` říkáme nejen pro dávání věci – knihy, dárku, bonbonu – říkáme ho také pro dávání děje, pro to, že něco děláme v náš prospěch.** **Tohle se v japonštině používá velmi, velmi často, takže je důležité tomu porozumět.** Když pro náš prospěch někdo něco udělá, dáme ten děj do て-formy a přidáme `くれる`. **Když něco uděláme pro prospěch někoho jiného, dáme ten děj do te-formy a přidáme `あげる`, což znamená `dávat směrem nahoru`, jinými slovy dávat tobě, dávat jiné osobě.**
 
-`くれる` a `あげる` – dát dolů mně nebo mé skupině / `**あげる**` **dát nahoru tobě nebo někomu jinému nebo tvé skupině nebo jejich skupině.**
+`くれる` a `あげる` – dát dolů mně nebo mé skupině / <code>**あげる**</code> **dát nahoru tobě nebo někomu jinému nebo tvé skupině nebo jejich skupině.**
 
 Tak co je tahle druhá část věty? Je to `あそんでくれなかった` – „nehrála si / nedala Alence hraní si / nehrála si pro Alenčin prospěch“.
 

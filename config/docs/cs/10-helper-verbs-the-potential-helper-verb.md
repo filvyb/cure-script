@@ -45,7 +45,7 @@ Dolly tu ZŘEJMĚ udělá chybu, když 聞こえる označí jako „cizí pohyb
 
 ![](../media/image1089.webp)
 
-A **tohle je zajímavé slovo, protože také znamená <code>vyjít</code>** – doslova je složené z kandži <code>ven</code> a <code>přijít</code> – <code>出来る/できる</code>, 出る (vyjít) 来る (přijít).
+A **tohle je zajímavé slovo, protože také znamená <code>vyjít</code>** – doslova je složené z kandži <code>ven</code> a <code>přijít</code> – <code>[出]{で}きる</code>, 出る (vyjít) 来る (přijít).
 
 ![](../media/image656.webp)
 
@@ -55,7 +55,7 @@ A když řekneme <code>にほんごが**できる**</code>, neříkáme <code>Um
 
 A když řekneme nebo naznačíme <code>わたしはにほんごが**できる**</code>, říkáme <code>Pro mě je japonština **možná**</code>.
 
-:::info
+::: info
 *(Dolly uvádí <code>dělá možnou</code>, aby naznačila, že je to A dělá B; ne A je B.)*
 :::
 
@@ -144,7 +144,7 @@ Takže: <code>あるける</code> – umím chodit; <code>あるけない</code>
 A je to opravdu tak snadné.
 
 ::: info
-Dost mě to zmátlo, protože jsem si 出来る/できる vyhledal na Jisho a tam vlastně ukazují, že má potenciální tvar <code>できられる</code>, což je zajímavé, protože できる už by potenciální tvar mělo implikovat. Vyhledal jsem nějaká [**japonská fóra**](https://ja.hinative.com/questions/6326424) (a další) a zdá se, že i Japoncům?? přišlo できられる divné. Nebo by to mohl být zdvořilostní tvar?… Opravte mě, jestli se pletu…
+Dost mě to zmátlo, protože jsem si [出]{で}きる vyhledal na Jisho a tam vlastně ukazují, že má potenciální tvar <code>できられる</code>, což je zajímavé, protože できる už by potenciální tvar mělo implikovat. Vyhledal jsem nějaká [**japonská fóra**](https://ja.hinative.com/questions/6326424) (a další) a zdá se, že i Japoncům?? přišlo できられる divné. Nebo by to mohl být zdvořilostní tvar?… Opravte mě, jestli se pletu…
 Např. 分かる taky nemá potenciální tvar, protože ho implikuje. [**Dolly vysvětluje**](https://japanese.stackexchange.com/questions/5988/why-doesnt-%e5%88%86%e3%81%8b%e3%82%8b-have-a-potential-form/48809#48809), že <code>分かれる</code> je jiné slovo.
 :::
 

@@ -71,9 +71,10 @@ Takže potom máme: <code>...料理をみんなに教えてもらう</code> Teď
 
 <code>選手</code> jsou označení pomocí が, ale víme, že nejsou podmětem věty; jen pomáhají rozvíjet <code>料理</code>.
 
-![](../media/image1076.webp)  
 ::: info
 Jen to dáme sem… odkaz je na lekci 47. Podívejte se taky na lekci 46.
+
+![](../media/image1076.webp)
 :::
 <code>料理</code> nemůže být podmět věty, protože je označeno pomocí を, ne が.
 

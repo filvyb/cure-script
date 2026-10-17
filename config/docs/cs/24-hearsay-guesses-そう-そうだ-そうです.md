@@ -60,7 +60,7 @@ Teď, **u slovesa odřízneme kanu z う-řádku.** Očividně, jako vždy, v p�
 
 ![](../media/image264.webp)
 
-A い-kmen je to, čemu byste mohli říkat čistý kmen slovesa. V japonštině se mu říká **<code>れんようけい/renjókei</code>, což znamená <code>spojovací tvar</code>.** A to může znít divně, protože víme, že všechny čtyři kmeny vlastně něco spojují, ale zatímco ostatní tři mají určitá použití, **<code>れんようけい/renjókei</code>, い-kmen, kromě svých určitých použití,** **lze použít ke spojení téměř čehokoli.** **Může spojovat slovesa s podstatnými jmény, aby vytvořil nová podstatná jména;** **může spojovat slovesa se slovesy, aby vytvořil nová slovesa; a tak dál.**
+A い-kmen je to, čemu byste mohli říkat čistý kmen slovesa. V japonštině se mu říká **<code>[連用形]{れんようけい}</code> (renjókei), což znamená <code>spojovací tvar</code>.** A to může znít divně, protože víme, že všechny čtyři kmeny vlastně něco spojují, ale zatímco ostatní tři mají určitá použití, **<code>[連用形]{れんようけい}</code> (renjókei), い-kmen, kromě svých určitých použití,** **lze použít ke spojení téměř čehokoli.** **Může spojovat slovesa s podstatnými jmény, aby vytvořil nová podstatná jména;** **může spojovat slovesa se slovesy, aby vytvořil nová slovesa; a tak dál.**
 
 ---
 

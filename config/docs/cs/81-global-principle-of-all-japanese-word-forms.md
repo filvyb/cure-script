@@ -12,10 +12,9 @@ To, o čem budeme mluvit, začíná něčím, co už znáte, a to je systém kme
 
 ::: info
 Jak víte, neberte to jako definitivní tvrzení, je to jen způsob, jak se vyhnout některým asociacím, které pramení ze slova <code>časování</code> ve smyslu evropských jazyků, protože v japonštině jistá forma časování existuje, jak je uvedeno v citaci screenshotu poznámky z Lekce 7.5 z Dollyiny knihy.
-***Slovesa jen provedou malou změnu jedné koncové kany,*
 :::
 
-**mění ji z kany řádku う na jeden ze čtyř ostatních řádků.**
+**Slovesa jen provedou malou změnu jedné koncové kany, mění ji z kany řádku う na jeden ze čtyř ostatních řádků.**
 
 **A pak připojujeme různé druhy pomocníků — pomocná podstatná jména, pomocná slovesa, pomocná přídavná jména.**
 
@@ -149,7 +148,7 @@ takže k ní obvykle něco přidáváme.
 
 **Můžeme přidat malé っ, čímž vznikne kmen だ~**, *(myslím, že ~ tu znamená っ = だっ)* **ke kterému pak lze přidat minulostního pomocníka -た a vytvořit <code>だった</code>.** Můžeme přidat -ろ, takže k němu lze přidat volativního pomocníka a vytvořit <code>だろう</code>.
 
-**A v て-tvaru se mění samotné だ — to だ má samozřejmě jen jednu kanu, je tedy poslední kanou — ** **a to se může změnit na <code>で</code>, čímž vznikne て-tvar.** Je to o trochu méně pravidelné než ostatní, ale to je vlastně proto, že **spona je jen jedna**, takže nemá spoustu jiných věcí ve stejné skupině, se kterými by byla pravidelná.
+**A v て-tvaru se mění samotné だ — to だ má samozřejmě jen jednu kanu, je tedy poslední kanou —** **a to se může změnit na <code>で</code>, čímž vznikne て-tvar.** Je to o trochu méně pravidelné než ostatní, ale to je vlastně proto, že **spona je jen jedna**, takže nemá spoustu jiných věcí ve stejné skupině, se kterými by byla pravidelná.
 
 ## Shrnutí
 
@@ -167,4 +166,6 @@ Takže to je celková struktura japonštiny.
 
 Když to pochopíme, celá věc se stane mnohem snazší na představení i na zacházení.
 
+::: info
 ![](../media/image1053.webp)
+:::

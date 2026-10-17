@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Dnes si budeme povídat o časech. Až dosud jsme používali jen jeden čas, a to ten, který představuje prostý slovníkový tvar sloves: 食べる/たべる – jíst; 歩く/あるく – chodit, a tak dál. Abychom mluvili přirozeně znějící japonštinou, potřebujeme tři časy. Mohli byste si myslet, že to budou minulý, přítomný a budoucí, ale ve skutečnosti to tak není.
+Dnes si budeme povídat o časech. Až dosud jsme používali jen jeden čas, a to ten, který představuje prostý slovníkový tvar sloves: [食]{た}べる – jíst; [歩]{ある}く – chodit, a tak dál. Abychom mluvili přirozeně znějící japonštinou, potřebujeme tři časy. Mohli byste si myslet, že to budou minulý, přítomný a budoucí, ale ve skutečnosti to tak není.
 
 ## Neminulý čas
 
@@ -40,11 +40,11 @@ Teď si všimněme, že ve větě jako <code>いぬがたべている</code> má
 
 Jádro této věty je tedy <code>いぬがいる</code> – <code>pes je</code>. Ale pes jen neexistuje – pes něco dělá. A ta bílá lokomotiva nám říká, co dělá. <code>Žere</code>. A s touto strukturou bílé lokomotivy se budeme setkávat znovu a znovu, jak pronikneme do japonštiny hlouběji.
 
-A stejně jako v angličtině neřekneme <code>the dog is eat</code>, používáme zvláštní tvar slovesa, který jde dohromady se slovesem bytí. V angličtině řekneme <code>is walking</code>, <code>is eating</code> (čeština má podobný tvar v přídavných jménech slovesných: <code>jdoucí</code>, <code>jedoucí</code>). V japonštině řekneme <code>食べている/たべている</code>, <code>歩いている/あるいている</code>.
+A stejně jako v angličtině neřekneme <code>the dog is eat</code>, používáme zvláštní tvar slovesa, který jde dohromady se slovesem bytí. V angličtině řekneme <code>is walking</code>, <code>is eating</code> (čeština má podobný tvar v přídavných jménech slovesných: <code>jdoucí</code>, <code>jedoucí</code>). V japonštině řekneme <code>[食]{た}べている</code>, <code>[歩]{ある}いている</code>.
 
 ---
 
-A jak vytvoříme tuhle <code>て-formu</code>, což je tvar, který používáme k vytvoření průběhového přítomného času? U slova jako <code>食べる/たべる</code> je to opravdu velmi snadné. Stačí jen odebrat <code>る</code> a na jeho místo dát <code>て</code>. たべる se změní na たべて.
+A jak vytvoříme tuhle <code>て-formu</code>, což je tvar, který používáme k vytvoření průběhového přítomného času? U slova jako <code>[食]{た}べる</code> je to opravdu velmi snadné. Stačí jen odebrat <code>る</code> a na jeho místo dát <code>て</code>. たべる se změní na たべて.
 
 Špatná zpráva je, že u jiných sloves máme trochu odlišné způsoby, jak <code>て</code> připojit. Kromě prostého tvaru na る existují další čtyři způsoby. Učebnice řeknou pět, ale ve skutečnosti jsou dva z nich tak podobné, že je můžeme brát jako čtyři. A natočila jsem video přesně o tom, jaké tyhle způsoby jsou.<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup> A je to mnohem jednodušší než většina výkladů.
 
@@ -56,7 +56,7 @@ Jak tedy věci dáme do minulého času? Naštěstí je to opravdu velmi snadné
 
 Existují různé způsoby, jak <code>た</code> připojit k různým druhům sloves, ke slovesům s různými koncovkami, ale dobrá zpráva tady je, že jsou přesně stejné jako způsoby, jakými připojujete <code>て</code>. Takže jakmile jste se naučili způsoby, jak se připojuje <code>て</code>, naučili jste se i způsoby, jak se připojuje <code>た</code>. Takže když zhlédnete to video o て-formě **<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>**, zvládnete jak průběhový přítomný čas, tak minulý.
 
-A je tu ještě jedna věc o časových výrazech, kterou je užitečné se teď naučit. Pokud chceme dát jasně najevo, že když řekneme <code>私はケーキを食べる</code>, mluvíme o budoucím ději, můžeme říct <code>明日/あした</code> (což znamená <code>zítra</code>) <code>あしたケーキを食べる</code>. To je všechno, co musíme udělat.
+A je tu ještě jedna věc o časových výrazech, kterou je užitečné se teď naučit. Pokud chceme dát jasně najevo, že když řekneme <code>私はケーキを食べる</code>, mluvíme o budoucím ději, můžeme říct <code>[明日]{あした}</code> (což znamená <code>zítra</code>) <code>あしたケーキを食べる</code>. To je všechno, co musíme udělat.
 
 ## Časové výrazy
 
@@ -75,7 +75,7 @@ A se všemi takovými relativními časovými výrazy: včera, minulý týden, p
 
 Když ale máme <code>absolutní časový výraz</code>, výraz, který není relativní vůči přítomnosti, jako úterý nebo šest hodin, pak **musíme použít <code>に</code>**.
 
-Úterý je <code>火曜日/かようび</code> a můžeme říct <code>かようびに *(zeroが)* ケーキをたべる</code> – <code>V úterý (si) dám dort.</code>
+Úterý je <code>[火曜日]{かようび}</code> a můžeme říct <code>かようびに *(zeroが)* ケーキをたべる</code> – <code>V úterý (si) dám dort.</code>
 
 ![](../media/image441.webp)
 

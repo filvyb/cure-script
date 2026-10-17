@@ -44,7 +44,7 @@ Je to velmi podobné tomu, co bychom mohli říct česky: mohli bychom říct <c
 
 Má tenhle záporný důraz, protože klademe všechen důraz na to, co nemám, ne na to, co mám. A to je v tomhle kontextu rozdíl mezi <code>だけ</code> a <code>しか… ない</code>.
 
-A <code>しか… ない</code> se dá taky použít za okolností jako <code>にげるしかない</code>. <code>にげる/*逃げる*</code> je <code>utéct</code> nebo <code>uniknout</code>; když řekneme <code>にげるしかない</code>, říkáme <code>Nezbývá nic jiného než utéct / Není jiná možnost než utéct.</code>
+A <code>しか… ない</code> se dá taky použít za okolností jako <code>にげるしかない</code>. <code>[逃]{に}げる</code> je <code>utéct</code> nebo <code>uniknout</code>; když řekneme <code>にげるしかない</code>, říkáme <code>Nezbývá nic jiného než utéct / Není jiná možnost než utéct.</code>
 
 Takže stejně jako <code>千円しかない</code> znamená, že (já) nemám víc než tisíc jenů, <code>にげるしかない</code> znamená, že nemůžeme dělat nic jiného než — nebo víc než — utéct. Takže teď se vraťme k některým dalším použitím <code>だけ</code>.
 
@@ -56,10 +56,10 @@ Je tohle úplně jiný druh <code>だけ</code>? Ne, je to přesně to samé. <c
 
 <code>できるだけ勉強します</code> — <code>Budu se učit, jestli budu moct</code> nebo <code>Budu se učit, co nejvíc budu moct</code> / <code>k mezi možnosti se budu učit.</code>
 
-![](../media/image837.webp)
-
 ::: info
 Kdyby snad někdo přemýšlel…
+
+![](../media/image837.webp)
 :::
 
 Další použití, které rozhodně dost často uvidíte, je <code>だけあって</code>. Teď tohle <code>あって</code> je <code>ある</code> — <code>být</code>. A často se nám říká, že to znamená něco jako <code>ne nadarmo</code>.

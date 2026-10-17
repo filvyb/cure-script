@@ -140,7 +140,9 @@ Jméno Hanako jsem v druhé příkladové větě dal do katakany.
 
 **<code>恥ずかしくなったハナコ</code> — Neříkáme <code>Hanako se zastyděla</code>, říkáme <code>Zastyděná Hanako</code>.**
 ::: info
-Nebo asi <code>Hanako, **která se zastyděla**…</code>* ![](../media/image925.webp)
+Nebo asi <code>Hanako, **která se zastyděla**…</code>
+
+![](../media/image925.webp)
 :::
 ::: info
 Promiňte za to špatné přiblížení, byl jsem zase <code>Youtubnut</code>. Tento druh modifikace lze do češtiny v podstatě přeložit jako jakousi vztažnou větu. Odkaz od Dolly odkazuje na Lekci 46.
@@ -167,8 +169,9 @@ No, na tom vlastně nezáleží, protože jejich publikum jsou v zásadě Japonc
 Ta vaše, na druhou stranu, je nejlépe udržována na přímé a úzké cestě přímočaré analýzy podmět-přísudek. Děkuji vám za sledování této lekce…
 
 ::: info
-Tohle je zajímavé, i když těžké na čtení, viz to* [**zde**](https://www.youtube.com/watch?v=CEgGnitwXGA&lc=UgxdWaF1pzid_StWEB14AaABAg&ab_channel=OrganicJapanesewithCureDolly)*. Doporučuji přečíst si všechny komentáře.
-:::
+Tohle je zajímavé, i když těžké na čtení, viz to [**zde**](https://www.youtube.com/watch?v=CEgGnitwXGA&lc=UgxdWaF1pzid_StWEB14AaABAg&ab_channel=OrganicJapanesewithCureDolly). Doporučuji přečíst si všechny komentáře.
+
 ![](../media/image212.webp)
 
 ![](../media/image764.webp)
+:::

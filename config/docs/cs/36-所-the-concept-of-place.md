@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Dnes si budeme povídat o pojmu <code>místo</code> v každodenní japonštině, protože tohle je něco, co lidi často mate, a viděl jsem, jak to dělají špatně i docela dobří amatérští překladatelé. Slovo pro <code>místo</code> v japonštině je samozřejmě <code>所/ところ</code>, a to se učíme od dost raných začátků.
+Dnes si budeme povídat o pojmu <code>místo</code> v každodenní japonštině, protože tohle je něco, co lidi často mate, a viděl jsem, jak to dělají špatně i docela dobří amatérští překladatelé. Slovo pro <code>místo</code> v japonštině je samozřejmě <code>[所]{ところ}</code>, a to se učíme od dost raných začátků.
 
 Znamená doslovné místo a rychle na sebe bere trochu metaforická použití. Například můžeme říct <code>私のところ</code>, což znamená „můj byt nebo dům / místo, kde bydlím". <code>Přijď se ke mně zastavit.</code>
 

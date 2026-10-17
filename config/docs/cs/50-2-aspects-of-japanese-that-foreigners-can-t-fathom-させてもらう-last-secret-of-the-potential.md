@@ -70,11 +70,11 @@ Pamatujte, *struktura nás neučí, jak rozumět japonštině.* **Dává nám z�
 
 ---
 
-A jen dodám, než půjdeme… Neučím v tomhle bodě 敬語/けいご. 敬語 je hyper-zdvořilá japonština, což je skoro takový malý vlastní podjazyk. Není to tak těžké, ale zabere pár lekcí, než se do toho půjde.
+A jen dodám, než půjdeme… Neučím v tomhle bodě [敬語]{けいご}. 敬語 je hyper-zdvořilá japonština, což je skoro takový malý vlastní podjazyk. Není to tak těžké, ale zabere pár lekcí, než se do toho půjde.
 
-Ale chci tu zmínit, že existuje 敬語 slovo pro <code>もらう</code>. A to je <code>頂く/いただく</code>. Protože je hyper-zdvořilé, obvykle se používá v ます-formě, takže je to obvykle <code>いただきます</code>. A nepochybně to budete znát jako tu věc, kterou lidé říkají, než se najedí: <code>いただきます!</code>
+Ale chci tu zmínit, že existuje 敬語 slovo pro <code>もらう</code>. A to je <code>[頂]{いただ}く</code>. Protože je hyper-zdvořilé, obvykle se používá v ます-formě, takže je to obvykle <code>いただきます</code>. A nepochybně to budete znát jako tu věc, kterou lidé říkají, než se najedí: <code>いただきます!</code>
 
-Ale to, co to doslova znamená, je něco jako <code>pokorně přijímám</code>. Očividně to znamená <code>přijímám</code>, protože <code>いただく</code> znamená <code>もらう</code>, ale je to forma 敬語 zvaná <code>謙譲語/けんじょうご</code> neboli <code>skromný (pokorný) jazyk</code>, takže říkáte <code>pokorně přijímám</code>. A zmiňuju to v tomhle bodě, protože pravděpodobně uvidíte některé z těchhle tvarů typu <code>させてもらう</code> používané s <code>いただく</code>: <code>させていただきます</code> atd.
+Ale to, co to doslova znamená, je něco jako <code>pokorně přijímám</code>. Očividně to znamená <code>přijímám</code>, protože <code>いただく</code> znamená <code>もらう</code>, ale je to forma 敬語 zvaná <code>[謙譲語]{けんじょうご}</code> neboli <code>skromný (pokorný) jazyk</code>, takže říkáte <code>pokorně přijímám</code>. A zmiňuju to v tomhle bodě, protože pravděpodobně uvidíte některé z těchhle tvarů typu <code>させてもらう</code> používané s <code>いただく</code>: <code>させていただきます</code> atd.
 
 A tenhle kousek 敬語 se může používat o trošku častěji než běžné 敬語, protože přidává zdvořilost pojmu <code>もらう</code>.
 

@@ -71,7 +71,7 @@ Ale spousta lidí mě požádala, abych vysvětlila výrazy jako <code>どうい
 
 ![](../media/image949.webp)
 
-<code>言う/いう</code> a <code>こと</code> jaksi patří k sobě, protože <code>こと</code> je situace, okolnost, jaksi něco, co ve skutečnosti vyžaduje trochu vysvětlení. A myšlenka vysvětlení, myšlenka vyjádření a myšlenka <code>こと</code>, myslím, byly v japonštině vždycky velmi blízké.
+<code>[言]{い}う</code> a <code>こと</code> jaksi patří k sobě, protože <code>こと</code> je situace, okolnost, jaksi něco, co ve skutečnosti vyžaduje trochu vysvětlení. A myšlenka vysvětlení, myšlenka vyjádření a myšlenka <code>こと</code>, myslím, byly v japonštině vždycky velmi blízké.
 
 Proto kun-čtení kandži, které používáme v <code>言う</code>, to druhé kun-čtení, to, když je to podstatné jméno, je <code>こと</code>.
 ::: info

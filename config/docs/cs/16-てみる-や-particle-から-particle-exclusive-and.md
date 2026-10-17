@@ -66,7 +66,7 @@ Takže <code> *(zeroが)*  まわりをゆっくり見まわせた</code> znamen
 
 mohla v klidu <code>見まわす</code>
 
-Co znamená <code>見まわす</code>? Víme, co znamená <code>まわす</code> – znamená <code>nechat (něco) obíhat</code>. <code>**見**まわす</code> **je připojení <code>まわす</code> k い-kmeni <code>見る</code>.** Vlastně nepoznáme, že je to い-kmen, protože je to sloveso ičidan a všechny kmeny ičidan vypadají stejně, jak víme, **ale víme, že tohle je vlastně れんようけい/renjókei, い-kmen, protože to je ten, který se používá k připojování sloves k jiným slovesům.**
+Co znamená <code>見まわす</code>? Víme, co znamená <code>まわす</code> – znamená <code>nechat (něco) obíhat</code>. <code>**見**まわす</code> **je připojení <code>まわす</code> k い-kmeni <code>見る</code>.** Vlastně nepoznáme, že je to い-kmen, protože je to sloveso ičidan a všechny kmeny ičidan vypadají stejně, jak víme, **ale víme, že tohle je vlastně [連用形]{れんようけい} (renjókei), い-kmen, protože to je ten, který se používá k připojování sloves k jiným slovesům.**
 
 ---
 
@@ -157,7 +157,7 @@ Zatímco -ない, jakožto jeho záporný tvar, je dost přídavnojmenné ([**vi
 
 ![](../media/image827.webp)
 
-<code>その後、穴のまわりを見て</code> Takže teď se nedívá dolů. To znamená <code>okolí</code>, znovu, <code>まわり/***周り***</code>, nory, <code>をみて</code> – <code>potom se podívala na okolí nory</code>.
+<code>その後、穴のまわりを見て</code> Takže teď se nedívá dolů. To znamená <code>okolí</code>, znovu, <code>[周]{まわ}り</code>, nory, <code>をみて</code> – <code>potom se podívala na okolí nory</code>.
 
 ![](../media/image1142.webp)
 

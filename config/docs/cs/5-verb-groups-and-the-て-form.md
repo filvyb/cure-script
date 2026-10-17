@@ -40,7 +40,7 @@ Teď, když známe ty tři skupiny, podíváme se na to, jak je převedeme do -�
 
 A jak jsem ukázala minulý týden, slovesa ičidan jsou vždycky velmi snadná. **Nikdy neuděláte nic jiného, než že odeberete -る a připojíte cokoli, co se chystáte připojit, v tomto případě て nebo た.**
 
-Co se týče sloves godan, ta spadají do pěti skupin, jak byste čekali (五段/ごだん, pětiúrovňová slovesa), a před časem jsem o tom natočila video. Takže teď to video pustím, protože věci vysvětluje docela jasně.
+Co se týče sloves godan, ta spadají do pěti skupin, jak byste čekali ([五段]{ごだん}, pětiúrovňová slovesa), a před časem jsem o tom natočila video. Takže teď to video pustím, protože věci vysvětluje docela jasně.
 
 Dobře, spusťte video.
 

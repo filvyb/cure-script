@@ -24,7 +24,7 @@ Doslova <code>まるで</code> znamená <code>okrouhle</code>.
 
 ![](../media/image137.webp)
 
-<code>まる/丸</code> znamená <code>kruh</code> nebo <code>kolo</code>, takže když řekneme <code>まるで</code>, myslíme <code>okrouhle/úplně/zcela</code>. A tohle je hyperbola, která je společná mnoha jazykům, jistě včetně češtiny. Mohli bychom říct česky <code>Ten zápasník je přesně jako hora.</code>
+<code>[丸]{まる}</code> znamená <code>kruh</code> nebo <code>kolo</code>, takže když řekneme <code>まるで</code>, myslíme <code>okrouhle/úplně/zcela</code>. A tohle je hyperbola, která je společná mnoha jazykům, jistě včetně češtiny. Mohli bychom říct česky <code>Ten zápasník je přesně jako hora.</code>
 
 Mohli bychom dokonce říct <code>Doslova jsem umrzl.</code> Teď, to je opak toho, co opravdu myslíme: nemyslíme tím, že jsme <code>doslova</code> umrzli, myslíme tím, že jsme obrazně umrzli. V doslovné realitě se zdá, že jsme pořád naživu. Nemyslíme tím, že ten zápasník je <code>přesně</code> jako hora.
 

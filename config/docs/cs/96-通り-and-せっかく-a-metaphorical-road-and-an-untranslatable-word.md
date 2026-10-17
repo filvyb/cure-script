@@ -53,7 +53,7 @@ Teď, [**natočila jsem video**](https://www.youtube.com/watch?v=6Kh1AJx77Ng) p�
 
 **A řekla jsem tehdy, že jich ve skutečnosti je víc.** Nezaváděla jsem je, protože nejsou všechna tak běžná, a tohle *(覧る)* také není běžný způsob psaní <code>見る</code>.
 
-Ale se svým on-čtením <code>らん</code> se používá, a **<code>ごらん / ご覧</code> je zdvořilostní způsob, jak říct <code>akt dívání se nebo vidění</code>.**
+Ale se svým on-čtením <code>らん</code> se používá, a **<code>ご[覧]{らん}</code> je zdvořilostní způsob, jak říct <code>akt dívání se nebo vidění</code>.**
 
 **Takže <code>ご覧の通り</code>, dost jako <code>その通り</code>**, znamená **<code>jak vidíte / podél linií vašeho vidění je správné</code>,** stejně jako podél linií vašeho rčení nebo přemýšlení je správné.
 
@@ -61,7 +61,7 @@ Ale se svým on-čtením <code>らん</code> se používá, a **<code>ごらん 
 
 ### 思い通り
 
-**Další výraz s <code>通り</code> je <code>おもいどおり / 思い通り</code>.**
+**Další výraz s <code>通り</code> je <code>[思]{おも}い[通]{どお}り</code>.**
 
 ![](../media/image291.webp)
 
@@ -142,4 +142,3 @@ Ta smutnost, ta pomíjivost, ta <code>儚い</code> povaha života a nutnost uch
 ::: info
 Tohle zasáhne dost jinak, když si uvědomíme, že Dolly ten rok zemřela… R.I.P. 🙁
 :::
-.

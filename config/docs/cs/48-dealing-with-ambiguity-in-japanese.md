@@ -84,7 +84,7 @@ Vezměme konkrétní příklad v japonštině, něco, co lidi občas trápí, je
 
 ::: info
 Pro potenciál mrkněte na Lekci 10, godanový potenciál je え-kmen + -る. Pro receptivní L13.
-*![](../media/image125.webp)
+![](../media/image125.webp)
 :::
 
 ::: info
@@ -125,7 +125,7 @@ Nemusí definovat podmět věty. Může prostě stát sám o sobě. Tak jak vím
 
 A odpověď na to je znalost toho, jak japonština funguje. Ačkoli は-výroky nejsou logické, jsou ve skutečnosti gramatické. Jsou součástí japonské gramatiky. Když uděláme は-výrok, musí přímo souviset se zbytkem toho, co říkáme.
 
-I v češtině, například, kdybychom řekli <code>Když mluvíme o galaxii v Andromedě, Sakura má uher na nose</code>, byli byste vyvedeni z míry, že? Co má Sakuřin uher společného s galaxií v Andromedě? Ale v japonštině to platí ještě víc, protože は-výrok neříká jen <code>když mluvíme o</code>. Je to vlastně **gramatické spojení***.*
+I v češtině, například, kdybychom řekli <code>Když mluvíme o galaxii v Andromedě, Sakura má uher na nose</code>, byli byste vyvedeni z míry, že? Co má Sakuřin uher společného s galaxií v Andromedě? Ale v japonštině to platí ještě víc, protože は-výrok neříká jen <code>když mluvíme o</code>. Je to vlastně **gramatické spojení**.
 
 Takže kdybych řekl „Když mluvíme o tom ošklivém cizinci, který uhodil Sakuru, dal jsem šaty, které jsem koupil na trhu, dívce s brýlemi", to nedává smysl. Proč říkáme <code>když mluvíme o tom ošklivém cizinci, který uhodil Sakuru</code>? Teď, je to možné, stejně jako je možné, aby <code>私はうなぎだ</code> znamenalo <code>Jsem úhoř</code> za jistých okolností, je to jen možné, vzhledem k okolním okolnostem, vzhledem k něčemu, co posluchač ví a co ty dvě věci spojuje dohromady, že by to vlastně mohlo fungovat takhle.
 

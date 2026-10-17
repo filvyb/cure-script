@@ -26,7 +26,7 @@ První neobvyklá věc na něm je, že na rozdíl od většiny pomocníků **se 
 
 **To je vždy případ u sloves godan, protože není žádný jiný způsob, jak <code>まい</code> připojit.**
 
-**U sloves ičidan ho můžeme připojit k univerzálnímu kmeni ičidan** (jak víte, u sloves ičidan vždy, ať s nimi děláme cokoli, vždy prostě sundáme -る a nasadíme cokoli, co chceme nasadit). Takže například <code>見る</code> se může stát <code>見まい / みまい</code>, **ale stejně často je to** <code>見るまい</code>.
+**U sloves ičidan ho můžeme připojit k univerzálnímu kmeni ičidan** (jak víte, u sloves ičidan vždy, ať s nimi děláme cokoli, vždy prostě sundáme -る a nasadíme cokoli, co chceme nasadit). Takže například <code>見る</code> se může stát <code>[見]{み}まい</code>, **ale stejně často je to** <code>見るまい</code>.
 
 **U těch dvou nepravidelných**, <code>来る</code> a <code>する</code>, **mohou být** <code>来るまい</code> a <code>するまい</code>, **ale mohou být také** <code>こまい</code> a <code>しまい</code>.
 

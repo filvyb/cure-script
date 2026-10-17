@@ -83,9 +83,9 @@ A je to tak jednoduché. Vůbec nic složitého na tom není. Ale někdo řekne,
 
 ::: info
 Ve videu má červené <code>Druhotný děj: sloveso</code> překlep <code>さらる</code>. Jisho, Yomichan s 27 slovníky… ani nic jiného… o tom <code>さらる</code> vůbec neví. Opravil jsem to.
-:::
 
 ![](../media/image623.webp)
+:::
 
 **A je těžké pochopit, jaké ty dva podměty budou? Ne, není, protože osoba, která přijímá, a osoba, která jí, budou vždy tatáž.** <code>Přijal jsem to, že jsem byl nucen jíst…</code> – **já jsem byl ten, kdo přijal to, že byl nucen jíst,** **a proto jsem musel být taky ten, kdo jedl.**
 

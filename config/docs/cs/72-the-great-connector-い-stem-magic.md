@@ -6,7 +6,7 @@
 
 Dnes si budeme povídat o jednom z nejvšestrannějších aspektů japonské struktury. Pokrývá řadu oblastí, které lze porovnat s jinými aspekty japonské struktury, a život bude mnohem jednodušší, jestli ta srovnání uděláme, takže to je to, co uděláme. Tohle je něco, co většina učebnic ve skutečnosti dobře nevysvětluje, hlavně proto, že nerozpoznávají systém slovesných kmenů, který je naprosto ústřední pro to, jak japonská slovesa fungují.
 
-Takže to, co to je, o čem budeme mluvit, je い-kmen japonských sloves. V japonštině se tomu říká <code>連用形 / れんようけい</code>, což znamená <code>spojovací užitná forma</code>.
+Takže to, co to je, o čem budeme mluvit, je い-kmen japonských sloves. V japonštině se tomu říká <code>[連用形]{れんようけい}</code>, což znamená <code>spojovací užitná forma</code>.
 
 ![](../media/image918.webp)
 
@@ -18,7 +18,7 @@ V angličtině se tomu někdy říká <code>ます kmen</code>, což není nepř
 
 Není to základní forma sloves. Jsou to prostě slovesa s jedním mezi mnoha jinými pomocnými prvky k nim připojeným. A jestli si myslíme, že je to základní forma sloves, budeme velmi zmatení ohledně toho, co slovesa jsou a jak fungují.
 
-A udělala jsem o tom video, takže jestli o tomhle všem máte nějaké pochybnosti, možná byste se na to chtěli podívat. Takže co je tenhle い-kmen, tenhle <code>連用形 / れんようけい</code>, a proč je tak důležitý? No, zjevně, co to je, je prostě sloveso posunuté ze své základní formy řádku う do řádku い.
+A udělala jsem o tom video, takže jestli o tomhle všem máte nějaké pochybnosti, možná byste se na to chtěli podívat. Takže co je tenhle い-kmen, tenhle <code>[連用形]{れんようけい}</code>, a proč je tak důležitý? No, zjevně, co to je, je prostě sloveso posunuté ze své základní formy řádku う do řádku い.
 
 ![](../media/image614.webp)
 
@@ -97,7 +97,7 @@ A abychom zase přišli k našemu příteli <code>読む</code>, můžeme mít <
 
 ![](../media/image221.webp)
 
-<code>方 / かた</code> znamená <code>forma, nebo způsob, nebo metoda</code> — možná jste slyšeli o <code>方</code> v karate, tom bojovém umění — takže <code>読み方</code> znamená <code>forma nebo způsob nebo metoda čtení</code>, a to, co tohle obvykle znamená, je výslovnost kandži, způsob čtení toho kandži v konkrétním kontextu.
+<code>[方]{かた}</code> znamená <code>forma, nebo způsob, nebo metoda</code> — možná jste slyšeli o <code>方</code> v karate, tom bojovém umění — takže <code>読み方</code> znamená <code>forma nebo způsob nebo metoda čtení</code>, a to, co tohle obvykle znamená, je výslovnost kandži, způsob čtení toho kandži v konkrétním kontextu.
 
 Takže い-kmen má schopnost složeného slova jako て-forma a posouvá to dál než て-forma. A taky může převzít jinou ze základních funkcí て-formy, protože, jak víme, て-forma dokáže spojit dvě poloviny souvětí.
 
@@ -183,7 +183,7 @@ Jestli řekneme <code>お店にパンを買いに行く</code>, říkáme <code>
 A to je důležité, protože jak jsem učila v naší lekci o logických částicích<sup>[[8b]](./8b-particles-explained.md)</sup>, pět hlavních logických částic lze připojit jen k podstatným jménům. *(が, を, の, に, へ, で)*
 
 ::: info
-Stejně jako Dolly poznamenává v lekci 8b, の je taky součástí logických částic,
+Stejně jako Dolly poznamenává v lekci 8b, の je taky součástí logických částic.
 :::
 
 Takže jestli se nevysvětlí, že <code>遊び</code> tady a <code>買い</code> tady jsou podstatná jména, nejsem si jistá, co si většina studentů myslí, že ta struktura vlastně je.
@@ -201,8 +201,9 @@ Jestli máte nějaké otázky nebo komentáře *(zase, je dobrý nápad číst k
 Ráda bych poděkovala svým mecenášům Zlaté Kokeshi a všem svým mecenášům a podporovatelům na Patreonu a všude, kteří tohle všechno umožňují.
 ::: info
 V komentářích je tenhle dost zajímavý komentář od jednoho shary0 o て-formě.  
-Jestli si někdo chce o い-kmeni přečíst víc <code>učebnicovým</code> jazykem - tady je **[odkaz na zdroj](https://jref.com/articles/renyoukei.107/).  
-:::
-**Taky se podívejte na [**tuhle diskusi v komentářích pod tímhle videem.**](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)*
+Jestli si někdo chce o い-kmeni přečíst víc <code>učebnicovým</code> jazykem - tady je **[odkaz na zdroj](https://jref.com/articles/renyoukei.107/)**.  
+
+**Taky se podívejte na [tuhle diskusi v komentářích pod tímhle videem.](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)**
 
 ![](../media/image67.webp)
+:::

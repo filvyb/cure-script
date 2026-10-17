@@ -10,7 +10,7 @@ Teď, <code>行く</code> a <code>来る</code> jsou dvě z prvních slov, kter�
 
 V podstatě <code>iku</code> znamená <code>jít odtud, kde je mluvčí, někam jinam</code>, a <code>kuru</code> znamená <code>přijít odněkud jinud tam, kde je mluvčí</code>.
 
-> ![](../media/image1005.webp)
+![](../media/image1005.webp)
 
 Není to úplně totéž jako české <code>jít</code> a <code>přijít</code>? No, ne tak úplně.
 

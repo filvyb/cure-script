@@ -104,13 +104,13 @@ Pro jistotu, tenhle komentář může někomu pomoct ohledně とする & とし
 ![](../media/image551.webp)
 :::
 
-## という / と言う
+## と[言]{い}う
 
-Samozřejmě **to nejzákladnější, co může následovat po -と, je <code>いう</code>,** **v kterémžto případě jde o doslovnou citaci,** **-という/と言う** (obvykle se to vyslovuje ne tak úplně <code>-という</code>, ale jako <code>-とゆ</code>). A **tohle se zase dá použít nejen v doslovné citaci, ale i k tomu, jak se něco říká nebo jak se to nazývá.** Takže <code>ふしぎの国のアリスという本</code> znamená <code>kniha **jménem** ふしぎの国のアリス (Alenka v říši divů)</code>.
+Samozřejmě **to nejzákladnější, co může následovat po -と, je <code>いう</code>,** **v kterémžto případě jde o doslovnou citaci,** **-と[言]{い}う** (obvykle se to vyslovuje ne tak úplně <code>-という</code>, ale jako <code>-とゆ</code>). A **tohle se zase dá použít nejen v doslovné citaci, ale i k tomu, jak se něco říká nebo jak se to nazývá.** Takže <code>ふしぎの国のアリスという本</code> znamená <code>kniha **jménem** ふしぎの国のアリス (Alenka v říši divů)</code>.
 
 ![](../media/image546.webp)
 
-### っていう / って言う
+### って[言]{い}う
 
 **A to -と v <code>-という</code> lze zredukovat prostě na -って.** Takže můžeme říct <code>-っていう</code> – <code>ふしぎの国のアリスっていう本</code>, **nebo to lze zredukovat až na pouhé -って.**
 

@@ -37,7 +37,7 @@ větách zakončených sponou, větách zakončených <code>だ</code>.
 ![](../media/image318.webp)
 
 A skoro všechno, co jsem řekla o <code>かい</code>, platí taky pro <code>だい</code>,  
-**kromě** toho, že je tu konkrétní spojení, <code>どうだい</code>, které se používá mnohem šířeji. Takže jestli někdo něco jí a vy řeknete <code>どうだい?</code> — <code>jaké to je? / jak to je?</code> — a oni můžou říct <code>おいしい/美味しい!</code> nebo můžou říct <code>まずい/不味い</code>, ale **zeptat se na to v té podobě je něco, co může udělat kdokoli za předpokladu, že je to neformální prostředí.**
+**kromě** toho, že je tu konkrétní spojení, <code>どうだい</code>, které se používá mnohem šířeji. Takže jestli někdo něco jí a vy řeknete <code>どうだい?</code> — <code>jaké to je? / jak to je?</code> — a oni můžou říct <code>[美味]{おい}しい!</code> nebo můžou říct <code>[不味]{まず}い</code>, ale **zeptat se na to v té podobě je něco, co může udělat kdokoli za předpokladu, že je to neformální prostředí.**
 
 ## ちょうだい
 

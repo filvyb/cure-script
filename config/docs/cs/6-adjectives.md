@@ -40,7 +40,7 @@ Teď se podívejme na slovesa. Jestli si děláte starosti s な-přídavnými j
 
 ![](../media/image475.webp)
 
-Takže můžeme říct <code>しょうじょがうたった</code>. <code>歌った/うたった</code> znamená <code>zpívala</code>. Slovo pro „zpívat“ je <code>うたう</code>, takže た-tvar je, jak víme z minulé lekce, <code>うたった</code>.
+Takže můžeme říct <code>しょうじょがうたった</code>. <code>[歌]{うた}った</code> znamená <code>zpívala</code>. Slovo pro „zpívat“ je <code>うたう</code>, takže た-tvar je, jak víme z minulé lekce, <code>うたった</code>.
 
 <code>しょうじょがうたった</code> – <code>Dívka zpívala</code>,
 
@@ -112,7 +112,7 @@ Abychom to vysvětlili, musíme do našeho vlaku zavést nový typ vagonu. A to 
 
 ![](../media/image1098.webp)
 
-Takže <code>さくらのドレス</code> znamená <code>Sakuřiny šaty</code> (šaty Sakury). <code>わたしのはな/鼻</code> znamená <code>můj nos</code>.
+Takže <code>さくらのドレス</code> znamená <code>Sakuřiny šaty</code> (šaty Sakury). <code>わたしの[鼻]{はな}</code> znamená <code>můj nos</code>.
 ::: info
 Neboli, jak je ukázáno, doslova <code>nos „mě“</code> (nos patřící mně).
 :::
@@ -126,7 +126,7 @@ A protože <code>の</code> je přivlastňovací částice, lze ji použít ješ
 
 A tohle můžeme používat šířeji k určení skupiny nebo třídy, ke které cokoli patří. Takže <code>あかい</code> znamená <code>červený</code>, protože podstatné jméno <code>あか</code> můžeme proměnit v přídavný tvar <code>あかい</code>. **Ale to nejde udělat se všemi barvami.**
 
-Například <code>ピンクいろ</code>. <code>いろ/色</code> znamená <code>barva</code>, a řekneme <code>ピンクいろ</code>, což znamená <code>růžová</code>. **Ale to nemá い-tvar. A nepočítá se ani za přídavné podstatné jméno, な-přídavné jméno, jak se jim anglicky říká.**
+Například <code>ピンクいろ</code>. <code>[色]{いろ}</code> znamená <code>barva</code>, a řekneme <code>ピンクいろ</code>, což znamená <code>růžová</code>. **Ale to nemá い-tvar. A nepočítá se ani za přídavné podstatné jméno, な-přídavné jméno, jak se jim anglicky říká.**
 
 Takže s ním uděláme to, že použijeme <code>の</code>. <code>ピンクいろのドレス</code> – <code>růžové šaty</code>. A to znamená <code>**šaty patřící do třídy růžových věcí**</code>.
 

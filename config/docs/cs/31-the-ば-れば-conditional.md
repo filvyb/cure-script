@@ -48,7 +48,7 @@ A tohle se znovu děje v ještě běžnější japonské konstrukci. <code>勉�
 
 V japonštině ve skutečnosti neexistuje slovo pro <code>muset</code>, takže to vždycky vytváříme takhle. Řekneme <code>Jestli ne… (ať už je to cokoli)</code> a pak můžeme říct <code>nebude to dobré / bude to špatné / bude to pohroma…</code>
 
-Ať řekneme cokoli, pak za tím následuje nějaká záporná konstrukce, a to, co říkáme, je <code>Musím jít / Musím to udělat / Musím udělat tamto</code>, a to je proto, že tu konstrukci <code>mít (něco udělat)</code> nemáme a nemáme v japonštině <code>muset</code>. Vždycky to má tenhle dost zdlouhavý tvar „Jestli neudělám, nebude to dobré / jestli neudělám, nepůjde to / jestli neudělám, je to špatné" — <code>無ければ / なければダメ</code>.
+Ať řekneme cokoli, pak za tím následuje nějaká záporná konstrukce, a to, co říkáme, je <code>Musím jít / Musím to udělat / Musím udělat tamto</code>, a to je proto, že tu konstrukci <code>mít (něco udělat)</code> nemáme a nemáme v japonštině <code>muset</code>. Vždycky to má tenhle dost zdlouhavý tvar „Jestli neudělám, nebude to dobré / jestli neudělám, nepůjde to / jestli neudělám, je to špatné" — <code>[無]{な}ければダメ</code>.
 
 A protože je to skutečně velmi rozvláčný způsob, jak říct něco běžného jako <code>muset</code> nebo <code>mít (něco udělat)</code>, často se v běžné řeči zkracuje jen na <code>しなければ</code> nebo dokonce <code>しなきゃ</code>, což je zkratka za <code>しなければ</code>, bez přidání té záporné koncovky, protože ta je prostě naznačená. Nicméně i ve velmi neformální řeči se to často říká celé, a myslím, že to je proto, aby se zdůraznila povaha toho <code>muset</code>.
 
@@ -56,9 +56,11 @@ A protože je to skutečně velmi rozvláčný způsob, jak říct něco běžn�
 ::: info
 jestli to pomůže, doslovněji něco jako <code>Proč, když (já) nepůjdu, (je to) špatné / nepůjde to?</code>
 Nebo jak Dolly-先生 říká v komentářích k 行かなければいけない + co znamená to いけない:
+
+![](../media/image1040.webp)
+
+![](../media/image1003.webp)
 :::
-*![](../media/image1040.webp)**
-**![](../media/image1003.webp)
 
 V případech jako tenhle, kde na to klademe důraz, na rozdíl od případů, kdy jen ležérně říkáme <code>行かなきゃ</code> — <code>Musím jít</code>.
 

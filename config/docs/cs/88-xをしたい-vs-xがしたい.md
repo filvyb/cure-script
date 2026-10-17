@@ -35,8 +35,7 @@ A jak vidíme, **přídavné jméno <code>たい</code>**,
 
 ---
 
-A nastává zmatek<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup>, když to vlastně přeložíme tak, že to doslova znamená **  
-<code>Chci sníst dort</code>, protože to neznamená tohle.**
+A nastává zmatek<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup>, když to vlastně přeložíme tak, že to doslova znamená **<code>Chci sníst dort</code>, protože to neznamená tohle.**
 
 ****Znamená to** <code>dort vyvolává touhu (ve mně)</code>.** *(私は) ケーキが食べたい。*
 
@@ -182,15 +181,15 @@ A odpověď na tohle je vlastně velmi jednoduchá.
 ![](../media/image980.webp)
 
 **A co se děje ve větě jako <code>パンを食べたい</code>, je to, že  
-**<code>たい</code> už není připojeno prostě k slovesu <code>食べる</code>.****
+<code>たい</code> už není připojeno prostě k slovesu <code>食べる</code>.**
 
 ---
 
 **Neříkáme <code>パンを</code> a pak <code>食べたい</code>,**
 
-****říkáme <code>パンを食べ...</code> a <code>たい</code> se připojuje k té celé jednotce.****
+**říkáme <code>パンを食べ...</code> a <code>たい</code> se připojuje k té celé jednotce.**
 
-****Co chceme, je děj <code>パンを食べる</code>, takže můžeme připojit to <code>たい</code> k té celé jednotce.****
+**Co chceme, je děj <code>パンを食べる</code>, takže můžeme připojit to <code>たい</code> k té celé jednotce.**
 
 **To dává těmto konstrukcím smysl.**
 
@@ -234,7 +233,7 @@ No, v podstatě **myslím, že důvod je, že nemluvíme o impulzivní touze.**
 
 **A v případě lidí je uctivější říct**
 
-<code>さくら****を****守りたい</code> než <code>さくら**が**守りたい</code>,
+<code>さくら**を**守りたい</code> než <code>さくら**が**守りたい</code>,
 
 **protože neříkáme, že Sakura je objekt** *(z hlediska implikace, z hlediska gramatiky jím je :D)*
 
@@ -248,15 +247,15 @@ No, v podstatě **myslím, že důvod je, že nemluvíme o impulzivní touze.**
 
 **Ale v případě řekněme země, nebo míru, nebo spravedlnosti, nebo dokonce domu či parku,**
 
-****mluvíme o něčem méně impulzivním a víc o vlastním rozhodnutí,****
+**mluvíme o něčem méně impulzivním a víc o vlastním rozhodnutí,**
 
 **ne-li o vědomém rozhodnutí, pak o smýšlení, způsobu myšlení, který je náš.**
 
-**Takže mluvíme o tom ději **jako o vlastním** spíš než o něčem vyvolaném vnější příčinou.**
+**Takže mluvíme o tom ději jako o vlastním spíš než o něčem vyvolaném vnější příčinou.**
 
 ---
 
-Pokud řekneme <code>パン****を****食べたい</code>,
+Pokud řekneme <code>パン**を**食べたい</code>,
 
 **je to pravděpodobně za podmínek, kdy mluvíme trochu obecněji,**
 
@@ -266,7 +265,7 @@ Pokud řekneme <code>パン****を****食べたい</code>,
 
 **Nemluvíme o nějaké bonbónu, který jsme právě uviděli, který v nás vyvolává touhu ho sníst.**
 
-****Mluvíme o obecné touze jíst chleba.****
+**Mluvíme o obecné touze jíst chleba.**
 
 ---
 
@@ -274,11 +273,11 @@ Takže **je pravděpodobnější, že řekneme** <code>**パンを**食べたい
 ::: info
 Ve větě výše by <code>já</code> mělo být podmětem, který je v japonštině skrytý jako zeroが.
 :::
-****než**** <code>**パンが**食べたい時</code> (když **chleba***=podmět* ve mně vyvolává touhu ho jíst).
+**než** <code>**パンが**食べたい時</code> (když **chleba***=podmět* ve mně vyvolává touhu ho jíst).
 
 ![](../media/image239.webp)
 
-****A tohle není pevné a definitivní pravidlo, ale je to ten druh tendence,****
+**A tohle není pevné a definitivní pravidlo, ale je to ten druh tendence,**
 
 **ten druh důvodu, ten nádech, který rozhoduje, kterým způsobem**
 
@@ -305,16 +304,16 @@ Takže doufám, že tentokrát jsme opravdu uložili k odpočinku finální otá
 
 ![](../media/image908.webp)
 
-****A děje se to z důvodů, které jsou trochu subtilní, jejichž strávení pravděpodobně zabere čas****
+**A děje se to z důvodů, které jsou trochu subtilní, jejichž strávení pravděpodobně zabere čas**
 
-****a jejichž strávení vyžaduje ponoření, protože nemůžete se všechno naučit přes holou strukturu.****
+**a jejichž strávení vyžaduje ponoření, protože nemůžete se všechno naučit přes holou strukturu.**
 
 ::: info
 ![](../media/image361.webp)
 
 ![](../media/image844.webp)
 
-Přečtěte si [****TENTO STROM KOMENTÁŘŮ****](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgyOhoQLaj1rzfKcTWV4AaABAg&ab_channel=OrganicJapanesewithCureDolly), kde Dolly dává nějaké užitečné informace o použití が.  
+Přečtěte si [**TENTO STROM KOMENTÁŘŮ**](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgyOhoQLaj1rzfKcTWV4AaABAg&ab_channel=OrganicJapanesewithCureDolly), kde Dolly dává nějaké užitečné informace o použití が.  
 Trochu se to také dotýká případů, kdy jsou v jedné větě dvě viditelné logické částice jako が nebo を, jelikož se to občas může stát, například u složeného přídavného jména jako 頭がいい.
 *Také, [**tenhle**](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgziEAPSnr0SnhrQT8Z4AaABAg.9I_i6CnMTAb9I_ko3FwzJU&ab_channel=OrganicJapanesewithCureDolly) může být užitečný, pokud je ta věc s たい používaná s を trochu matoucí, [**totéž pro ない**](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgzdlJPBSPKfEnC5CTt4AaABAg.9KGUKbPabp79KHKmr1rRl_&ab_channel=OrganicJapanesewithCureDolly).*
 

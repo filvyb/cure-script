@@ -16,7 +16,7 @@ Má velmi jasně vymezené použití, které jsme zavedli v Lekci 8b. Jako všec
 
 Nicméně je tu další <code>で</code>, které není částice, které se v japonštině taky používá velmi často, a učebnice se nijak nesnaží rozlišit tyhle dva úplně odlišné, ale identicky vypadající prvky. Poprvé se s druhým z těchhle <code>で</code> většina z nás setká v použití přídavných podstatných jmen, kterým učebnice velmi matoucím a zavádějícím způsobem říkají <code>な-přídavná jména</code>.
 
-Takže když řekneme <code>さくらがきれいで優しい</code>, to, co říkáme, je, že Sakura je hezká a laskavá. <code>綺麗/きれいだ</code> je přídavné podstatné jméno.
+Takže když řekneme <code>さくらがきれいで優しい</code>, to, co říkáme, je, že Sakura je hezká a laskavá. <code>[綺麗]{きれい}だ</code> je přídavné podstatné jméno.
 
 Jestli chceme říct <code>Ta květina je hezká</code>, řekneme <code>花がきれいだ</code>. A jestli chceme říct <code>ta hezká květina</code>, musíme dát <code>きれいだ</code> na druhou stranu té květiny, takže řekneme <code>きれいな花</code>.
 
@@ -50,7 +50,7 @@ Teď, je to přesně to samé s <code>で</code>, což je て-forma spony. Takž
 
 <code>元気で</code> jim říká, ať \*jsou\* genki nebo čilí. <code>お元気で</code> — <code>buď zdráv / měj se / udržuj si dobrou náladu</code>.
 
-### 無事/ぶじで
+### [無事]{ぶじ}で
 
 Dobře. Tak tady je další: <code>無事でよかった</code> je další velmi běžný výraz a znamená <code>jsem rád, že jsi v pořádku / je dobře, že se ti nic nestalo / je dobře, že jsi v bezpečí</code> — <code>無事でよかった</code>.
 

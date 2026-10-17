@@ -18,9 +18,9 @@ Teď, jak všichni víme, učebnice rády předkládají japonštinu jako takov�
 Avšak numerativy se můžou zdát jako výjimka z tohohle pravidla. Je jich hodně. Strašně moc numerativů. V japonštině nemůžete prostě říct <code>jeden pes</code> nebo <code>dvě květiny</code> nebo <code>tři ptáci</code>.
 Musíte použít numerativ.
 
-Takže řekneme <code>一匹の犬 / いっぴきの犬</code> — <code>jeden pes</code> — a numerativ tady je <code>匹 / ひき</code>, který se v tomhle konkrétním případě vyslovuje <code>ぴき</code>. *(Je to numerativ pro malá zvířata)*
+Takže řekneme <code>一匹の犬 / いっぴきの犬</code> — <code>jeden pes</code> — a numerativ tady je <code>[匹]{ひき}</code>, který se v tomhle konkrétním případě vyslovuje <code>ぴき</code>. *(Je to numerativ pro malá zvířata)*
 
-Pro <code>tři ptáky</code> řekneme <code>三羽の鳥 / さんわの鳥</code>, a to <code>羽 / わ</code> je numerativ *(pro ptáky…)*. Takže to vypadá, jako bychom se museli naučit strašně moc numerativů, že ano, jen abychom řekli to, co v češtině můžete říct číslem a věcí. A opravdu je hodně numerativů — tucty a tucty jich *(vlastně stovky (″ロ゛)*.
+Pro <code>tři ptáky</code> řekneme <code>三羽の鳥 / さんわの鳥</code>, a to <code>[羽]{わ}</code> je numerativ *(pro ptáky…)*. Takže to vypadá, jako bychom se museli naučit strašně moc numerativů, že ano, jen abychom řekli to, co v češtině můžete říct číslem a věcí. A opravdu je hodně numerativů — tucty a tucty jich *(vlastně stovky (″ロ゛)*.
 
 Takže to vypadá jako problém, že ano? Ale ve skutečnosti to není zdaleka takový problém, jak to vypadá.
 
@@ -44,13 +44,13 @@ To by, jestli prominete ten výraz, bylo prostě kontraproduktivní. A je někol
 
 Především, z hlediska porozumění japonštině nepředstavují vůbec moc problémů. Jestli slyšíme někoho říkat číslo a věc, kterou známe, jestli je mezi těmi dvěma malé slovíčko, víme, že je to numerativ.
 
-Takže víme, co řekli. Jestli řeknou <code>一輪の花</code>, víme, že říkají <code>jedna květina</code>. <code>一... 花</code>, a to <code>輪 / りん</code> musí být numerativ. *(輪 / りん, numerativ pro kola & květiny)*
+Takže víme, co řekli. Jestli řeknou <code>一輪の花</code>, víme, že říkají <code>jedna květina</code>. <code>一... 花</code>, a to <code>[輪]{りん}</code> musí být numerativ. *([輪]{りん}, numerativ pro kola & květiny)*
 
 ![](../media/image329.webp)
 
 Jestli slyšíme někoho říkat <code>二羽の鳥</code>, víme, že říkají <code>dva ptáci</code>: <code>二... 鳥</code>, a to <code>羽</code> je numerativ.
 
-Jestli slyšíme někoho říkat <code>三匹の猫 / さんびきの猫</code> — teď, i kdybychom znali <code>匹 / ひき</code>, ale nevěděli bychom, že u tří se to stává <code>びき</code>, to není problém, protože známe <code>三</code>, známe <code>猫</code> a víme, že věci, které přijdou mezi čísla a jejich předmět, budou numerativy.
+Jestli slyšíme někoho říkat <code>三匹の猫 / さんびきの猫</code> — teď, i kdybychom znali <code>[匹]{ひき}</code>, ale nevěděli bychom, že u tří se to stává <code>びき</code>, to není problém, protože známe <code>三</code>, známe <code>猫</code> a víme, že věci, které přijdou mezi čísla a jejich předmět, budou numerativy.
 
 ![](../media/image69.webp)
 
@@ -62,7 +62,7 @@ Jsou dva způsoby, jak používat numerativy, a je to ten druhý z těch způsob
 
 ## Dva způsoby používání numerativů
 
-První způsob je vlastně dost podobný češtině. Takže když použijeme <code>匹 / ひき</code> pro zvířata nebo <code>枚 / まい</code> pro listy papíru, řekněme, není to tak nepodobné tomu, jako říct <code>pět kusů dobytka</code> nebo <code>tucet listů papíru</code> v češtině. Ne tak úplně totéž, ale je to velmi podobné.
+První způsob je vlastně dost podobný češtině. Takže když použijeme <code>[匹]{ひき}</code> pro zvířata nebo <code>[枚]{まい}</code> pro listy papíru, řekněme, není to tak nepodobné tomu, jako říct <code>pět kusů dobytka</code> nebo <code>tucet listů papíru</code> v češtině. Ne tak úplně totéž, ale je to velmi podobné.
 
 ### Druhé použití
 
@@ -128,7 +128,7 @@ Takže pravděpodobně potřebujeme tucet nebo tak numerativů pro každodenní 
 
 Ale co všechny ty zvukové změny?
 
-Vezměme si <code>匹 / ひき</code>, což je numerativ pro malá zvířata. Říkáme <code>いっぴきの猫</code> — jedna kočka, <code>にひきの猫</code> — dvě kočky; <code>さんびきの猫</code> — tři kočky; <code>よんひきの猫</code> — čtyři kočky; <code>ごひきの猫</code> — pět koček; <code>ろっぴきの猫</code> — šest koček; <code>ななひきの猫</code> — sedm koček; „はっぴきの猫 — osm koček; <code>きゅうひきの猫</code> — devět koček; <code>じゅっぴきの猫</code> — deset koček.
+Vezměme si <code>[匹]{ひき}</code>, což je numerativ pro malá zvířata. Říkáme <code>いっぴきの猫</code> — jedna kočka, <code>にひきの猫</code> — dvě kočky; <code>さんびきの猫</code> — tři kočky; <code>よんひきの猫</code> — čtyři kočky; <code>ごひきの猫</code> — pět koček; <code>ろっぴきの猫</code> — šest koček; <code>ななひきの猫</code> — sedm koček; „はっぴきの猫 — osm koček; <code>きゅうひきの猫</code> — devět koček; <code>じゅっぴきの猫</code> — deset koček.
 ::: info
 よんひき v kandži vypadá zajímavě :D 四匹.
 :::
@@ -177,28 +177,28 @@ Co víme o těchhle? No, především víme, že u prvního a posledního čísl
 
 ![](../media/image340.webp)
 
-![](../media/image272.webp)
-
 ::: info
 [**Ten odkaz na video tam**](https://www.youtube.com/watch?v=nsDS5xalWGg&ab_channel=OrganicJapanesewithCureDolly), jestli byste se na to chtěli podívat, protože to není v přepisu (myslím).
-:::
-Takže jestli vezmeme <code>階 / かい</code>, numerativ pro patra v budově, neříkáme <code>いちかい</code> — říkáme <code>いっかい</code>.
 
-Jestli vezmeme <code>歳 / さい</code>, numerativ pro roky věku,
+![](../media/image272.webp)
+:::
+Takže jestli vezmeme <code>[階]{かい}</code>, numerativ pro patra v budově, neříkáme <code>いちかい</code> — říkáme <code>いっかい</code>.
+
+Jestli vezmeme <code>[歳]{さい}</code>, numerativ pro roky věku,
 ::: info
-je tu taky 才, což se zdá být <code>dětská</code> alternativa k 歳 (ale [**není to jeho zjednodušená verze**](https://japanese.stackexchange.com/a/1844)).**
-**Avšak 歳 se zdá být to jediné, co se vlastně používá v oficiální komunikaci.
+je tu taky 才, což se zdá být <code>dětská</code> alternativa k 歳 (ale [**není to jeho zjednodušená verze**](https://japanese.stackexchange.com/a/1844)).
+**Avšak 歳 se zdá být to jediné, co se vlastně používá v oficiální komunikaci.**
 :::
 
 neříkáme <code>いちさい</code> — říkáme <code>いっさい</code>.
 
 Jestli vezmeme <code>匹</code>, se kterým jsme měli co do činění předtím, neříkáme <code>いちひき</code> — říkáme <code>いっぴき</code>. Takže to funguje stejně.
 
-A u deseti, na druhém konci té základní stupnice, neříkáme <code>じゅうさい</code> — říkáme <code>じゅっさい / 十歳</code>.
+A u deseti, na druhém konci té základní stupnice, neříkáme <code>じゅうさい</code> — říkáme <code>[十歳]{じゅっさい}</code>.
 ::: info
 Slovníky možná taky řeknou, že se to dá číst jako <code>じっさい</code>, **[což se zdá staromódní](https://ja.hinative.com/questions/4546115#answer-12128924).**
 :::
-Říkáme <code>じゅっかい / 十階</code>, desáté patro; <code>じゅっぴきの猫</code>, deset koček.
+Říkáme <code>[十階]{じゅっかい}</code>, desáté patro; <code>じゅっぴきの猫</code>, deset koček.
 
 #### Pravidlo 3
 

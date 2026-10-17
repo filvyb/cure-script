@@ -7,7 +7,7 @@
 Dnes si budeme povídat o **formální** *(zdvořilé)* japonštině: です/ます.
 
 ::: info
-Kdykoli Dolly použije pro です nebo ます výraz <code>formální</code>, mělo by to být místo toho ZDVOŘILÉ; mezi těmito dvěma pojmy je v japonštině rozdíl. Nevím, proč to nezmínila, ale je dost důležité je rozlišovat; když se podíváte na jejich definice, slovníky je označují jako zdvořilé.**
+Kdykoli Dolly použije pro です nebo ます výraz <code>formální</code>, mělo by to být místo toho ZDVOŘILÉ; mezi těmito dvěma pojmy je v japonštině rozdíl. Nevím, proč to nezmínila, ale je dost důležité je rozlišovat; když se podíváte na jejich definice, slovníky je označují jako zdvořilé.
 :::
 
 ***Jsou součástí 丁寧語 (zdvořilého jazyka). Takže je přesnější nazývat je zdvořilými.***
@@ -62,7 +62,7 @@ Až na to, že tohle má taky podivný zvyk, totiž že když vezmeme přídavn�
 
 ![](../media/image178.webp)
 
-**Nedělá to nic; jen to zdobí větu a dělá ji formální.** Znovu, tohle je něco, co se prostě musíte naučit, a není to moc těžké se naučit, ale pokud se to naučíte na začátku, získáte dojem, že potřebujete sponu s přídavným jménem jako <code>赤い</code> stejně, jako potřebujete sponu s přídavným podstatným jménem jako <code>綺麗/きれい</code>.
+**Nedělá to nic; jen to zdobí větu a dělá ji formální.** Znovu, tohle je něco, co se prostě musíte naučit, a není to moc těžké se naučit, ale pokud se to naučíte na začátku, získáte dojem, že potřebujete sponu s přídavným jménem jako <code>赤い</code> stejně, jako potřebujete sponu s přídavným podstatným jménem jako <code>[綺麗]{きれい}</code>.
 
 ![](../media/image246.webp)
 

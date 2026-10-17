@@ -4,6 +4,12 @@ Především: tento projekt existuje jen díky Mordraugovi a Nunkovi, kteří st
 
 Já ([Kellen](https://bento.me/kln)) jsem ze své strany převedl skript do Markdownu, mírně upravil formátování a publikoval ho pomocí Vitepressu, který mi přijde pohodlnější než Google Docs nebo PDF.
 
+Podpora offline čtení ve formátu EPUB a generátor knih jsou dílem [coffeepebble](https://github.com/coffeepebble).
+
+::: tip Čtení offline
+Celý kurz si můžete stáhnout jako knihu ve formátu EPUB do čteček a chytrých telefonů: [**Stáhnout EPUB**](https://github.com/Kellenok/cure-script/releases/latest/download/cure-dolly-cs.epub).
+:::
+
 ## Co se změnilo
 
 1. <u>Podtržený text</u> jsem z osobní preference změnil na **tučný**.
@@ -26,5 +32,6 @@ Badoom
 5. Spojil jsem text rozdělený po řádcích do čitelných odstavců.
 6. Propojil jsem všechny lekce odkazy.
 7. Přidal jsem čitelný překlad do ruštiny a češtiny.
+8. Přidal jsem možnost stáhnout kurz ve formátu EPUB pro offline čtení.
 
 Při všech těch změnách se možná něco dalšího rozbilo, ale žádné kritické chyby by tam být neměly.

@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Dnes se vrátíme k 怪談/かいだん, té strašidelné japonské povídce, kterou jsme začali před pár díly, abychom se mohli pustit do dalších výzev čtení skutečné rodilé japonštiny. Posbírala jsem všechny tyhle díly dohromady do jednoho playlistu, takže si můžete prohlédnout celý 怪談 na jednom místě, a dávám to do odkazu přímo nad mou hlavu.
+Dnes se vrátíme k [怪談]{かいだん}, té strašidelné japonské povídce, kterou jsme začali před pár díly, abychom se mohli pustit do dalších výzev čtení skutečné rodilé japonštiny. Posbírala jsem všechny tyhle díly dohromady do jednoho playlistu, takže si můžete prohlédnout celý 怪談 na jednom místě, a dávám to do odkazu přímo nad mou hlavu.
 
 Teď, abych zrekapitulovala příběh dosud, naše hrdinka šla na pijáckou párty do bytu své senpai a, jak šla pozdě v noci domů, zjistila, že si nechala svůj 携帯 (svůj přenosný telefon) v bytě senpai. Tak se vrátila, zaklepala na dveře a nikdo neodpovídal. Zkusila kliku a dveře byly odemčené, tak vešla dovnitř.
 
@@ -65,13 +65,13 @@ Když se zeptala na situaci, bylo to tak, že ta senpai byla zabita v tom pokoji
 
 <code>荒らす</code> je <code>vpadnout nebo zneuctít nebo udělat nepořádek</code>. Takže pokoj přijal děj toho, že v něm byl udělán nepořádek nebo že byl zneuctěn.
 
-A to pomocné receptivní sloveso je v て-formě a následované <code>おり</code>. Teď, <code>居る / おる</code> — jak jsme mluvili v předchozím díle téhle série, <code>居る / おる</code> je literární, trochu staromódní způsob, jak říct <code>居る / いる</code>. Takže <code>荒らされておる</code> je totéž jako <code>荒らされている</code>: <code>byl ve stavu toho, že přijal být zneuctěn nebo že v něm byl udělán nepořádek</code>.
+A to pomocné receptivní sloveso je v て-formě a následované <code>おり</code>. Teď, <code>[居]{お}る</code> — jak jsme mluvili v předchozím díle téhle série, <code>[居]{お}る</code> je literární, trochu staromódní způsob, jak říct <code>[居]{い}る</code>. Takže <code>荒らされておる</code> je totéž jako <code>荒らされている</code>: <code>byl ve stavu toho, že přijal být zneuctěn nebo že v něm byl udělán nepořádek</code>.
 
 A pak je to <code>おる</code> dáno do svého い-kmene, <code>おり</code>, což zase, jak jsme probrali dřív, je trochu literárnější způsob, jak spojit dva celky v souvětí. Takže tohle spojuje tenhle celek s dalším celkem, který dává domněnku o té situaci: <code>Pokoj byl ve stavu toho, že v něm byl udělán nepořádek nebo že byl zneuctěn, a...</code>
 
 <code>物取りの犯行かもしれないという</code>:
 
-<code>物取り</code> je <code>もの/物</code> (věc) + <code>取る</code> (vzít), takže <code>物取る</code> — <code>vzít věc</code>; <code>物取り</code> — podstatné jméno braní věcí, takže <code>物取り</code> je tady <code>krádež</code>; <code>犯行</code> je <code>zločinný čin</code>, <code>zločinné jití</code>, doslova, ale zločinný čin.  
+<code>物取り</code> je <code>[物]{もの}</code> (věc) + <code>取る</code> (vzít), takže <code>物取る</code> — <code>vzít věc</code>; <code>物取り</code> — podstatné jméno braní věcí, takže <code>物取り</code> je tady <code>krádež</code>; <code>犯行</code> je <code>zločinný čin</code>, <code>zločinné jití</code>, doslova, ale zločinný čin.  
 Takže tohle byl možná nebo pravděpodobně zločin krádeže, vloupání...
 
 <code>という</code> — <code>bylo řečeno</code>. A kdo to řekl? No, patrně policie.
@@ -172,10 +172,10 @@ Zase vedeme k něčemu jinému. „Její význam nedělá srozumitelný, a...
 
 <code>困ってんですよ」</code> — <code>困る</code> je <code>být na rozpacích / nevědět, co dělat</code>, takže <code>protože její význam nedělá srozumitelný...</code> protože nemůžeme pochopit její význam, jak říkáme v češtině, <code>...jsme bezradní</code>. A zase to zakončení <code>んです</code>: <code>Je to tak, že protože nemůžeme pochopit její význam, jsme bezradní.</code>
 
-![](../media/image578.webp)
-
 ::: info
 Ta věta může být trochu těžší na čtení, ale nemůžu přiblížit víc, jinak z nějakého důvodu pak natrvalo schová koncovou část komentáře pomocí <code>...</code> místo textu…
+
+![](../media/image578.webp)
 :::
 <code>彼女はそのメモを見て青ざめた</code>
 

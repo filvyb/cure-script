@@ -34,7 +34,7 @@ Takže pokud chceme mluvit o třetí epizodě nějakého anime, řekneme <code>�
 
 ![](../media/image255.webp)
 
-Takže máme kanji <code>次 / つぎ</code>, kanji <code>další</code>, jehož běžné on-čtení je <code>し</code>, a máme <code>第 / だい</code>, znamenající <code>řadovka / posloupnost / číslo v posloupnosti</code>.
+Takže máme kanji <code>[次]{つぎ}</code>, kanji <code>další</code>, jehož běžné on-čtení je <code>し</code>, a máme <code>[第]{だい}</code>, znamenající <code>řadovka / posloupnost / číslo v posloupnosti</code>.
 
 **Takže to, co to znamená, je <code>další věc v posloupnosti / další věc v pořadí</code>.**
 
@@ -48,7 +48,7 @@ Takže máme kanji <code>次 / つぎ</code>, kanji <code>další</code>, jehož
 
 **<code>腕時計</code> jsou <code>paže-hodiny</code> (náramkové hodinky).**
 
-Pokud připojíme <code>砂 / すな</code> k <code>時計</code>, pak máme <code>písek-hodiny</code> (přesýpací hodiny) - 砂時計.
+Pokud připojíme <code>[砂]{すな}</code> k <code>時計</code>, pak máme <code>písek-hodiny</code> (přesýpací hodiny) - 砂時計.
 **A podobně tvoříme tyto podstatnojmenné složeniny s <code>次第</code> a tím, k čemu je připojeno.**
 
 ## 次第 jako <code>jakmile</code> nebo <code>okamžitě po</code>
@@ -69,7 +69,7 @@ Takže pokud řekneme <code>分かり**次第**お電話します</code>, řík�
 
 <code>食事の用意が出来次第食べる.</code>
 
-Takže, ačkoli **tady máme vlastně logickou větu**: <code>食事の用意が出来る</code> (přípravy na jídlo jsou dokončeny; doslova, vyjdou ven), **máme tu vlastně kmen できる, což je <code>出来 / でき</code>,** **a to je připojeno k <code>次第</code>.**
+Takže, ačkoli **tady máme vlastně logickou větu**: <code>食事の用意が出来る</code> (přípravy na jídlo jsou dokončeny; doslova, vyjdou ven), **máme tu vlastně kmen できる, což je <code>[出]{で}き</code>,** **a to je připojeno k <code>次第</code>.**
 
 ![](../media/image210.webp)
 

@@ -59,8 +59,8 @@ Druhá skupina jsou する-podstatná jména, kterým slovníky poněkud matouc�
 **A jejich superschopnost je, že smějí vynechat značku přímého předmětu, <code>を</code>.** Takže **když vezmeme podstatné jméno <code>勉強</code>, které znamená <code>studium</code>, můžeme říct <code>勉強をする</code>**, což znamená <code>dělat studium</code>, ale můžeme taky říct <code>勉強する</code>, což znamená <code>studovat</code> (**to sloveso**).
 
 ::: info
-Je to v podstatě jen velmi jemný rozdíl.* *
-を je přímý předmět (podstatné jméno) + sloveso (勉強を + する) & 勉強する je する sloveso.
+Je to v podstatě jen velmi jemný rozdíl.
+<code>を</code> je přímý předmět (podstatné jméno) + sloveso (勉強を + する) & 勉強する je する sloveso.
 :::
 
 **を můžeme použít k označení přímého předmětu jakéhokoli slovesa, ale vynechat to を můžeme jen v případě する-podstatných jmen.** To je jejich superschopnost. Takže když to uděláme, **slijeme dohromady <code>勉強</code> a <code>する</code>** **a uděláme to, čemu opravdu můžeme říkat <code>する sloveso</code>.**
@@ -101,7 +101,7 @@ Takže vezmeme jedno, které končí typickým <code>り</code>: <code>ゆっく
 
 Takže **to je ta jediná superschopnost příslovečného podstatného jména.** A je důležité to pochopit, protože když se začnete snažit je vysvětlovat, aniž byste tenhle zásadní fakt rozpoznali, můžete se dostat do všemožných potíží.
 
-Vezměme další: <code>余り/あまり</code>.
+Vezměme další: <code>[余]{あま}り</code>.
 
 #### あまり
 
@@ -135,7 +135,7 @@ A je to úplně stejné s <code>あまり</code>. Když řekneme <code>あまり
 
 #### 随分
 
-Tak vezměme ještě jedno, které nekončí na <code>り</code>, a to je <code>随分/ずいぶん</code>. To, co to opravdu znamená, je <code>dostatečně</code>.
+Tak vezměme ještě jedno, které nekončí na <code>り</code>, a to je <code>[随分]{ずいぶん}</code>. To, co to opravdu znamená, je <code>dostatečně</code>.
 
 A vy možná řeknete <code>No, **dostatečně** není podstatné jméno</code>. A to je pravda — v češtině to podstatné jméno není.
 

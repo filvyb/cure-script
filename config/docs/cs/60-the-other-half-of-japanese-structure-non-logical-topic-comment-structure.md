@@ -90,9 +90,9 @@ A je tu zapojeno hodně důsledků. Nebudu do nich v tomhle videu chodit, ale m�
 Ale ta věc, kterou je tu třeba si pamatovat, protože mluvíme o skutečné struktuře, je, že když lidé mluví o volbě mezi は a が, je to matoucí a poněkud zavádějící, protože to naznačuje, že は a が jsou poněkud podobné,  
 že dělají podobný druh práce.
 
-**A víme, že nedělají. Víme, že** **jsou to naprosto odlišné druhy částic.**
+**A víme, že nedělají. Víme, že jsou to naprosto odlišné druhy částic.**
 
-A to, co víme z téhle lekce, je, že to, co vlastně děláme, **když děláme** **volbu mezi は a が, je, že volíme,** **který ze dvou prvků, jež jsou vždycky přítomné, učinit viditelným, jestli učiníme viditelným は, viditelným が, nebo ani jedno viditelné.**
+A to, co víme z téhle lekce, je, že to, co vlastně děláme, **když děláme volbu mezi は a が, je, že volíme, který ze dvou prvků, jež jsou vždycky přítomné, učinit viditelným, jestli učiníme viditelným は, viditelným が, nebo ani jedno viditelné.**
 
 Takže můžeme říct <code>アメリカ人です</code>, můžeme říct <code>私はアメリカ人です</code> a můžeme říct <code>私がアメリカ人です</code>. A každé z těch má trochu jiný podtext.
 

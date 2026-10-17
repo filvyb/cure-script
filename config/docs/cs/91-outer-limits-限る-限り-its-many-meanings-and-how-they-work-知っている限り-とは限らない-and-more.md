@@ -132,7 +132,9 @@ Použila jsem podobu s kanji pro ケンカ (喧嘩), ale obě jsou v pořádku.
 
 A do češtiny se to překládá jako <code>hádky by neměly pokračovat</code>.
 
+::: info
 ![](../media/image597.webp)
+:::
 
 Někdy se to dokonce překládá jako <code>ať slunce nezapadá nad tvým hněvem</code>, což samozřejmě nemá nic společného s tím, co to opravdu říká.
 
@@ -150,13 +152,13 @@ Takže tohle je škála okolností, za kterých se v japonštině uplatňuje kon
 
 Jsou i jiné, samozřejmě, ale s touto informací, myslím, budete v lepší pozici vidět, co se děje.
 
+::: info
 ![](../media/image1091.webp)
 
 ![](../media/image855.webp)
 
 ![](../media/image879.webp)
 
-::: info
 Odkazované odkazy jsou [**くらい vs ほど**](https://www.youtube.com/watch?v=6PEQTcDnbBk&ab_channel=OrganicJapanesewithCureDolly) a Lekce 68 pro わけ. Můžete si jako obvykle prohlédnout ostatní komentáře pod videem.
-Každopádně, tady oficiálně končí Dollyin gramatický playlist 93 videí. Blížíme se ke konci. Pod tímhle je ještě pár dalších konvertovaných videí od Dolly.*
+Každopádně, tady oficiálně končí Dollyin gramatický playlist 93 videí. Blížíme se ke konci. Pod tímhle je ještě pár dalších konvertovaných videí od Dolly.
 :::

@@ -75,7 +75,7 @@ Takže například francouzské dveře můžou <code>あく</code> (otevřít se
 
 Je tu víc smyslu pro skutečný proces toho otevírání, toho rozevírání. Takže tohle dává jemnost, kterou v češtině nemáme, kterou lze vlít do řeči nebo psaní prostě tím, že zvolíme <code>ひらく</code> místo <code>あく</code>.
 
-Teď, když přijdeme k obraznějším nebo abstraktnějším použitím, to rozlišení je zase důležité. Například můžeme říct <code>店をあける</code> nebo <code>店をひらく</code> a obě znamenají <code>otevřít obchod</code>, ale <code>店を開ける</code> naznačuje prostě otevírání ráno pro obchod nebo otevírání po polední přestávce nebo něco takového, prostě doslova otevírání obchodu, jen otevírání dveří, aby zákazníci mohli přijít dovnitř.
+Teď, když přijdeme k obraznějším nebo abstraktnějším použitím, to rozlišení je zase důležité. Například můžeme říct <code>店をあける</code> nebo <code>店をひらく</code> a obě znamenají <code>otevřít obchod</code>, ale <code>店をあける</code> naznačuje prostě otevírání ráno pro obchod nebo otevírání po polední přestávce nebo něco takového, prostě doslova otevírání obchodu, jen otevírání dveří, aby zákazníci mohli přijít dovnitř.
 
 ![](../media/image60.webp)
 
@@ -85,7 +85,7 @@ A jen poznámka na okraj: u deštníku, který se taky rozevírá a možná byst
 
 ![](../media/image1062.webp)
 
-## 開ける
+## 開ける (ひらける)
 
 Teď, co se týče <code>ひらける</code>?
 

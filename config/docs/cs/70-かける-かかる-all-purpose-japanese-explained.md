@@ -10,7 +10,7 @@ Podnět k tomuhle videu přišel z otázky od jednoho z mých mecenášů Zlaté
 
 A jako jednotka, která je fanouškem Nintenda od té doby, co jsem byla ozubené kolečko, to opravdu oceňuji. (To je jen vtip — nikdy jsem opravdu nebyla ozubené kolečko.)
 
-Takže ta otázka je: <code>Často slýchám slovo </code>かける" a když si ho vyhledám v J-A slovníku, je tam přes dvacet různých definic toho. Je nějaká logika, která všechny tyhle definice spojuje dohromady? Nebo je to opravdu jen slovo se spoustou různých významů?"
+Takže ta otázka je: „Často slýchám slovo <code>かける</code> a když si ho vyhledám v J-A slovníku, je tam přes dvacet různých definic toho. Je nějaká logika, která všechny tyhle definice spojuje dohromady? Nebo je to opravdu jen slovo se spoustou různých významů?“
 
 No ano, je tu logika, která to všechno spojuje dohromady, ale ta logika má řadu obrazných rozšíření, takže se na to podíváme a uvidíme, jak to všechno funguje. Základní význam tohohle slova by se dal přeložit do češtiny jako <code>pověsit</code> nebo možná <code>zaháknout</code>,
 
@@ -143,4 +143,6 @@ A zase, tohle <code>かける</code> jako pomocné sloveso se dá použít za r�
 
 Teď, tohle nejsou všechny významy <code>かける</code>, ale myslím, že jsou ty hlavní, důležité, a myslím, že vám dávají představu o tom, jak tahle metafora funguje a proč funguje, a měly by vám umožnit přijít na to, jak fungují ty ostatní.
 
+::: info
 ![](../media/image811.webp)
+:::

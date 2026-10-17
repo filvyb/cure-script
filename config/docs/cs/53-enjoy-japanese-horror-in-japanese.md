@@ -27,7 +27,7 @@ No, <code>おる</code> znamená totéž co <code>いる</code>, což je <code>b
 Obecně se nám říká, že to znamená <code>být</code> u oduševnělých bytostí, jako zvířata a lidé. Není to tak úplně jednoduché a vysvětlil jsem to v jiné lekci, na kterou [**odkážu**](https://www.youtube.com/watch?v=PsTsliRe2Cg&ab_channel=OrganicJapanesewithCureDolly).
 <code>おる</code> je dost starší tvar <code>いる</code>, ale narážíme na něj za různých okolností.
 
-Například se používá v keigu jako pokorný tvar, tvar <code>謙譲語/けんじょうご</code>, slovesa <code>いる</code>, který používáme k ponížení svých vlastních činů a majetku, ale používá se taky v dialektu, v Kansai-ben například, a používá se v knižních kontextech, aby dal knižní vyprávěcí pocit. A takhle se používá tady.
+Například se používá v keigu jako pokorný tvar, tvar <code>[謙譲語]{けんじょうご}</code>, slovesa <code>いる</code>, který používáme k ponížení svých vlastních činů a majetku, ale používá se taky v dialektu, v Kansai-ben například, a používá se v knižních kontextech, aby dal knižní vyprávěcí pocit. A takhle se používá tady.
 
 Takže <code>おる</code> znamená <code>いる</code>, ale co znamená <code>おらず</code>? No, taky musíte pochopit, že <code>-ず</code> je taky kousek starší japonštiny, který dává vyprávění knižní pocit, a je to prostě záporný pomocník jako <code>-ない</code>.
 
@@ -73,7 +73,7 @@ Ale tohle konkrétní slovo <code>無用心</code> má sklon znamenat nedostatek
 
 <code>無用心だな、と思った彼女は</code>: takže ona, která tohle myslela, <code>電気をつけて先輩を起こそうかと思ったが</code>.
 
-Dobře, takže tohle vypadá trochu složitě a pořád jsme nedokončili větu, ale vezměme to prostě kousek po kousku. Za prvé pomyslela <code>無用心</code> — <code>nebezpečné, riskantní chování</code>; <code>pomyslela</code> — <code>と思った彼女</code> — ona, která tohle pomyslela, pak pomyslela něco jiného; <code>電気をつけて</code> — <code>点ける/つける</code>, samozřejmě, je cizopohybná verze <code>点く/つく</code>, takže pomyslela na rozsvícení světel; <code>先輩を起こそう</code> — teď, jak víme, ta koncovka <code>そう</code> je volní (volicionální) koncovka; <code>起こそうか</code> — pomyslela na to, že podnikne čin probuzení senpai.
+Dobře, takže tohle vypadá trochu složitě a pořád jsme nedokončili větu, ale vezměme to prostě kousek po kousku. Za prvé pomyslela <code>無用心</code> — <code>nebezpečné, riskantní chování</code>; <code>pomyslela</code> — <code>と思った彼女</code> — ona, která tohle pomyslela, pak pomyslela něco jiného; <code>電気をつけて</code> — <code>[点]{つ}ける</code>, samozřejmě, je cizopohybná verze <code>[点]{つ}く</code>, takže pomyslela na rozsvícení světel; <code>先輩を起こそう</code> — teď, jak víme, ta koncovka <code>そう</code> je volní (volicionální) koncovka; <code>起こそうか</code> — pomyslela na to, že podnikne čin probuzení senpai.
 
 <code>起こす</code> — <code>vzbudit někoho</code>; <code>起きる</code>, probudíte se sami; <code>起こす</code> — koncovky -す, jak víme, znamenají cizopohybná slovesa, takže <code>起こす</code> je vzbudit někoho jiného. <code>起こそうか</code> — takže přemýšlí o tomhle činu.
 
@@ -101,7 +101,7 @@ Takže teď máme trojité souvětí. Za prvé použijeme <code>が</code> — <
 
 <code>静か</code> nemůže znamenat tajně; <code>そっと</code> může znamenat tajně. Tady to neznamená tajně, ale znamená to udělat něco potichu, tak aby si toho někdo jiný nebyl vědom, což je ten druh podtextu, který <code>そっと</code> často mívá.
 
-<code>そっとしておく</code> — <code>しておく</code>, jak víme, je <code>uvést děj na své místo / mít děj připravený</code>. <code>置く/おく</code> znamená <code>položit (něco)</code>.
+<code>そっとしておく</code> — <code>しておく</code>, jak víme, je <code>uvést děj na své místo / mít děj připravený</code>. <code>[置]{お}く</code> znamená <code>položit (něco)</code>.
 
 ![](../media/image1000.webp)
 
@@ -123,9 +123,9 @@ Takže „‚To je nebezpečné, viď, nechávat dveře otevřené,' pomyslela s
 
 „V černočerné tmě — 真っ暗の中で — 自分の携帯電話 — svůj vlastní telefon — 探し出す". <code>探し出す</code>: <code>探す</code>, jak víme, je <code>hledat</code>; <code>探し出す</code> je doslova <code>vyhledat</code>, takže ho vyhledala, našla ho — <code>と</code>.
 
-„「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした"
+<code>「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした</code>
 
-Takže tady něco řekla nahlas, ale patrně dost potichu, aby senpai nevzbudila. Řekla: <code>忘れ物</code> — <code>zapomenutá věc</code> — <code>をしたので</code> — „udělala jsem zapomenutou věc / zapomněla jsem věc / nechala jsem za sebou věc<code> — </code>忘れ物をしたので" — kvůli tomu — <code>取りに戻りました</code> — <code>vrátila jsem se, abych si ji vzala / abych si ji vzala, vrátila jsem se</code> — <code>とひと声かけて</code> — <code>声 (を) かける</code> je něco někomu říct, zapříst s ním rozhovor, tady <code>ひと声</code> — prostě řekla to jediné slovo, prostě řekla ten jeden hlas, doslova, prostě to řekla — <code>部屋を後にした</code> — takže to prostě řekla, patrně potichu, aby ji senpai ani neslyšela, ale měla pocit, že by měla něco říct — <code>部屋を後にした</code> — <code>後にする</code> doslova znamená <code>proměnit to v něco za sebou</code>, jinými slovy nechat to za sebou, jinými slovy odejít — odešla z pokoje — <code>部屋を後にした</code> — udělala z pokoje tu věc za sebou tím, že ho opustila.
+Takže tady něco řekla nahlas, ale patrně dost potichu, aby senpai nevzbudila. Řekla: <code>忘れ物</code> — <code>zapomenutá věc</code> — <code>をしたので</code> — „udělala jsem zapomenutou věc / zapomněla jsem věc / nechala jsem za sebou věc“ — <code>忘れ物をしたので</code> — kvůli tomu — <code>取りに戻りました</code> — <code>vrátila jsem se, abych si ji vzala / abych si ji vzala, vrátila jsem se</code> — <code>とひと声かけて</code> — <code>声 (を) かける</code> je něco někomu říct, zapříst s ním rozhovor, tady <code>ひと声</code> — prostě řekla to jediné slovo, prostě řekla ten jeden hlas, doslova, prostě to řekla — <code>部屋を後にした</code> — takže to prostě řekla, patrně potichu, aby ji senpai ani neslyšela, ale měla pocit, že by měla něco říct — <code>部屋を後にした</code> — <code>後にする</code> doslova znamená <code>proměnit to v něco za sebou</code>, jinými slovy nechat to za sebou, jinými slovy odejít — odešla z pokoje — <code>部屋を後にした</code> — udělala z pokoje tu věc za sebou tím, že ho opustila.
 
 A to bylo pro ten večer všechno. No, z tohohle se dostala v pořádku, že?
 

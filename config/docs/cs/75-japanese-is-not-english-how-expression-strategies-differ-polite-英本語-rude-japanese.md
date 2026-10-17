@@ -158,7 +158,7 @@ které zase můžou uvést příběh.
 
 Proč tu říkáme <code>のこと</code>?
 
-No, stojí za to si pamatovat, že <code>こと/事</code> nejen znamená situaci nebo okolnost, ale je to takový bratranec <code>こと/言</code> z <code>言葉</code>.
+No, stojí za to si pamatovat, že <code>[事]{こと}</code> nejen znamená situaci nebo okolnost, ale je to takový bratranec <code>[言]{こと}</code> z <code>言葉</code>.
 ::: info
 Podívejte se na lekci 74 ohledně tohohle.
 :::

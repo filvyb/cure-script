@@ -8,7 +8,7 @@ Dnes probereme tu nejzákladnější věc v japonštině. A jestli tohle pochop�
 
 To, co dnes uděláme, je, že začneme mluvit o tom, jak to můžeme uplatnit na jakoukoli japonskou větu, na kterou narazíme ve volné přírodě. Teď, zásadní jádro japonštiny, jak víte, je jádrová japonská věta. Je to to, čemu říkám vagon A a lokomotiva B. Oba ty prvky tam musí být v každé větě.
 
-Lokomotivu B vidíme vždycky. Vagon A nevidíme vždycky, ale je tam vždycky. V češtině se těmhle říká podmět a přísudek a v japonštině se jim říká 主語/しゅご a 述語/じゅつご, ale my jim budeme dál říkat vagon A a lokomotiva B, protože takhle si dokážeme přesně představit, co se ve větě děje, pomocí vláčků.
+Lokomotivu B vidíme vždycky. Vagon A nevidíme vždycky, ale je tam vždycky. V češtině se těmhle říká podmět a přísudek a v japonštině se jim říká [主語]{しゅご} a [述語]{じゅつご}, ale my jim budeme dál říkat vagon A a lokomotiva B, protože takhle si dokážeme přesně představit, co se ve větě děje, pomocí vláčků.
 
 Teď, tahle lekce začíná otázkou, kterou položil můj mecenáš Zlatá Kokeši Pantelis Chrysafis-sama (a doufám, že vyslovuju vaše jméno správně). Byla to velmi jednoduchá otázka, ale velmi dobrá, velmi zásadní. Byla prostě <code>Jak poznáme, kde končí logický větný celek?</code>
 
@@ -64,7 +64,7 @@ Nezáleží na tom. Nezáleží na tom v japonštině a nezáleží na tom ani v
 
 Ale obejít se bez něj nemůžeme. Nemůžeme se bez něj obejít v japonštině a nemůžeme se bez něj obejít ani v češtině. Protože jak v japonštině, tak v češtině musíme mít vagon A a lokomotivu B.
 
-Podmět a přísudek. 主語/しゅご a 述語/じゅつご. Rozdíl je v tom, že v některých jazycích, jako je angličtina, musíte vždycky vidět oba dva. V češtině, stejně jako v japonštině, ten první vidět nemusíme. Ten druhý vidět musíme. Ale ten první tam je vždycky, a jestli tohle nepochopíme, budeme mít velké potíže s vybíráním jádrové věty, zvlášť jak se věci budou stávat složitějšími.
+Podmět a přísudek. [主語]{しゅご} a [述語]{じゅつご}. Rozdíl je v tom, že v některých jazycích, jako je angličtina, musíte vždycky vidět oba dva. V češtině, stejně jako v japonštině, ten první vidět nemusíme. Ten druhý vidět musíme. Ale ten první tam je vždycky, a jestli tohle nepochopíme, budeme mít velké potíže s vybíráním jádrové věty, zvlášť jak se věci budou stávat složitějšími.
 
 ![](../media/image884.webp)
 

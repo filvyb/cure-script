@@ -16,7 +16,7 @@ Běžně se tomu říká systém こ-そ-あ-ど a zpočátku prostě označuje 
 
 ![](../media/image758.webp)
 
-<code>ここ</code> znamená <code>tady</code>. Pokud znáte japonské slovo <code>こころ/心</code> – <code>srdce</code> – je tady, přesně tam, kde jsem já, přesně tam, kde je mé srdce. To není etymologie toho slova, ale je to mnemotechnická pomůcka. <code>そこ</code> znamená <code>tam</code>. Teď, **často <code>ここ</code> znamená místo mluvčího a <code>そこ</code> znamená místo posluchače.** **<code>あそこ</code> znamená <code>tamhle</code> a často znamená vzdálené jak od mluvčího, tak od posluchače.** Takže slovo s あ znamená tamhle, kapánek v dáli, takže je to trochu daleko, musíte aaaá – křiknout – aby vás tam bylo slyšet. **<code>どこ</code> znamená <code>kde</code>, takže to je tázací slovo.** Takže **slova s こ znamenají tady**, možná blízko mě, **slova s そ znamenají tam**, často blízko tebe, **slova s あ znamenají tamhle**, a **slova s ど tvoří otázku**. Takže v anime nebo manze často uvidíte někoho říkat <code>ここはどこ?</code> – <code>Kde to jsem?</code> Doslova <code>**Co se týče tohohle místa, kde (je)?**</code> A zdá se, že to je pro Japonce ten nejobvyklejší způsob, jak položit tuhle otázku, když se náhle ocitne na neznámém místě. Český způsob, jak se to zeptat, bude spíš <code>Kde to jsem?</code>, ale **japonský způsob je <code>Kde je tohle místo?</code>** <code>ここはどこ?</code> – <code>Co se týče tohohle místa, kde?</code>
+<code>ここ</code> znamená <code>tady</code>. Pokud znáte japonské slovo <code>[心]{こころ}</code> – <code>srdce</code> – je tady, přesně tam, kde jsem já, přesně tam, kde je mé srdce. To není etymologie toho slova, ale je to mnemotechnická pomůcka. <code>そこ</code> znamená <code>tam</code>. Teď, **často <code>ここ</code> znamená místo mluvčího a <code>そこ</code> znamená místo posluchače.** **<code>あそこ</code> znamená <code>tamhle</code> a často znamená vzdálené jak od mluvčího, tak od posluchače.** Takže slovo s あ znamená tamhle, kapánek v dáli, takže je to trochu daleko, musíte aaaá – křiknout – aby vás tam bylo slyšet. **<code>どこ</code> znamená <code>kde</code>, takže to je tázací slovo.** Takže **slova s こ znamenají tady**, možná blízko mě, **slova s そ znamenají tam**, často blízko tebe, **slova s あ znamenají tamhle**, a **slova s ど tvoří otázku**. Takže v anime nebo manze často uvidíte někoho říkat <code>ここはどこ?</code> – <code>Kde to jsem?</code> Doslova <code>**Co se týče tohohle místa, kde (je)?**</code> A zdá se, že to je pro Japonce ten nejobvyklejší způsob, jak položit tuhle otázku, když se náhle ocitne na neznámém místě. Český způsob, jak se to zeptat, bude spíš <code>Kde to jsem?</code>, ale **japonský způsob je <code>Kde je tohle místo?</code>** <code>ここはどこ?</code> – <code>Co se týče tohohle místa, kde?</code>
 
 Tak to je dost jednoduché, myslím. A teď se podíváme na něco, co občas lidi mate, a to proto, že když přijdeme ke skupině -れ a -の, v češtině často oboje vyjadřujeme stejným slovem. Rozdíl ale máme, tak se na to podíváme.
 
@@ -36,7 +36,7 @@ Teď, s čím se tohle může poplést, je **skupina -の: <code>この</code>, 
 
 ![](../media/image389.webp)
 
--れ znamená věc a odkazuje na věc. の, jak víme, se používá k tvoření přídavných výrazů či popisovačů. Takže když řekneme <code>さくらのドレス</code>, říkáme <code>Sakuřiny šaty</code>. Když řekneme <code>でんせつのせんし/伝説の戦士</code>, říkáme <code>legendární bojovník / bojovník, který patří do třídy legendy</code>.
+-れ znamená věc a odkazuje na věc. の, jak víme, se používá k tvoření přídavných výrazů či popisovačů. Takže když řekneme <code>さくらのドレス</code>, říkáme <code>Sakuřiny šaty</code>. Když řekneme <code>[伝説の戦士]{でんせつのせんし}</code>, říkáme <code>legendární bojovník / bojovník, který patří do třídy legendy</code>.
 
 ---
 
@@ -94,7 +94,7 @@ Takže to, co opravdu říkáme, je <code> *(zeroが)* **そう**だ/**そう**�
 
 ![](../media/image96.webp)
 
-Teď, **<code>すれば</code> je podmínkový tvar od <code>する</code>.** Když řekneme <code>どうすればいい?</code>, znamená to <code>jak **když** to udělám, bude dobré?</code> A často je nacházíme spojené s <code>いう/言う</code>, znamenajícím <code>říkat</code>. Je to další příklad širšího uplatnění pojmu citace v japonštině, který jsme nedávno probrali. A **tohle se často používá ve vztahu k věcem, které nejsou fyzické, konkrétní věci** – jinými slovy **k tomu druhu věcí, kterým říkáme <code>こと</code>** spíš než <code>もの</code>.
+Teď, **<code>すれば</code> je podmínkový tvar od <code>する</code>.** Když řekneme <code>どうすればいい?</code>, znamená to <code>jak **když** to udělám, bude dobré?</code> A často je nacházíme spojené s <code>[言]{い}う</code>, znamenajícím <code>říkat</code>. Je to další příklad širšího uplatnění pojmu citace v japonštině, který jsme nedávno probrali. A **tohle se často používá ve vztahu k věcem, které nejsou fyzické, konkrétní věci** – jinými slovy **k tomu druhu věcí, kterým říkáme <code>こと</code>** spíš než <code>もの</code>.
 
 ![](../media/image690.webp)
 

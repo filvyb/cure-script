@@ -38,13 +38,13 @@ Teď, s posledními třemi se můžeme vypořádat velmi rychle,
 
 Teď, jak se do toho dostává sloveso bytí? No, o tom si povíme za chvíli.
 
-**<code>ござる</code> se prostě skládá ze zdvořilostního <code>ご</code> plus <code>ざる / 座る</code>,**
+**<code>ござる</code> se prostě skládá ze zdvořilostního <code>ご</code> plus <code>[座]{ざ}る</code>,**
 **které původně znamená <code>usazený</code>, ale má rozšířený význam <code>existující</code>.**
 
 ::: info
 座る se normálně čte jako すわる, ale jeho on-jomi čtení je ざ, proto tady ざる, protože, myslím, to odkazuje na jeho rozšířený význam <code>existující</code>?
 :::
-**Takže <code>ござる / ご座る</code> je prostě <code>ある</code> v parádní podobě.**
+**Takže <code>ご[座]{ざ}る</code> je prostě <code>ある</code> v parádní podobě.**
 
 ![](../media/image1122.webp)
 
@@ -322,7 +322,9 @@ používáme třílokomotivovou strukturu.
 
 Slovesa, přídavná jména a sponu považujeme za tři jedinečné entity.
 
+::: info
 ![](../media/image1008.webp)
+:::
 
 **To není tvrzení o etymologii japonštiny.**
 **Není to ani tvrzení o <code>skutečné pravdě</code> japonské gramatiky,**

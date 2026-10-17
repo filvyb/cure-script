@@ -128,7 +128,7 @@ Ale je tu další bod, který tu musíme zvážit, a to je, že zatímco v těch
 
 ***Jak jsem zmínil dřív, です / ます jsou spíš označovače zdvořilosti, ne označovače formálnosti.*** ***Jsou součástí 丁寧語 (zdvořilý jazyk). Takže je přesnější nazývat je místo toho zdvořilými.***
 
-Jak víme, **jsou jen dva druhy vět, věty A-je-B a věty A-dělá-B**, a **v japonštině jsou dva druhy vět A-je-B**, totiž **přídavnojmenné věty**, **které ve své prosté formě musí končit na -い**, a **sponové věty**, které musí **končit na <code>だ</code> nebo <code>です</code>.
+Jak víme, **jsou jen dva druhy vět, věty A-je-B a věty A-dělá-B**, a **v japonštině jsou dva druhy vět A-je-B**, totiž **přídavnojmenné věty**, **které ve své prosté formě musí končit na -い**, a **sponové věty**, které musí **končit na <code>だ</code> nebo <code>です</code>**.
 
 ![](../media/image90.webp)
 
@@ -139,7 +139,7 @@ Tohle je taky proč だ se s tím nepoužívá, protože je nadbytečné, jeliko
 Dolly to vysvětluje tímhle způsobem - že nese sponovou funkci v sobě & pravděpodobně proto se だ nepoužívá.
 
 Ale jsou tu různé postoje, které si můžete prověřit hledáním o téhle otázce, někteří odkazují na -い jako „tak nějak sponu", jiní ne, někteří dokonce zpochybňují, jestli japonština má vůbec přídavná jména.  
-Ale celkově vzato úplně nezáleží na tom, jak se to nazývá, na čem záleží, je, že rozumíte, jak to v jazyce funguje & jak se to správně používá. Protože [**ne všechna slova zakončená na -い jsou automaticky přídavné jméno**](https://jisho.org/search/%E6%B4%97%E3%81%84), jelikož může být skrytá podoba v kandži atd. Ačkoli v 98 % je to přídavné jméno.*
+Ale celkově vzato úplně nezáleží na tom, jak se to nazývá, na čem záleží, je, že rozumíte, jak to v jazyce funguje & jak se to správně používá. Protože [**ne všechna slova zakončená na -い jsou automaticky přídavné jméno**](https://jisho.org/search/%E6%B4%97%E3%81%84), jelikož může být skrytá podoba v kandži atd. Ačkoli v 98 % je to přídavné jméno.
 
 V podstatě, Dolly je tu, aby vám dala základy, jestli jdete do hloubek, věci jsou jen vzácně přímočaré & univerzální. Jazyk je velmi složitý konstrukt & nefunguje úplně takhle.  
 Např. proč je tolik způsobů, jak ho studovat, vykládat ho & vysvětlovat ho. Vyberte si, co vám funguje.
@@ -157,8 +157,8 @@ Chápu, že protože je to nadbytečnost, můžeme říct, že to není spona, k
 
 **A to je ten jediný skutečný případ, kdy <code>です</code> dělá něco jiného než <code>だ</code>.**
 
-![](../media/image563.webp)
-
-::: tip
+::: info
 Doporučuji číst komentáře [**pod videem**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly) jako obvykle. Přibližte, jestli něco.
+
+![](../media/image563.webp)
 :::

@@ -155,7 +155,9 @@ Ale **v neformální japonštině můžeme použít <code>か</code>, ale větš
 
 **A tak se otazník stal velmi užitečným nástrojem pro naznačení té stoupavé intonace, pro to, aby nám řekl, že tohle je otázka, ne tvrzení.**
 
+::: info
 ![](../media/image579.webp)
+:::
 
 **V češtině musíte použít otazník na konci otázky, pokud píšete správnou češtinu. V japonštině takové pravidlo neexistuje.**
 
@@ -201,6 +203,7 @@ A mám podezření, že do japonštiny přišly původně proto, aby vykreslily 
 
 **Tento důraz a naznačení, že se něco používá ve zvláštním smyslu, lze také naznačit katakanou, ale tohle uvidíte čas od času v japonských textech a to to znamená.**
 
+::: info
 ![](../media/image559.webp)
 
 ![](../media/image260.webp)
@@ -208,3 +211,4 @@ A mám podezření, že do japonštiny přišly původně proto, aby vykreslily 
 ![](../media/image437.webp)
 
 *Odkaz od Dolly je na Lekci 80.*
+:::

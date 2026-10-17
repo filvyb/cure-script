@@ -30,7 +30,7 @@ Obě používají stejné kandži, které znamená <code>vyjít</code>. **Zákla
 
 ::: info
 Překlad <code>způsobit, aby</code> nepleťte s označením kauzativu<sup>[[19]](./19-causative-causative-receptive.md)</sup>,
-出す má svůj vlastní <code>kauzativní</code> tvar – 出させる(ださせる), který označuje **[jeho kauzativní tvar](https://www.weblio.jp/content/%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B).
+出す má svůj vlastní <code>kauzativní</code> tvar – 出させる(ださせる), který označuje **[jeho kauzativní tvar](https://www.weblio.jp/content/%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B)**.
 *Tady konáte děj přesunutí něčeho. Nenutíte to udělat někoho jiného.*
 :::
 

@@ -101,7 +101,7 @@ Myslím, že tím prostě myslí, že tohle by nefungovalo bez zmíněného 私�
 :::
 
 Tady je to místo toho jen předrozvíjející člen a hlavové sloveso větného celku je あげた na konci.
-*Takže kdybychom chtěli rozvíjet oba prvky věty, museli bychom ten první udělat viditelným.
+Takže kdybychom chtěli rozvíjet oba prvky věty, museli bychom ten první udělat viditelným.
 
 Zkusme to udělat. <code>あのさくらをなぐったみにくい外国人は *(zeroが)* 私がいちばでかったドレスをメガネをかけている少女にあげた.</code> — <code>Ten ošklivý cizinec, který uhodil Sakuru, dal šaty, které jsem koupil na trhu, dívce s brýlemi.</code>
 
@@ -109,20 +109,20 @@ Zkusme to udělat. <code>あのさくらをなぐったみにくい外国人は 
 
 Teď začínáme větu nelogickým tématem označeným pomocí は. Ale to, co to téma dělá, je, že nám definuje to nulové zájmeno, が-označený vagon A věty, což je zeroが.
 
-Teď, mohli bychom říct <code>みにくい外国人がさくらをなぐった</code> — <code>Ošklivý cizinec uhodil Sakuru</code> — ale to, co tu znovu děláme, je, že vytahujeme jeden z těch prvků, v tomhle případě <code>外国人</code>, a dáváme ho na konec větného celku, **takže to není funkční logický větný celek***,* **je to rozvité podstatné jméno:** <code>ten ošklivý 外国人, který uhodil Sakuru</code>. Takže nám to říká víc o tom 外国人: <code>Co se týče toho ošklivého 外国人, který uhodil Sakuru, on udělal…</code>
+Teď, mohli bychom říct <code>みにくい外国人がさくらをなぐった</code> — <code>Ošklivý cizinec uhodil Sakuru</code> — ale to, co tu znovu děláme, je, že vytahujeme jeden z těch prvků, v tomhle případě <code>外国人</code>, a dáváme ho na konec větného celku, **takže to není funkční logický větný celek, je to rozvité podstatné jméno:** <code>ten ošklivý 外国人, který uhodil Sakuru</code>. Takže nám to říká víc o tom 外国人: <code>Co se týče toho ošklivého 外国人, který uhodil Sakuru, on udělal…</code>
 
 Co udělal? <code>Udělal…</code> — to je <code>zeroが</code> — <code>udělal…</code> a pak řekneme, co udělal.
 
 ::: info
 Tenhle komentář dám sem.
-*![](../media/image825.webp)
+![](../media/image825.webp)
 :::
 
 A všimněme si, že všechno, všechno v téhle větě kromě jádra se skládá z toho, čemu bychom mohli říkat <code>sériové rozvíjení</code>. Dokonce i slovo <code>外国人</code>, které se tak často vídá pohromadě, že ho máme sklon považovat za slovo samo o sobě, a je to slovo samo o sobě, je ve skutečnosti příkladem *sériového rozvíjení*, jedné věci rozvíjející věc, která přichází po ní.
 
 ![](../media/image523.webp)
 
-Takže <code>コク/国</code> je onové čtení slova <code>くに/国</code> — <code>země</code>. <code>外国</code> — v <code>外国</code> rozvíjí <code>外</code> to <code>国</code>. Jaký druh země to byl? <code>Vnější</code> země, <code>cizí</code> země. A pak <code>ジン/人</code>, což je onové čtení slova <code>ひと/人</code> — <code>člověk</code> — je rozvíjeno těmihle dvěma dohromady.
+Takže <code>[国]{コク}</code> je onové čtení slova <code>[国]{くに}</code> — <code>země</code>. <code>外国</code> — v <code>外国</code> rozvíjí <code>外</code> to <code>国</code>. Jaký druh země to byl? <code>Vnější</code> země, <code>cizí</code> země. A pak <code>[人]{ジン}</code>, což je onové čtení slova <code>[人]{ひと}</code> — <code>člověk</code> — je rozvíjeno těmihle dvěma dohromady.
 
 Jaký druh člověka to byl? Člověk z <code>vnější země</code>, člověk <code>z cizí země</code> — <code>外国人</code> (cizinec).
 

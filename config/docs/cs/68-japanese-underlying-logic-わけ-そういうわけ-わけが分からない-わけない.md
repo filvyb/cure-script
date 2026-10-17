@@ -10,7 +10,7 @@ Dnes si budeme povídat o <code>わけ</code>,
 
 což je japonské slovo, které může způsobit dost zmatku, protože se v japonštině používá rozmanitými různými způsoby a v situacích a v anglických slovnících má celou řadu definic, které se zdají obzvlášť nesourodé a matoucí. Avšak jakmile pochopíme tu skutečnou logiku, ten základní význam toho slova, všechno to dost pěkně zapadne na místo. Takže co je <code>わけ</code>?
 
-## わけ/訳
+## [訳]{わけ}
 
 Především se podívejme na anglickou slovníkovou definici. V online slovníku se říká, že <code>わけ</code> znamená „závěr z uvažování;
 úsudek nebo výpočet založený na něčem přečteném nebo slyšeném;
@@ -32,7 +32,7 @@ Ale když řekneme <code>jasná</code>, používáme trochu špatnou metaforu, j
 
 ![](../media/image959.webp)
 
-A to je to, co <code>わけ/訳</code> tady znamená. Teď vím, že někteří z vás si možná myslí <code>ale je to jiné kandži</code>.
+A to je to, co <code>[訳]{わけ}</code> tady znamená. Teď vím, že někteří z vás si možná myslí <code>ale je to jiné kandži</code>.
 
 ![](../media/image629.webp)
 
@@ -40,7 +40,7 @@ No, to je pravda. Obvykle si spojujeme <code>分かる</code> s tímhle kandži,
 
 Jde o to, že <code>わけ / 分かる</code> není vázáno na žádné jedno kandži. Je to základní japonské slovo, které sahá dál než kandži použité k jeho zobrazení, a ta základní myšlenka je ve všech těchhle případech stejná: myšlenka oddělení, dělení, analýzy, rozboru.
 
-Takže co vlastně je <code>わけ/訳</code>? Vezměme si ty nejvýraznější anglické definice, kterými jsou: příčina, důvod a závěr založený na něčem, co jsme viděli nebo slyšeli.
+Takže co vlastně je <code>[訳]{わけ}</code>? Vezměme si ty nejvýraznější anglické definice, kterými jsou: příčina, důvod a závěr založený na něčem, co jsme viděli nebo slyšeli.
 
 Teď, všimněme si, že příčina, důvod a závěr obecně řečeno odkazují na tutéž věc. Ten hlavní rozdíl je, jestli ten proces jde dozadu, nebo jestli ten proces jde dopředu.
 
@@ -56,7 +56,7 @@ Pracujeme od jednoho známého faktu k jinému neznámému faktu, ke kterému to
 
 V jednom případě to pracujeme dopředu, v druhém případě to pracujeme dozadu, ale ta základní vnitřní příčinná logická důvodovost, abych razila výraz, je stejná. A razila jsem výraz <code>důvodovost</code>, protože pro tohle v češtině opravdu není slovo.
 
-Ale v japonštině je, a to slovo je <code>わけ/訳</code>. Takže <code>わけ</code>, jak vidíme, vyjadřuje příčinu, důvod a závěr nebo logický úsudek — všechny tyhle věci.
+Ale v japonštině je, a to slovo je <code>[訳]{わけ}</code>. Takže <code>わけ</code>, jak vidíme, vyjadřuje příčinu, důvod a závěr nebo logický úsudek — všechny tyhle věci.
 
 To, co to opravdu vyjadřuje, je vnitřní příčinnost nebo důvodovost, a když slovníky říkají, že to taky vyjadřuje okolnost nebo situaci nebo něco takového, ve skutečnosti to opravdu nedělá, ale to, co to dělá, je vyjádřit vnitřní důvodovost okolnosti nebo situace.
 
@@ -122,7 +122,7 @@ Nevíme, jestli je to pravda, nebo ne, ale z faktu, že je tlustá, to nemůžem
 
 Ale ta důležitá věc, kterou popíráme, je ta vnitřní důvodovost, to logické spojení, které by se v těchhle případech mohlo udělat.
 
-## わけない / 訳ない (訳がない)
+## [訳]{わけ}ない (訳がない)
 
 Teď, další běžné záporné použití je <code>わけがない</code>, někdy zkrácené jen na <code>わけない</code>.
 
@@ -157,10 +157,12 @@ Takže například <code>そんなにお金の要るわけがない</code>
 <code>není důvod, proč by potřebovala tolik peněz</code>
 
 ::: info
-protože tohle いる, podle toho, co Dolly říká, znamená <code>potřebovat</code>, dala jsem 要る do jeho podoby v kandži, aby to odráželo, spíš než jen běžné <code>být</code> 居る/いる.
+protože tohle いる, podle toho, co Dolly říká, znamená <code>potřebovat</code>, dala jsem 要る do jeho podoby v kandži, aby to odráželo, spíš než jen běžné <code>být</code> [居]{い}る.
+
+*Taky tohle... jen pro jistotu…*
+
+![](../media/image892.webp)
 :::
-*Taky tohle... jen pro jistotu…
-*![](../media/image892.webp)
 
 Možná o to žádá, možná to dostane, ale opravdu není důvod, proč by to potřebovala.
 

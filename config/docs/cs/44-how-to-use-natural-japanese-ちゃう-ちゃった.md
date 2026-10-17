@@ -48,4 +48,6 @@ Znovu, je to ta samá představa, ale v japonštině ji můžeme promítnout i d
 
 Takže jestli pochopíme, jak tyhle fungují, nemusíme mít spoustu složitých výkladů všech jejich různých případů. Fungují pořád stejným způsobem, jen když přemýšlíme o tom, jaký je způsob, jak fungují, spíš než jaký je jejich konečný výsledek, když to přeložíte do češtiny.
 
+::: info
 ![](../media/image786.webp)
+:::

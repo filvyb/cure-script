@@ -29,7 +29,7 @@ Tak se podívejme na některé způsoby, jimiž se používá. Můžeme říct <
 
 <code>自然</code> je příroda<code> a </code>まま<code> je </code>nezměněný stav<code> nebo </code>nezměněná podmínka". Takže <code>自然のまま</code> je <code>nezměněný stav přírody</code>. <code>自然のままの森</code> je <code>les v nezměněném stavu přírody</code>.
 
-Teď, když jste v Japonsku, někdo vám možná nabídne 枝豆/えだまめ, což jsou boby, které rostou z větví stromů, proto se jim říká 枝豆 (což znamená <code>větvový bob</code>). A vy se na ně možná podíváte, nejsou uvařené ani nic, a možná řeknete <code>そのままで食べられるの?</code> — <code>Dají se sníst přesně tak, jak jsou / dají se sníst ve svém nezměněném stavu?</code>
+Teď, když jste v Japonsku, někdo vám možná nabídne [枝豆]{えだまめ}, což jsou boby, které rostou z větví stromů, proto se jim říká 枝豆 (což znamená <code>větvový bob</code>). A vy se na ně možná podíváte, nejsou uvařené ani nic, a možná řeknete <code>そのままで食べられるの?</code> — <code>Dají se sníst přesně tak, jak jsou / dají se sníst ve svém nezměněném stavu?</code>
 
 ![](../media/image981.webp)
 
@@ -73,7 +73,7 @@ Takže <code>思いのまま</code> je <code>v nezměněném stavu něčí myšl
 
 ![](../media/image898.webp)
 
-Proč to tohle znamená? No, <code>我が/わが</code> znamená <code>já</code> nebo <code>my</code> a dá se dát vedle podstatného jména, aby to označilo jeho vlastnictví. Takže můžeme říct <code>わが家</code>, což znamená <code>můj dům</code> nebo <code>náš dům</code>.
+Proč to tohle znamená? No, <code>[我]{わ}が</code> znamená <code>já</code> nebo <code>my</code> a dá se dát vedle podstatného jména, aby to označilo jeho vlastnictví. Takže můžeme říct <code>わが家</code>, což znamená <code>můj dům</code> nebo <code>náš dům</code>.
 
 <code>わがまま</code> znamená <code>můj nezměněný stav</code>, ale tohle je jasně ovlivněno výrazy jako <code>思いのまま</code> nebo <code>心のまま</code>. Takže tohle <code>わがまま</code> znamená <code>můj nezměněný stav</code> naznačující <code>moji vůli</code>, <code>chtění, aby svět šel v souladu s mou vůlí,</code> chtění, aby svět byl <code>思いのまま</code>, <code>心のまま</code>.
 

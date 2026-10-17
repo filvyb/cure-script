@@ -58,7 +58,7 @@ A dokonce <code>**うち**のきょう</code>, což je <code>náboženství **na
 
 ## うち vs そと
 
-**Teď, z tohohle dostáváme velmi fundamentální rozlišení v japonštině,** **kterým je rozlišení mezi koncepty <code>うち / 内</code> a <code>そと / 外</code>.** **<code>うち</code> odkazuje na skupinu, ke které člověk patří, na vnitřní skupinu;** **<code>そと</code> odkazuje na všechno mimo tu skupinu.**
+**Teď, z tohohle dostáváme velmi fundamentální rozlišení v japonštině,** **kterým je rozlišení mezi koncepty <code>[内]{うち}</code> a <code>[外]{そと}</code>.** **<code>うち</code> odkazuje na skupinu, ke které člověk patří, na vnitřní skupinu;** **<code>そと</code> odkazuje na všechno mimo tu skupinu.**
 
 ![](../media/image849.webp)
 
@@ -96,7 +96,9 @@ Takže **je to ohraničení vymezené svým obsahem, jako ostatní druhy <code>�
 
 ![](../media/image991.webp)
 
+::: info
 ![](../media/image397.webp)
+:::
 
 Podobně <code>若い**うち**</code> (**dokud** je člověk mladý) — člověk by měl dělat tohle, dělat tamto, **dokud** je mladý. **To <code>うち</code>, to ohraničení času, je vymezeno svým obsahem.**
 
@@ -154,28 +156,28 @@ A **tohle je ten druh <code>その</code>, který se používá v <code>その�
 
 Takže tohle je vlastně způsob, jakým <code>うち</code> rozšiřuje svůj význam od docela konkrétních ke stále abstraktnějším, z nichž všechny jsou úzce příbuzné se základním významem.
 
+::: info
 ![](../media/image885.webp)
 
 ![](../media/image820.webp)
 
 ![](../media/image607.webp)
 
-::: info
 **Pokud jste došli až sem, pak vám děkuji a jste úžasní!**
 
 *Takže jsme konečně dosáhli konce… zabralo mi to zhruba 1,5 roku editovat, takže si brzy trochu odpočinu, stihl jsem to právě včas na rok 2024:D I když 26-78 budu asi ještě muset později aktualizovat.
 Vskutku docela cesta, asi (\*^ω^)八(⌒▽⌒)
 Dolly má celkem 204 videí, takže je tu stále kolem 100 videí, ale bohužel to je nad rámec mé současné energie, možná čas od času přidám nějaká videa, když se mi bude chtít, pokud najdu dobrý způsob, jak zkopírovat titulky a vše (těchto 97 lekcí tu bylo, než jsem se stal editorem).*
 
-*Rád bych přidal některá Dollyina [****videa o ponoření****](https://www.youtube.com/watch?v=xhEnMieHtec&list=PLg9uYxuZf8x_iLm90ie4ewro0lFedXncO&ab_channel=OrganicJapanesewithCureDolly) a [****videa o osvojování slovní zásoby / kanji****](https://www.youtube.com/watch?v=3rT1zaHSmog&list=PLg9uYxuZf8x-W5kcce4zVNwK_JHjxHK5x&ab_channel=OrganicJapanesewithCureDolly) obzvlášť, protože mám pocit, že jsou velmi užitečná. I když teď bych se rád zaměřil na hodně inputu.
+*Rád bych přidal některá Dollyina [**videa o ponoření**](https://www.youtube.com/watch?v=xhEnMieHtec&list=PLg9uYxuZf8x_iLm90ie4ewro0lFedXncO&ab_channel=OrganicJapanesewithCureDolly) a [**videa o osvojování slovní zásoby / kanji**](https://www.youtube.com/watch?v=3rT1zaHSmog&list=PLg9uYxuZf8x-W5kcce4zVNwK_JHjxHK5x&ab_channel=OrganicJapanesewithCureDolly) obzvlášť, protože mám pocit, že jsou velmi užitečná. I když teď bych se rád zaměřil na hodně inputu.
 Každopádně, tento přepis by vám měl dobře pokrýt obecné věci, které pak můžete posílit sami, základy byste v tomto bodě už měli mít položené docela dobře.*
 
 *---
 Vydržte a jděte konzumovat tuny a tuny skutečného japonského obsahu & pokud můžete, jděte jazyk skutečně POUŽÍVAT. Tak si ho člověk osvojí. Prostě pokračujte & bude to snazší.*
 
-*Očividně, pro všechny druhy zdrojů si můžete prohlédnout [****můj dokument se zdroji****](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#heading=h.pl6re36m6uy2) na první stránce.
+*Očividně, pro všechny druhy zdrojů si můžete prohlédnout [**můj dokument se zdroji**](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#heading=h.pl6re36m6uy2) na první stránce.
 Opět, jediný způsob, jak se <code>zlepšíte</code>, je, když vložíte čas a AKTIVNÍ úsilí! 頑張ります!
-Můžete mě kontaktovat na [****Discordu****](https://discord.com/users/501133947044888605) nebo přes mail, kdyby něco.*
+Můžete mě kontaktovat na [**Discordu**](https://discord.com/users/501133947044888605) nebo přes mail, kdyby něco.*
 
 *Obzvlášť pokud najdete překlep nebo špatnou informaci / poznámku nebo pokud máte nějaké tipy atd.*
 
@@ -186,7 +188,7 @@ Nesmírně si toho vážím! Rozhodně navštivte MoeWay a připojte se k jejich
 Očividně bych také rád poděkoval každému jednotlivému editorovi, který na tomto přepisu pracoval, ať už to bylo předtím, než jsem přišel, nebo potom, a poskytl nějakou pomoc s editováním!
 Děkuji vám všem a děkuji za váš příspěvek!***
 
-***Konec** (aspoň prozatím…)*
+***Konec*** *(aspoň prozatím…)*
 
 :::
 

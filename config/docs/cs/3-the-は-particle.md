@@ -24,11 +24,11 @@ Přesně tak, je to vlajka. Proč ji znázorňujeme jako vlajku? Protože přesn
 
 Některé učebnice vám řeknou, že věta jako <code>わたしはアメリカ人だ</code> doslova znamená <code>Co se mě týče, jsem Američan</code>, a to je naprosto správně. Kdyby se té logiky držely a dotáhly ji do konce, neměli bychom potíže, které máme.
 
-Takže <code>わたし/私は</code> znamená <code>co se mě týče</code>. <code>アメリカ人だ</code> znamená <code>=Američan</code> nebo <code>jsem Američan</code>. Jak vidíte, u věty jako tahle něco chybí, jak v japonštině, tak v češtině. Nemůžeme říct <code>co se mě týče, jsem Američan</code> bez toho „já“. A stejně tak nemůžeme mít větu bez vagonu A, bez konatele označeného が. Takže když vagon A doplníme, dává to smysl v japonštině i v češtině.
+Takže <code>[私]{わたし}は</code> znamená <code>co se mě týče</code>. <code>アメリカ人だ</code> znamená <code>=Američan</code> nebo <code>jsem Američan</code>. Jak vidíte, u věty jako tahle něco chybí, jak v japonštině, tak v češtině. Nemůžeme říct <code>co se mě týče, jsem Američan</code> bez toho „já“. A stejně tak nemůžeme mít větu bez vagonu A, bez konatele označeného が. Takže když vagon A doplníme, dává to smysl v japonštině i v češtině.
 
 ![](../media/image487.webp)
 
-<code>私は(**zeroが)**アメリカ人だ</code> – <code>Co se mě týče, (**já)** jsem Američan.</code>
+<code>私は<b>(zeroが)</b>アメリカ人だ</code> – <code>Co se mě týče, (**já)** jsem Američan.</code>
 
 Teď možná někteří z vás říkají: „Není to zbytečně složité? Nemůžeme prostě předstírat, že **わたしは** je hlavní vagon věty?“ A odpověď zní <code>**Ne**</code>. Protože ačkoli to v tomhle případě a v některých dalších funguje, nefunguje to v každém případě, a právě proto to opravdu nesmíme dělat.
 
@@ -36,11 +36,11 @@ Vezměme příklad. Mezi studenty japonštiny koluje starý vtip a je možný je
 
 Koneckonců, jestli <code>わたしはアメリカ人だ</code> znamená <code>Já jsem Američan</code>, pak <code>わたしはうなぎだ</code> musí znamenat <code>Já jsem úhoř</code>. To je naprosto dokonalá logika – **až na to, že <code>わたしはアメリカ人だ</code> neznamená <code>Já jsem Američan</code>. Znamená <code>Co se mě týče, jsem Američan</code>.**
 
-Jak víme, výchozí hodnota neviditelného vagonu, nulového zájmena, je <code>私/わたし</code>, ale to není jeho jediná hodnota. Jeho hodnota závisí na kontextu.
+Jak víme, výchozí hodnota neviditelného vagonu, nulového zájmena, je <code>[私]{わたし}</code>, ale to není jeho jediná hodnota. Jeho hodnota závisí na kontextu.
 
 ---
 
-Ve <code>わたしはアメリカ人だ</code> (<code>Co se mě týče, jsem Američan</code>) je hodnota nulového zájmena skutečně <code>私/わたし</code>. Ale ve <code>わたしはうなぎだ</code>, což je <code>わたしは(**zeroが)**うなぎだ</code>, „zero“ není <code>私</code>. „Zero“ je <code>to</code>. <code>To</code> je věc, o které mluvíme, předmět hovoru: co budeme jíst k večeři.
+Ve <code>わたしはアメリカ人だ</code> (<code>Co se mě týče, jsem Američan</code>) je hodnota nulového zájmena skutečně <code>[私]{わたし}</code>. Ale ve <code>わたしはうなぎだ</code>, což je <code>わたしは<b>(zeroが)</b>うなぎだ</code>, „zero“ není <code>私</code>. „Zero“ je <code>to</code>. <code>To</code> je věc, o které mluvíme, předmět hovoru: co budeme jíst k večeři.
 
 ![](../media/image377.webp)
 
@@ -74,7 +74,7 @@ Když řeknu <code>ボールがわたしにさくらをなげる</code>, říká
 
 ![](../media/image106.webp)
 
-Teď dejme は míči: <code>ボールは私がさくらに**(zeroを)**なげる</code>. Teď říkáme <code>Co se týče míče, házím ho po Sakuře</code>.
+Teď dejme は míči: <code>ボールは私がさくらに<b>(zeroを)</b>なげる</code>. Teď říkáme <code>Co se týče míče, házím ho po Sakuře</code>.
 
 ![](../media/image877.webp)
 

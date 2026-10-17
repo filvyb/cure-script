@@ -34,9 +34,9 @@ Pro příklad jeho **formálního použití**: slovníková definice slova <code
 
 **Jsou to vlastně jen jako sousloví a tohle je velmi blízké českému sousloví <code>okno auta</code>, což není jedno slovo, je to prostě sousloví.** Pokud známe <code>auto</code> a známe <code>okno</code>, víme, co je <code>okno auta</code>.
 
-Takže pokud známe <code>車</code> a známe <code>窓</code> a známe on-čtení obou, což jsou <code>しゃ</code> a <code>そう</code>, pak <code>しゃそう</code> vlastně nepředstavuje žádné problémy, jen s tím, že **si musíme pamatovat, že <code>しゃ</code>, on-čtení <code>車/くるま</code>, odkazuje na širší škálu vozidel.** <code>くるま</code> obvykle prostě znamená <code>自動車/じどうしゃ</code> (automobil), **zatímco <code>しゃ</code> může odkazovat na jakýkoli druh pozemního vozidla.**
+Takže pokud známe <code>車</code> a známe <code>窓</code> a známe on-čtení obou, což jsou <code>しゃ</code> a <code>そう</code>, pak <code>しゃそう</code> vlastně nepředstavuje žádné problémy, jen s tím, že **si musíme pamatovat, že <code>しゃ</code>, on-čtení <code>[車]{くるま}</code>, odkazuje na širší škálu vozidel.** <code>くるま</code> obvykle prostě znamená <code>[自動車]{じどうしゃ}</code> (automobil), **zatímco <code>しゃ</code> může odkazovat na jakýkoli druh pozemního vozidla.**
 
-Kolo je <code>自転車/じてんしゃ</code>, vlak je <code>電車/でんしゃ</code> a tak dále. A ta definice zní: <code>自動車**など**の窓</code>.
+Kolo je <code>[自転車]{じてんしゃ}</code>, vlak je <code>[電車]{でんしゃ}</code> a tak dále. A ta definice zní: <code>自動車**など**の窓</code>.
 
 Takže to v podstatě znamená <code>okno automobilu, **a tak dále**</code>, což **v tomto případě znamená jakýkoli druh pozemního vozidla, které má okna**, takže ne <code>自転車</code>, ale <code>電車</code> a tak dále: <code>okno vozidla</code>.
 
@@ -70,13 +70,13 @@ Takže bychom mohli říct <code>タバコ**など**不要だ</code>, což zname
 
 ## なんか
 
-**Takže <code>なんか</code> je vlastně stažení <code>何か/なにか</code> (něco)**, ale má docela dost hovorových použití.
+**Takže <code>なんか</code> je vlastně stažení <code>[何]{なに}か</code> (něco)**, ale má docela dost hovorových použití.
 
 ![](../media/image348.webp)
 
 A je to to znevažující, které občas uslyšíme velmi silně v případech, kdy... no, řekněme v anime, kde se mladší sestra zlobí na svou starší sestru. Může říct <code>お姉ちゃん**なんか**大嫌い!</code> (Fakt nesnáším **takové věci jako** mou velkou sestru).
 
-Teď, samozřejmě, **tohle není doslova to, co má na mysli.** **Nemá na mysli, že nesnáší <code>takové věci jako</code> svou velkou sestru,** **ale použitím tohoto výrazu — <code>takové věci jako ty</code>, <code>takové věci jako moje velká sestra</code> — ** **vrháte velmi hanlivé světlo na to, o čem mluvíte.**
+Teď, samozřejmě, **tohle není doslova to, co má na mysli.** **Nemá na mysli, že nesnáší <code>takové věci jako</code> svou velkou sestru,** **ale použitím tohoto výrazu — <code>takové věci jako ty</code>, <code>takové věci jako moje velká sestra</code> —** **vrháte velmi hanlivé světlo na to, o čem mluvíte.**
 
 ---
 
@@ -88,13 +88,13 @@ A co tím říkáme je „*(Takové věci jako / Něco jako)* Déšť mě netrá
 
 A **často se používá o sobě samém**, jako v <code>私なんか</code>, a **to se často používá k zdůraznění vnímané podřadné pozice** **nebo obtížné pozice, ve které se člověk ocitá**, například <code>私なんかまるで子供扱いだ</code> (Jednají se mnou úplně jako s dítětem).
 
-### なんか - stažení なにか / 何か
+### なんか - stažení [何]{なに}か
 
-**Teď, základní význam <code>なんか</code>, jak jsem řekla, je vlastně** **stažení <code>なにか / 何か</code>, což je <code>něco</code>.**
+**Teď, základní význam <code>なんか</code>, jak jsem řekla, je vlastně** **stažení <code>[何]{なに}か</code>, což je <code>něco</code>.**
 
 ![](../media/image661.webp)
 
-A **lze ho použít prostě jako stažení <code>なにか / 何か</code>** například ve <code>**なんか**心配はある?</code>, což prostě znamená <code>**何か**心配はある</code> nebo (Je tu **nějaká** starost? Trápí tě **něco**?).
+A **lze ho použít prostě jako stažení <code>[何]{なに}か</code>** například ve <code>**なんか**心配はある?</code>, což prostě znamená <code>**何か**心配はある</code> nebo (Je tu **nějaká** starost? Trápí tě **něco**?).
 
 ### なんか jako <code>něco</code>, <code>poněkud</code> pro zneurčitost
 
@@ -144,7 +144,7 @@ Teď, uvidíte ho také hodně s významem <code>jaký/co za</code> jako v češ
 
 ![](../media/image1004.webp)
 
-**A toto je zkratka <code>なんという / 何という</code>, ale velmi často,** **i v ne zvlášť neformální řeči, se používá jako <code>なんて</code>.** <code>**なんて**美しい景色だ!</code> (**To je ale** krásná scenérie!)
+**A toto je zkratka <code>[何]{なん}という</code>, ale velmi často,** **i v ne zvlášť neformální řeči, se používá jako <code>なんて</code>.** <code>**なんて**美しい景色だ!</code> (**To je ale** krásná scenérie!)
 
 A stejně jako v češtině **lze toto <code>なんて</code> použít k uvození** **jakékoli poměrně silné reakce na cokoli.** **Může být negativní; může být pozitivní.** **Říkáme <code>to je ale (tohle)</code> nebo <code>to je ale (tamto)</code>.**
 
@@ -207,7 +207,7 @@ No, <code>山田**という**人は知らない</code> je jako říct v češtin
 Takže jsme tu pokryli hlavní použití těchto tří slov či výrazů. Není to úplně vyčerpávající, ale myslím, že vám to dává základní klíče k tomu, jak fungují, co znamenají, jak se používají.
 
 ::: info
-Sakra, v tomhle je docela dost podnadpisů, hehe* (ノ\*°▽°\*)  
+Sakra, v tomhle je docela dost podnadpisů, hehe (ノ\*°▽°\*)  
 Chtěl jsem to, pokud něco, udělat trochu snazší na vyhledávání. Také, tohle je docela zajímavé:  
 
 ![](../media/image750.webp)

@@ -36,7 +36,7 @@ Takže 「おもしろいことがない」 znamená `Neděje se tu nic zajímav
 
 **Existují vlastně dvě částice と:** jedna znamená `a` a je velmi jednoduchá; **druhá je to, čemu říkáme `citační částice`**, a tu tady řešíme. **Když citujeme, že někdo něco řekl nebo dokonce že si něco myslí, použijeme tuhle částici と. Je to něco jako uvozovky, které slyšíte.**
 
-Jak vidíte, v japonštině používáme hranaté uvozovky, které jsou ekvivalentem českých uvozovek, **ale používáme i と.** Takže neřekneme jen ` „Nic zajímavého se neděje,“ řekla Alenka`. Řekneme ` „Nic zajímavého se neděje,“ **と** řekla Alenka`. と je strukturně velmi zajímavá částice a za pár minut se na to podíváme o něco hlouběji.
+Jak vidíte, v japonštině používáme hranaté uvozovky, které jsou ekvivalentem českých uvozovek, **ale používáme i と.** Takže neřekneme jen ` „Nic zajímavého se neděje,“ řekla Alenka`. Řekneme <code> „Nic zajímavého se neděje,“ **と** řekla Alenka</code>. と je strukturně velmi zajímavá částice a za pár minut se na to podíváme o něco hlouběji.
 
 >そのとき、白いウサギがとおりすぎた。
 
@@ -88,7 +88,7 @@ Takže tohle je: `Nebyl to obyčejný králík, byl to vestu-nosící králík /
 
 ---
 
-Takže části tohohle podstatného jména, 「かいちゅうどけい」: かいちゅう/懐中 je trochu neobvyklé podstatné jméno – znamená `v kapse nebo vnitřek kapsy` a とけい/時計 je velmi běžné slovo – znamená `hodiny nebo hodinky` (v japonštině máme stejné slovo pro hodiny, ať jsou malé, nebo velké), takže かいちゅうどけい/懐中時計 jsou kapesní hodinky.
+Takže části tohohle podstatného jména, 「かいちゅうどけい」: [懐中]{かいちゅう} je trochu neobvyklé podstatné jméno – znamená `v kapse nebo vnitřek kapsy` a [時計]{とけい} je velmi běžné slovo – znamená `hodiny nebo hodinky` (v japonštině máme stejné slovo pro hodiny, ať jsou malé, nebo velké), takže [懐中時計]{かいちゅうどけい} jsou kapesní hodinky.
 
 A důvod, proč říkáme 「**ど**けい」 místo 「とけい」, je to, čemu Alenka v „Alence v zemi kandži“ říká „ten-ten zaháknutí“, **a to je, že když dvě podstatná jména vrazíte do sebe, jak to děláme tady, a to druhé začíná ostrým zvukem jako `t` nebo `k`, změníme ho na jeho odpovídající temný zvuk jako `d` nebo `b`.** *(=Rendaku – sekvenční znělost)*
 
@@ -162,7 +162,7 @@ Králík se podíval na hodinky, řekl 「おそい！おそい！」, a pak… 
 
 ![](../media/image480.webp)
 
-No, **to 出す, když je připojené ke slovesu, znamená, že děj toho slovesa `vytryskl`.** Takže můžeme říct, že někdo 泣き出した: 泣く/なく je `plakat`, a spojíme い-kmen 泣く s 出す, a 泣き出す znamená `rozplakat se / dát se do pláče`. Můžeme říct 笑い出す: 笑う je `smát se`, a když spojíme い-kmen 笑う s 出す, říkáme `dát se do smíchu / rozesmát se`. A co se stalo v tomhle případě? Králík se najednou dal do běhu – vyrazil.
+No, **to 出す, když je připojené ke slovesu, znamená, že děj toho slovesa `vytryskl`.** Takže můžeme říct, že někdo 泣き出した: [泣]{な}く je `plakat`, a spojíme い-kmen 泣く s 出す, a 泣き出す znamená `rozplakat se / dát se do pláče`. Můžeme říct 笑い出す: 笑う je `smát se`, a když spojíme い-kmen 笑う s 出す, říkáme `dát se do smíchu / rozesmát se`. A co se stalo v tomhle případě? Králík se najednou dal do běhu – vyrazil.
 
 ウサギはかいちゅうどけいを見て「おそい！おそい！」と言って、はしり出した。
 
@@ -176,7 +176,7 @@ No, **to 出す, když je připojené ke slovesu, znamená, že děj toho sloves
 
 「ちょっとまってください」 je fráze, kterou v japonštině uslyšíte hodně. Někdy se ください vynechá. Co to znamená?
 
-ちょっと znamená `trochu`; まって je て-forma od `待つ/まつ`, což znamená `čekat`; a ください znamená `prosím`. Je vlastně spojené s くれる, o kterém jsme mluvili minule *(lekce 11)*; které také odkazuje na dávání dolů – je to `prosím dej dolů mně / prosím snižte to k mé úrovni`, takže to je zdvořilý způsob, jak říct `prosím dej`. Ale není to jen dávání věci, stejně jako u くれる a あげる, není to jen dávání věci, **může to být také, když to spojíte s て-formou slovesa, dávání děje toho slovesa.** Takže vidíte, že je to velmi příbuzné tomu くれる a あげる, které jsme se naučili minulý týden.
+ちょっと znamená `trochu`; まって je て-forma od <code>[待]{ま}つ</code>, což znamená `čekat`; a ください znamená `prosím`. Je vlastně spojené s くれる, o kterém jsme mluvili minule *(lekce 11)*; které také odkazuje na dávání dolů – je to `prosím dej dolů mně / prosím snižte to k mé úrovni`, takže to je zdvořilý způsob, jak říct `prosím dej`. Ale není to jen dávání věci, stejně jako u くれる a あげる, není to jen dávání věci, **může to být také, když to spojíte s て-formou slovesa, dávání děje toho slovesa.** Takže vidíte, že je to velmi příbuzné tomu くれる a あげる, které jsme se naučili minulý týden.
 
 > ちょっとまってください
 
@@ -199,7 +199,7 @@ Pokud si pamatujete z naší lekce o te a ta tvaru<sup>[[5]](./5-verb-groups-and
 ![](../media/image836.webp)
 
 ::: tip
-Pokud chcete napsat 続ける/つづける, musíte napsat tsuDUkeru. Dzu dá `ｄず`.
+Pokud chcete napsat [続]{つづ}ける, musíte napsat tsuDUkeru. Dzu dá `ｄず`.
 :::
 
 でも znamená `ale`. はしる znamená `běžet`. A ピョンピョン tady na chvíli vynecháme. つづける znamená `pokračovat`. Takže zase máme tenhle tvar, kdy bereme い-kmen slovesa, はしる se změní na はしり, a pak k tomu přidáme sloveso つづける (pokračovat). Takže 「ウサギははしりつづけた」 znamená `Králík dál běžel`.

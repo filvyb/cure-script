@@ -12,7 +12,7 @@ Dnes se vrátíme k Alenčiným dobrodružstvím. Pokud si vzpomínáte, Alenka 
 
 ![](../media/image1015.webp)
 
-První sloveso tady je とぶ/飛ぶ, které znamená buď `skočit`, nebo `letět`. V tomhle případě očividně znamená `skočit`, protože Alenka neumí létat. A 上がる znamená `zvednout se`. Takže když je dáte dohromady, 飛び上がる znamená `vyskočit`.
+První sloveso tady je [飛]{と}ぶ, které znamená buď `skočit`, nebo `letět`. V tomhle případě očividně znamená `skočit`, protože Alenka neumí létat. A 上がる znamená `zvednout se`. Takže když je dáte dohromady, 飛び上がる znamená `vyskočit`.
 
 ![](../media/image798.webp)
 
@@ -50,7 +50,7 @@ Mluvíme o `vršku` stolu, o `spodku` stolu, o `vedle“ u řeky. A tady mluvím
 
 ![](../media/image1088.webp)
 
-しゃべる/喋る znamená `mluvit` nebo `brebentit`. Je to trochu jako `žvanit` nebo `brebentit`, že? 「しゃべるウサギ」 v tomhle případě očividně **しゃべる, sloveso, je použité, jako může být použita jakákoli slovesná lokomotiva, jako přídavné jméno.**
+[喋]{しゃべ}る znamená `mluvit` nebo `brebentit`. Je to trochu jako `žvanit` nebo `brebentit`, že? 「しゃべるウサギ」 v tomhle případě očividně **しゃべる, sloveso, je použité, jako může být použita jakákoli slovesná lokomotiva, jako přídavné jméno.**
 
 ![](../media/image144.webp)
 
@@ -76,7 +76,7 @@ Takže 「見たこと」: 見た rozvíjí podstatné jméno こと, že?
 
 ![](../media/image240.webp)
 
-Takže tohle říká `Alenka nikdy neviděla mluvícího králíka`. ( `**Fakt, že viděla mluvícího králíka, neexistuje**`)
+Takže tohle říká `Alenka nikdy neviděla mluvícího králíka`. ( <code>**Fakt, že viděla mluvícího králíka, neexistuje**</code>)
 
 > しゃべるウサギを見たことがない
 
@@ -120,7 +120,7 @@ Tak, tohle je docela dlouhá věta a je v ní docela dost k rozboru. Nejdřív v
 
 > ...急にウサギの穴にとび込んだ。
 
-「ウサギの穴」: 穴 znamená `díra`, takže ウサギの穴 znamená `králičí nora`. とび込む je další z těchhle složených sloves. とぶ/飛ぶ, jak víme, znamená `skočit`, a 込む znamená `vejít do` něčeho. **Není to jen jako `vstoupit`; spíš to bývá `vložit do`, `vehnat do`, vykonat děj dovnitř něčeho.** Takže máme spoustu sloves, která jsou vytvořená s **`込む`, což je `vykonat děj dovnitř` něčeho.** Takže `とび込む` znamená `skočit do`, zcela jednoduše `skočit do`. Takže králík `skočil do králičí nory`.
+「ウサギの穴」: 穴 znamená `díra`, takže ウサギの穴 znamená `králičí nora`. とび込む je další z těchhle složených sloves. [飛]{と}ぶ, jak víme, znamená `skočit`, a 込む znamená `vejít do` něčeho. **Není to jen jako `vstoupit`; spíš to bývá `vložit do`, `vehnat do`, vykonat děj dovnitř něčeho.** Takže máme spoustu sloves, která jsou vytvořená s **`込む`, což je `vykonat děj dovnitř` něčeho.** Takže `とび込む` znamená `skočit do`, zcela jednoduše `skočit do`. Takže králík `skočil do králičí nory`.
 
 ---
 
@@ -174,7 +174,7 @@ Teď, **も také prohlašuje téma věty, ale vždy ho mění.** **も nemůže
 
 ---
 
-Kdybychom použili が: 「**アリスが**お姉ちゃんのところに戻った」, prostě bychom říkali `Králík skočil do králičí nory a **Alenka** se vrátila ke své sestře.`
+Kdybychom použili が: 「**アリスが**お姉ちゃんのところに戻った」, prostě bychom říkali <code>Králík skočil do králičí nory a **Alenka** se vrátila ke své sestře.</code>
 
 ::: info
 Alenka = podmět svého větného celku tady, označený が.
@@ -187,7 +187,7 @@ Teď, **pokud řekneme も místo は, děláme opačnou pointu: říkáme, že 
 
 ![](../media/image365.webp)
 
-`Králík skočil do králičí nory a Alenka **taky** skočila do králičí nory.`
+<code>Králík skočil do králičí nory a Alenka **taky** skočila do králičí nory.</code>
 
 Takže existují různá použití も, na která se podíváme později, ale tohle je to nejzákladnější. **Je to částice označující téma, která nám říká, že komentář o novém tématu je stejný jako komentář o starém tématu.**
 
@@ -197,7 +197,7 @@ Takže existují různá použití も, na která se podíváme později, ale to
 
 ![](../media/image714.webp)
 
-中 znamená `vnitřek`, buď střed, nebo vnitřek něčeho, takže 穴の中 je vnitřek nory. たて穴/縦穴: slovo たて/縦 znamená `svislý` nebo `vzpřímený` (a vidíte, že je příbuzné s 立つ – stát). Takže 「穴の中は竪穴だった」 `vnitřek nory byla svislá šachta` – vedla rovnou dolů.
+中 znamená `vnitřek`, buď střed, nebo vnitřek něčeho, takže 穴の中 je vnitřek nory. たて穴/縦穴: slovo [縦]{たて} znamená `svislý` nebo `vzpřímený` (a vidíte, že je příbuzné s 立つ – stát). Takže 「穴の中は竪穴だった」 `vnitřek nory byla svislá šachta` – vedla rovnou dolů.
 
 > アリスは**すぐ**下に落ちた。
 
@@ -221,9 +221,9 @@ Takže **`驚いたこと` tady neznamená `překvapená věc`, znamená `překv
 
 ---
 
-A に ( `こと**に**`), **je znovu ta technika dávání に**, dávání に, **za podstatné jméno, aby se z něj stalo příslovce.**
+A に ( <code>こと**に**</code>), **je znovu ta technika dávání に**, dávání に, **za podstatné jméno, aby se z něj stalo příslovce.**
 
-Takže `驚いたことに落ちた.` (K `ゆっくり` se dostaneme za chvilku.) Znamená to `překvapivě padala / padala překvapivým způsobem`. A jaký druh překvapivého způsobu to byl? `**ゆっくりゆっくり**`.
+Takže `驚いたことに落ちた.` (K `ゆっくり` se dostaneme za chvilku.) Znamená to `překvapivě padala / padala překvapivým způsobem`. A jaký druh překvapivého způsobu to byl? <code>**ゆっくりゆっくり**</code>.
 
 ## Příslovce ゆっくり
 

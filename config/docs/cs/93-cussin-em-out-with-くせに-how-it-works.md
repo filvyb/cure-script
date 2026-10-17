@@ -10,7 +10,7 @@ Dnes si budeme povídat o výrazu, který vídáte v anime, manze, light novelá
 
 ![](../media/image261.webp)
 
-Teď, ten etymologický problém je, že zatímco všichni víme, co <code>くせ / 癖</code> znamená ** — znamená to <code>zvyk nebo zvláštnost</code> — ** **není moc jasné, co to má společného s výrazem <code>くせに</code>.** **A odpověď je: nic.**
+Teď, ten etymologický problém je, že zatímco všichni víme, co <code>[癖]{くせ}</code> znamená **— znamená to <code>zvyk nebo zvláštnost</code> —** **není moc jasné, co to má společného s výrazem <code>くせに</code>.** **A odpověď je: nic.**
 
 **Některé japonské etymologické zdroje nám říkají, že** **toto <code>くせ</code> bylo vlastně původně jiné <code>くせ</code>,** **ale zdá se, že to nikdo vlastně neví jistě.** **Ale podstata je, že to vlastně** **má velmi málo společného s moderním použitím.**
 

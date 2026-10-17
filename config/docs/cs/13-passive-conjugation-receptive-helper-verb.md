@@ -58,7 +58,7 @@ Vezměme tedy jednoduchý příklad: 「さくらがしかられた。」
 
 ![](../media/image1162.webp)
 
-**叱る/しかる znamená `kárat` nebo `vynadat`, a あ-kmen je 叱ら, takže když k tomu přidáme れる a dáme to do minulého času, dostaneme しかれた/叱られた.** **叱る je `kárat`, 叱られる je `dostat vynadáno`, 叱られた je `dostal vynadáno`, takže `Sakura dostala vynadáno`.**
+**[叱]{しか}る znamená `kárat` nebo `vynadat`, a あ-kmen je 叱ら, takže když k tomu přidáme れる a dáme to do minulého času, dostaneme [叱]{しか}られた.** **叱る je `kárat`, 叱られる je `dostat vynadáno`, 叱られた je `dostal vynadáno`, takže `Sakura dostala vynadáno`.**
 
 ---
 
@@ -74,7 +74,7 @@ Takže můžeme říct 「ほんがよめる」, a ačkoli よめる, což je po
 
 ---
 
-Teď si také všimněme, že **vagon A, konatel věty, nemusí být nutně osoba.** Takže když řekneme 「**水**がのまれた」 (のむ/飲む＝pít; のま＝あ-kmen od pít; れた＝dostalo), říkáme `**Voda** byla vypita`. **A konatelem té věty je voda.**
+Teď si také všimněme, že **vagon A, konatel věty, nemusí být nutně osoba.** Takže když řekneme 「**水**がのまれた」 ([飲]{の}む＝pít; のま＝あ-kmen od pít; れた＝dostalo), říkáme <code>**Voda** byla vypita</code>. **A konatelem té věty je voda.**
 
 ![](../media/image649.webp)
 
@@ -92,7 +92,7 @@ Vezměme si plnější větu, abychom viděli všechny částice pracovat dohrom
 
 ![](../media/image100.webp)
 
-(盗む/ぬすむ＝krást; 盗ま＝あ-kmen od krást; 盗まれる＝být ukraden; 盗まれた＝byl ukraden). **誰か/だれか znamená `někdo`** (誰＝kdo, か＝otázka). Kdo to byl? Nevíme, nikdo konkrétní, ale někdo. **誰か＝Někdo**.
+([盗]{ぬ}すむ＝krást; 盗ま＝あ-kmen od krást; 盗まれる＝být ukraden; 盗まれた＝byl ukraden). **[誰]{だれ}か znamená `někdo`** (誰＝kdo, か＝otázka). Kdo to byl? Nevíme, nikdo konkrétní, ale někdo. **誰か＝Někdo**.
 
 ---
 
@@ -133,11 +133,11 @@ Pokud o tom přemýšlíte jako o <code>trpném časování</code>, všechny č�
 
 ## <code>Otravný přijímací/trpný rod</code>/迷惑受け身
 
-Je tu ještě jedna oblast, ve které přijímací rod lidi občas mate, a to je takzvaný <code>trpný rod utrpení</code> nebo <code>trpný rod nepřízně</code>, kterému se v japonštině vlastně říká 迷惑受け身/*meiwaku ukemi*, což znamená `otravný přijímací rod`. A přesně to to je. Je to otravný přijímací rod.
+Je tu ještě jedna oblast, ve které přijímací rod lidi občas mate, a to je takzvaný <code>trpný rod utrpení</code> nebo <code>trpný rod nepřízně</code>, kterému se v japonštině vlastně říká [迷惑受け身]{めいわくうけみ} (*meiwaku ukemi*), což znamená `otravný přijímací rod`. A přesně to to je. Je to otravný přijímací rod.
 
 ---
 
-「さくらはだれかに**かばんが**ぬすまれた。」 znamená `Sakuře někdo ukradl **tašku**` nebo, doslova, `Ve vztahu k Sakuře byla **taška** ukradena někým`.
+「さくらはだれかに**かばんが**ぬすまれた。」 znamená <code>Sakuře někdo ukradl **tašku**</code> nebo, doslova, <code>Ve vztahu k Sakuře byla **taška** ukradena někým</code>.
 ::: info
 Normální přijímací rod.
 :::
@@ -194,7 +194,7 @@ Tak co se tu děje? **Konatel označený が je teď Sakura, že? Je to ona, kdo
 ![](../media/image368.webp)
 :::
 
-Tak co tahle věta znamená česky? Velmi jednoduché: `**Sakuře** ukradli tašku` (Sakura dostala ukradenou tašku). To je to, co řekneme česky; náš starý učitel češtiny by to možná neměl rád, ale my to česky říkáme, dává to v češtině smysl, a je to přesně to, co říkáme v japonštině. `Sakuře někdo ukradl tašku.`
+Tak co tahle věta znamená česky? Velmi jednoduché: <code>**Sakuře** ukradli tašku</code> (Sakura dostala ukradenou tašku). To je to, co řekneme česky; náš starý učitel češtiny by to možná neměl rád, ale my to česky říkáme, dává to v češtině smysl, a je to přesně to, co říkáme v japonštině. `Sakuře někdo ukradl tašku.`
 
 Takže vidíte, že kolem přijímacího pomocného slovesa ve skutečnosti není žádný problém, žádná potíž, žádný zmatek, jen pokud víte, že je to přijímací pomocné sloveso, a ne něco jiného.
 

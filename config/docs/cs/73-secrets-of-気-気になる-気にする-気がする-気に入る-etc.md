@@ -162,7 +162,7 @@ Teď, to, co opravdu říkáme, je, že to vpouštím do své duše.
 
 ![](../media/image998.webp)
 
-Co je tu matoucí, je, že <code>入る/いる</code> se nepoužívá ve svém normálním smyslu. <code>入る</code> obvykle znamená vstoupit nebo vejít. A jestli mluvíme o vkládání něčeho do něčeho, řekneme <code>入れる</code>.
+Co je tu matoucí, je, že <code>[入]{い}る</code> se nepoužívá ve svém normálním smyslu. <code>入る</code> obvykle znamená vstoupit nebo vejít. A jestli mluvíme o vkládání něčeho do něčeho, řekneme <code>入れる</code>.
 
 Ale v tomhle případě <code>入る</code>, pravděpodobně proto, že je to starší použití zacementované do jazyka v téhle konkrétní velmi běžné frázi, <code>入る</code> vlastně znamená vpustit do svého ducha.
 
@@ -179,5 +179,6 @@ Takže velmi často uvidíte <code>気に入る</code> v odkazech na pocity jin�
 Takže doufám, že tohle udělá celé používání <code>気</code> o trochu jasnějším…  
 ::: info
 [**Buddhistický pojem <code>ne-já</code>**](https://en.wikipedia.org/wiki/Anatt%C4%81) může být dobrá studie, aby člověk viděl, jak japonština funguje.
-:::
+
 ![](../media/image99.webp)
+:::

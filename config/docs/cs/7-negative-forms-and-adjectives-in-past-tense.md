@@ -130,7 +130,7 @@ Dolly tu ve videu opět udělá překlep, znovu jsem ho opravil.
 ![](../media/image941.webp)
 :::
 
-Jediná další zdánlivá výjimka je, že <code>いい</code>, přídavné jméno <code>いい/良い</code>, které znamená <code>je-dobré</code>, má starší tvar <code>よい/良い</code>, který se stále dost často používá. A **když děláme jakoukoli proměnu <code>いい</code>, vrací se zpět na <code>よい</code>**, takže v minulém čase neřekneme <code>いかった</code>, **řekneme** <code>**よ**かった</code> – a pokud jste viděli hodně anime, nejspíš jste to slyšeli dost často.
+Jediná další zdánlivá výjimka je, že <code>いい</code>, přídavné jméno <code>[良]{い}い</code>, které znamená <code>je-dobré</code>, má starší tvar <code>[良]{よ}い</code>, který se stále dost často používá. A **když děláme jakoukoli proměnu <code>いい</code>, vrací se zpět na <code>よい</code>**, takže v minulém čase neřekneme <code>いかった</code>, **řekneme** <code>**よ**かった</code> – a pokud jste viděli hodně anime, nejspíš jste to slyšeli dost často.
 
 ![](../media/image253.webp)
 

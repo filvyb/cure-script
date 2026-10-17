@@ -125,13 +125,7 @@ Takže můžete slyšet lidi říkat v anime <code>黙れ!</code> **To je sloves
 
 **A tohle je vlastně pěkně důrazné.** **Je to silnější a potenciálně urážlivější než <code>うるさい!</code>** (A [**natočila jsem video o <code>うるさい</code>**](https://www.youtube.com/watch?v=1jBOq1EHwvs), pokud byste to chtěli sledovat.)
 
-**Není to ze své podstaty urážlivé,** 
-
-::: info
-tvar 命令形
-:::
-
-**Pokud má někdo opravdu právo dávat rozkazy, může ho použít.** **A lidé, kteří mluví drsně, ho mohou používat mezi přáteli nebo k nepřátelům.**
+**Není to ze své podstaty urážlivé** *(tvar 命令形)*. **Pokud má někdo opravdu právo dávat rozkazy, může ho použít.** **A lidé, kteří mluví drsně, ho mohou používat mezi přáteli nebo k nepřátelům.**
 
 Můžete ho slyšet hodně v šónen anime, kde lidé mají tendenci mluvit drsně. **Může také v několika případech vyjadřovat naléhavost.** **Jeden případ, který budete často slyšet, je, když je postava ve vážném maléru** **a volá <code>助けてくれ！</code>, což je jako <code>助けてください！</code>** **ale měněné ve skutečný rozkaz, povel.**
 
@@ -146,7 +140,7 @@ Přesto i tady musím říct, že jsem kdy slyšela toto <code>助けてくれ</
 **Takže <code>くれる</code> (dát dolů / mně) se stává <code>くれ</code>.**
 
 ::: info
-Očividně, jak je ukázáno, to くれ je tvarem **くれる**; ne くる/来る (to má こい/来い)
+Očividně, jak je ukázáno, to くれ je tvarem **くれる**; ne [来]{く}る (to má [来]{こ}い)
 :::
 ---
 

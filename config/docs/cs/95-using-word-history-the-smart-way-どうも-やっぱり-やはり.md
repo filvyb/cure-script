@@ -116,7 +116,7 @@ Teď, **jedno, u kterého budeme mluvit o falešné etymologii, je <code>やっ�
 
 ![](../media/image275.webp)
 
-**Je to dost jako <code>日本 / にほん</code>, které lze také říct jako <code>にっぽん</code>.** **<code>やはり</code> lze říct jako <code>やっぱり</code>.**
+**Je to dost jako <code>[日本]{にほん}</code>, které lze také říct jako <code>にっぽん</code>.** **<code>やはり</code> lze říct jako <code>やっぱり</code>.**
 
 ---
 
@@ -218,7 +218,7 @@ Já to **taky** neviděl."
 
 <code>僕も**やはり**行きました</code> (šel jsem **taky** / **také** jsem šel).
 
-Opět, **ta druhá osoba řekla, že šla, a my zdůrazňujeme to も tím, že říkáme <code>やはり</code>**, **návratem k původnímu zaměření této části konverzace, k tomu faktu, že jsi šel,** <code>no, ****やはり**** — **původní zaměření** — šel jsem **taky**.</code>
+Opět, **ta druhá osoba řekla, že šla, a my zdůrazňujeme to も tím, že říkáme <code>やはり</code>**, **návratem k původnímu zaměření této části konverzace, k tomu faktu, že jsi šel:** „no, **やはり** — **původní zaměření** — šel jsem **taky**.“
 
 ---
 

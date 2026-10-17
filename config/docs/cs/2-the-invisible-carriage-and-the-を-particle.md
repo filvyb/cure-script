@@ -54,7 +54,7 @@ Můžeme říct, že <code>já</code> je výchozí hodnota nulového zájmena, n
 
 ![](../media/image617.webp)
 
-Když řeknu <code>土曜日だ</code> (土曜日/どようび znamená sobota), říkám <code>(Je) sobota</code>. Co je <code>to</code>? Dnešek je. Všechny tyto věty jsou plnohodnotné, úplné japonské věty s podmětem označeným が / vagonem A / hlavním vagonem a s lokomotivou.
+Když řeknu <code>土曜日だ</code> ([土曜日]{どようび} znamená sobota), říkám <code>(Je) sobota</code>. Co je <code>to</code>? Dnešek je. Všechny tyto věty jsou plnohodnotné, úplné japonské věty s podmětem označeným が / vagonem A / hlavním vagonem a s lokomotivou.
 
 ![](../media/image490.webp)
 
