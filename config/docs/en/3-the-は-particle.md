@@ -24,11 +24,11 @@ That's right, it's a flag. Why do we depict it as a flag? Because that is what �
 
 Now, some of the textbooks will tell you that a sentence like <code>わたしはアメリカ人だ</code> literally means <code>As for me, I am an American</code>, and that is exactly correct. If they would stick with that logic and carry it through, we wouldn't have the trouble we have.
 
-So, <code>わたし/私は</code> means <code>as for me</code>. <code>アメリカ人だ</code> means <code>=American</code> or <code>am American</code>. So as you see, with a sentence like this something is missing, both from the Japanese and the English. We can't say <code>as for me, am American</code>. Neither can we have a sentence without an A car, without a が-marked doer. So if we put the A car in, it makes sense in both English and Japanese.
+So, <code>[私]{わたし}は</code> means <code>as for me</code>. <code>アメリカ人だ</code> means <code>=American</code> or <code>am American</code>. So as you see, with a sentence like this something is missing, both from the Japanese and the English. We can't say <code>as for me, am American</code>. Neither can we have a sentence without an A car, without a が-marked doer. So if we put the A car in, it makes sense in both English and Japanese.
 
 ![](../media/image487.webp)
 
-<code>私は(**zeroが)**アメリカ人だ</code> – <code>As for me, (**I)** am an American.</code>
+<code>私は<b>(zeroが)</b>アメリカ人だ</code> – <code>As for me, (**I)** am an American.</code>
 
 Now, some of you may be saying, "Isn't it over-complicated? Can't we just pretend that **わたしは** is the main car of the sentence?" And the answer to that is <code>**No**</code>. Because although it works in this case and some other cases, it doesn't work in every case and that is why we really mustn't do it.
 
@@ -36,11 +36,11 @@ Let's take an example. There's an old joke among Japanese learners and it's only
 
 After all, if <code>わたしはアメリカ人だ</code> means <code>I am an American</code>, then <code>わたしはうなぎだ</code> must mean <code>I am an eel</code>. That's absolutely perfect logic – **except that <code>わたしはアメリカ人だ</code> doesn't mean <code>I am an American</code>. It means <code>As for me, I am an American</code>.**
 
-As we know, the default value of the invisible car, the zero pronoun, is <code>私/わたし</code>, but that isn't its only value. Its value depends on context.
+As we know, the default value of the invisible car, the zero pronoun, is <code>[私]{わたし}</code>, but that isn't its only value. Its value depends on context.
 
 ---
 
-In <code>わたしはアメリカ人だ</code> (<code>As for me, I am an American</code>) the value of the zero pronoun is indeed <code>私/わたし</code>. But in <code>わたしはうなぎだ</code>, which is <code>わたしは(**zeroが)**うなぎだ</code>, zero is not <code>私</code>. Zero is <code>it</code>. <code>It</code> is the thing we are talking about, the subject of the conversation: what we are eating for dinner.
+In <code>わたしはアメリカ人だ</code> (<code>As for me, I am an American</code>) the value of the zero pronoun is indeed <code>[私]{わたし}</code>. But in <code>わたしはうなぎだ</code>, which is <code>わたしは<b>(zeroが)</b>うなぎだ</code>, zero is not <code>私</code>. Zero is <code>it</code>. <code>It</code> is the thing we are talking about, the subject of the conversation: what we are eating for dinner.
 
 ![](../media/image377.webp)
 
@@ -74,7 +74,7 @@ If I say, <code>ボールがわたしにさくらをなげる</code>, I'm saying
 
 ![](../media/image106.webp)
 
-Now let's give the は to the ball: <code>ボールは私がさくらに**(zeroを)**なげる</code>. What we are saying now is <code>As for the ball, I throw it at Sakura</code>.
+Now let's give the は to the ball: <code>ボールは私がさくらに<b>(zeroを)</b>なげる</code>. What we are saying now is <code>As for the ball, I throw it at Sakura</code>.
 
 ![](../media/image877.webp)
 

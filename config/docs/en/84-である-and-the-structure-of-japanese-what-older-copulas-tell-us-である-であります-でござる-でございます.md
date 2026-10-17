@@ -38,13 +38,13 @@ Now, we can deal with the last three very quickly,
 
 Now, how does the verb of being get into this? Well, we'll talk about that in a minute.
 
-**<code>ござる</code> is simply made up of the honorific <code>ご</code> plus <code>ざる / 座る</code>,**
+**<code>ござる</code> is simply made up of the honorific <code>ご</code> plus <code>[座]{ざ}る</code>,**
 **which originally means <code>seated</code>, but has the extended meaning of <code>existing</code>.**
 
 ::: info
 座る is normally read as すわる, but its On-yomi reading is ざ, therefore ざる here because I guess it is referring to its extended meaning of <code>existing</code>?
 :::
-**So <code>ござる / ご座る</code> is just <code>ある</code> in fancy form.**
+**So <code>ご[座]{ざ}る</code> is just <code>ある</code> in fancy form.**
 
 ![](../media/image1122.webp)
 
@@ -322,7 +322,9 @@ we use the three-engine structure.
 
 We regard verbs, adjectives and the copula as three unique entities.
 
+::: info
 ![](../media/image1008.webp)
+:::
 
 **This is not a statement about the etymology of Japanese.**
 **It's not even a statement about the <code>real truth</code> of Japanese grammar,**

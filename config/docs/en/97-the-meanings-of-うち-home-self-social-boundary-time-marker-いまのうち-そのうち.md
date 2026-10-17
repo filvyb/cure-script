@@ -54,7 +54,7 @@ And even <code>**うち**のきょう</code>, which is <code>the religion of **o
 
 ## うち vs そと
 
-**Now, from this we get a very fundamental distinction in Japanese,** **which is between the concepts of <code>うち / 内</code> and <code>そと / 外</code>.** **<code>うち</code> refers to the group one belongs to, the in-group;** **<code>そと</code> refers to everything outside that group.**
+**Now, from this we get a very fundamental distinction in Japanese,** **which is between the concepts of <code>[内]{うち}</code> and <code>[外]{そと}</code>.** **<code>うち</code> refers to the group one belongs to, the in-group;** **<code>そと</code> refers to everything outside that group.**
 
 ![](../media/image849.webp)
 
@@ -92,7 +92,9 @@ So **it's an enclosure defined by its contents, like the other kinds of <code>�
 
 ![](../media/image991.webp)
 
+::: info
 ![](../media/image397.webp)
+:::
 
 Similarly, <code>若い**うち**</code> (**while** one is young) — one should do this, do that, **while** one is young. **The <code>うち</code>, the enclosure of time, is defined by its contents.**
 
@@ -150,28 +152,28 @@ And **this is the kind of <code>その</code> that's being used in <code>その�
 
 So this is really how <code>うち</code> extends its meaning from quite specific ones to more and more abstract ones, all of which are closely related to the fundamental meaning.
 
+::: info
 ![](../media/image885.webp)
 
 ![](../media/image820.webp)
 
 ![](../media/image607.webp)
 
-::: info
 **If you came this far then I thank you and you are awesome!**
 
 *Thus, we have reached the end at last… took me roughly 1.5 years to edit so I will get some rest soon, made it just in time for 2024:D Though I will yet need to update 26-78 I guess later.
 Quite a journey indeed I guess (\*^ω^)八(⌒▽⌒)
 Dolly has 204 videos in total so there are still around 100-ish videos, but alas that is beyond the scope of my energy currently, I may add some videos from time to time if I feel like it if I find a good way to copy the subs and all (these 97 lessons were here before I became an editor).*
 
-*I would like to add some of Dolly’s [****immersion videos****](https://www.youtube.com/watch?v=xhEnMieHtec&list=PLg9uYxuZf8x_iLm90ie4ewro0lFedXncO&ab_channel=OrganicJapanesewithCureDolly) and [****vocabulary / kanji acquisition videos****](https://www.youtube.com/watch?v=3rT1zaHSmog&list=PLg9uYxuZf8x-W5kcce4zVNwK_JHjxHK5x&ab_channel=OrganicJapanesewithCureDolly) especially, since I feel they are very useful. Though now I would like to focus on inputting a lot.
+*I would like to add some of Dolly’s [**immersion videos**](https://www.youtube.com/watch?v=xhEnMieHtec&list=PLg9uYxuZf8x_iLm90ie4ewro0lFedXncO&ab_channel=OrganicJapanesewithCureDolly) and [**vocabulary / kanji acquisition videos**](https://www.youtube.com/watch?v=3rT1zaHSmog&list=PLg9uYxuZf8x-W5kcce4zVNwK_JHjxHK5x&ab_channel=OrganicJapanesewithCureDolly) especially, since I feel they are very useful. Though now I would like to focus on inputting a lot.
 Anyway, this Transcript should get you well covered in terms of general stuff that you can then reinforce on your own, you should have the basics laid down already quite well at this point.*
 
 *---
-Keep it up and go consuming tons and tons of actual Japanese content & if you can go to actually USE the language.That is how one acquires it. Just keep going & it gets easier.*
+Keep it up and go consuming tons and tons of actual Japanese content & if you can go to actually USE the language. That is how one acquires it. Just keep going & it gets easier.*
 
-*Obviously, for all kinds of resources you can check [****my Resource document****](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#heading=h.pl6re36m6uy2) on the first page.
+*Obviously, for all kinds of resources you can check [**my Resource document**](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#heading=h.pl6re36m6uy2) on the first page.
 Again, the only way you <code>Git Gud</code> is if you put in the time and ACTIVE effort! 頑張ります!
-You can contact me on [****Discord****](https://discord.com/users/501133947044888605) or through mail if anything.*
+You can contact me on [**Discord**](https://discord.com/users/501133947044888605) or through mail if anything.*
 
 *Especially if you find a typo or wrong information / note or if you have some tips etc.*
 
@@ -182,7 +184,7 @@ I appreciate it a ton! Definitely visit MoeWay and join their Discord! Amazing c
 Obviously I would also like to thank every single editor that worked on this transcript, whether it was before I came, or after, providing some assistance with the editing!
 I thank you all and thank you for your contribution!***
 
-***Fin** (for now at least…)*
+***Fin*** *(for now at least…)*
 
 :::
 

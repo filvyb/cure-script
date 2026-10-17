@@ -27,7 +27,7 @@ Well, <code>おる</code> means the same as <code>いる</code>, which is to <co
 Generally we're told that it means to <code>be</code> of animate beings, like animals and people. It's not quite as simple as that and I've explained that in another lesson, which I'll [**link**](https://www.youtube.com/watch?v=PsTsliRe2Cg&ab_channel=OrganicJapanesewithCureDolly).
 <code>おる</code> is a rather older form of <code>いる</code>, but we encounter it in a variety of circumstances.
 
-For example, it is used in keigo as a humble form, <code>謙譲語/けんじょうご</code> form, of <code>いる</code> which we use to humble our own actions and possessions, but it's also used in dialect, in Kansai-ben for example, and it's used in literary contexts to give a literary narrative feel. And that's how it's being used here.
+For example, it is used in keigo as a humble form, <code>[謙譲語]{けんじょうご}</code> form, of <code>いる</code> which we use to humble our own actions and possessions, but it's also used in dialect, in Kansai-ben for example, and it's used in literary contexts to give a literary narrative feel. And that's how it's being used here.
 
 So, <code>おる</code> means <code>いる</code>, but what does <code>おらず</code> mean? Well, you also have to understand that <code>-ず</code> is also a piece of older Japanese which gives a literary feeling to a narrative and it's simply a negative helper like <code>-ない</code>.
 
@@ -73,7 +73,7 @@ But this particular word <code>無用心</code> tends to mean lack of cautiousne
 
 <code>無用心だな、と思った彼女は</code>: so, she, who was thinking this, <code>電気をつけて先輩を起こそうかと思ったが</code>.
 
-All right, so this looks a little bit complicated and we still haven't finished the sentence, but let's just take it bit by bit. First of all she thought <code>無用心</code> — <code>unsafe, dangerous behavior</code>; <code>she thought</code> — <code>と思った彼女</code> — she who thought that, then thought something else; <code>電気をつけて</code> — <code>点ける/つける</code>, of course, is the other-move version of <code>点く/つく</code>, so she thought of switching on the lights; <code>先輩を起こそう</code> — now, as we know, that <code>そう</code> ending is a volitional ending; <code>起こそうか</code> — she thought about taking the action of awakening senpai.
+All right, so this looks a little bit complicated and we still haven't finished the sentence, but let's just take it bit by bit. First of all she thought <code>無用心</code> — <code>unsafe, dangerous behavior</code>; <code>she thought</code> — <code>と思った彼女</code> — she who thought that, then thought something else; <code>電気をつけて</code> — <code>[点]{つ}ける</code>, of course, is the other-move version of <code>[点]{つ}く</code>, so she thought of switching on the lights; <code>先輩を起こそう</code> — now, as we know, that <code>そう</code> ending is a volitional ending; <code>起こそうか</code> — she thought about taking the action of awakening senpai.
 
 <code>起こす</code> —to <code>wake someone up</code>; <code>起きる</code>, you wake up yourself; <code>起こす</code> — -す endings, as we know, mean other-move verbs, so <code>起こす</code> is to wake someone else up. <code>起こそうか</code> — so, she's thinking about this action.
 
@@ -101,7 +101,7 @@ So we have a three-fold compound sentence now. First of all, we use <code>が</c
 
 <code>静か</code> can't mean secretly; <code>そっと</code> can mean secretly. Here it doesn't mean secretly, but it does mean doing something quietly so that someone else won't be aware of you doing it, which is the kind of implication that <code>そっと</code> often tends to have.
 
-<code>そっとしておく</code> — <code>しておく</code>, as we know, is to <code>put in place an action</code>. <code>置く/おく</code> means to <code>place (something)</code>.
+<code>そっとしておく</code> — <code>しておく</code>, as we know, is to <code>put in place an action</code>. <code>[置]{お}く</code> means to <code>place (something)</code>.
 
 ![](../media/image1000.webp)
 
@@ -123,10 +123,10 @@ So, "**That**s dangerous, isn't it, leaving the door open,' she thought; she con
 
 "In the pitch darkness — 真っ暗の中で — 自分の携帯電話 — her own telephone — 探し出す". <code>探し出す</code>: <code>探す</code> as we know, is <code>search</code>; <code>探し出す</code> is literally <code>search out</code>, so she sought it out, she found it — <code>と</code>.
 
-****「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした"
+<code>「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした</code>
 
-So she said something aloud here, but presumably quite quietly so that she wouldn't wake senpai. She said: <code>忘れ物</code> — <code>forgotten thing</code> — <code>をしたので</code> — "I did a forgotten thing / I forgot a thing / I left a thing behind<code> — </code>忘れ物をしたので" — because of that — <code>取りに戻りました</code> — <code>I came back to take it / in order to take it, I returned</code> — <code>とひと声かけて</code> — <code>声 (を) かける</code> is to say something to someone, to engage them in conversation, here <code>ひと声</code> — she just said that single word, she just said that single voice, literally, she just said that — <code>部屋を後にした</code> — so she just said that, presumably quietly so that senpai wouldn't even hear her, but she felt she ought to say something — <code>部屋を後にした</code> — <code>後にする</code> literally means to <code>turn it into behind</code>, in other words, put it behind you, in other words, leave — she left the room — <code>部屋を後にした</code> — she made the room the thing behind her by leaving it.
+So she said something aloud here, but presumably quite quietly so that she wouldn't wake senpai. She said: <code>忘れ物</code> — <code>forgotten thing</code> — <code>をしたので</code> — "I did a forgotten thing / I forgot a thing / I left a thing behind" — <code>忘れ物をしたので</code> — because of that — <code>取りに戻りました</code> — <code>I came back to take it / in order to take it, I returned</code> — <code>とひと声かけて</code> — <code>声 (を) かける</code> is to say something to someone, to engage them in conversation, here <code>ひと声</code> — she just said that single word, she just said that single voice, literally, she just said that — <code>部屋を後にした</code> — so she just said that, presumably quietly so that senpai wouldn't even hear her, but she felt she ought to say something — <code>部屋を後にした</code> — <code>後にする</code> literally means to <code>turn it into behind</code>, in other words, put it behind you, in other words, leave — she left the room — <code>部屋を後にした</code> — she made the room the thing behind her by leaving it.
 
 And that was that for the evening. Well, she got out of that all right, didn't she?
 
-It was a bit scary, but we didn't hear what happened the next day. That's what we're going to talk about next week..
+It was a bit scary, but we didn't hear what happened the next day. That's what we're going to talk about next week.

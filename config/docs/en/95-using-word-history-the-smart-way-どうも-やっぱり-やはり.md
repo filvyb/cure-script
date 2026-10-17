@@ -116,7 +116,7 @@ Now, **one where we're going to talk about a false etymology is <code>やっぱ�
 
 ![](../media/image275.webp)
 
-**It's rather like <code>日本 / にほん</code>, which also can be said as <code>にっぽん</code>.** **<code>やはり</code> can be said as <code>やっぱり</code>.**
+**It's rather like <code>[日本]{にほん}</code>, which also can be said as <code>にっぽん</code>.** **<code>やはり</code> can be said as <code>やっぱり</code>.**
 
 ---
 
@@ -214,7 +214,7 @@ I didn't see it **either**."
 
 <code>僕も**やはり**行きました</code> (I went **too** / I **also** went).
 
-Again, **the other person has said that they went and we stress the も by saying <code>やはり</code>**, **returning to the original focus of this part of the conversation, to the fact that you went,** <code>well, ****やはり**** — **original focus** — I went **too**.</code>
+Again, **the other person has said that they went and we stress the も by saying <code>やはり</code>**, **returning to the original focus of this part of the conversation, to the fact that you went:** "well, **やはり** — **original focus** — I went **too**."
 
 ---
 

@@ -1,5 +1,4 @@
-**[Read from 1st lesson
-](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)**
+**[Read from 1st lesson Online](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)** &nbsp;&nbsp;&nbsp;&nbsp; **[Download for Offline reading (EPUB)](https://github.com/Kellenok/cure-script/releases/latest)**
 
 # Intro
 
@@ -7,7 +6,18 @@ First and foremost, this project only exists because Mordraug and Nunko spent a 
 
 For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, changed the formatting slightly, and published it using Vitepress, which I find more convenient than Google Docs or PDF.
 
+Offline EPUB reading support and generation was built by [coffeepebble](https://github.com/coffeepebble).
+
 <img src="https://i.imgur.com/YOWRijj.png">
+
+The full transcript is available as EPUBs in [releases](https://github.com/Kellenok/cure-script/releases/). You can also (modify the material and) build locally:
+
+```sh
+git clone https://github.com/Kellenok/cure-script
+brew install pandoc
+chmod 755 epublish
+./epublish
+```
 
 ## What's changed
 
@@ -16,5 +26,6 @@ For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, ch
 3. Changed note type from *italic text* to speсial containers
 4. I have added a very rough and imprecise grouping of lessons. This was only done to allow the list to be collapsed.
 5. Merge line-by-line text into readable paragraph text
+6. Added offline EPUB downloads for English and Russian versions
 
 Something else may have broken during all the changes, but there shouldn't be any critical breaks.

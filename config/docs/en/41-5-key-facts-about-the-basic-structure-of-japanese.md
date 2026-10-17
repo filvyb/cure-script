@@ -59,8 +59,8 @@ The second group is する nouns, which the dictionaries somewhat confusingly ca
 **And their superpower is that they are allowed to drop the direct object marker, <code>を</code>.** So, **if we take the noun <code>勉強</code>, which means <code>study</code>, we can say <code>勉強をする</code>**, which means <code>do study</code> but we can also say <code>勉強する</code>, which means <code>*to* study</code> (**the verb**).
 
 ::: info
-It’s just a very nuanced difference, basically.* *
-The を is the Direct Object (noun) + verb (勉強を + する) & the 勉強する is a する verb.
+It’s just a very nuanced difference, basically.
+<code>を</code> is the Direct Object (noun) + verb (勉強を + する) & the 勉強する is a する verb.
 :::
 
 **We can use the を to mark a direct object of any verb, but we can only drop that を in the case of する nouns.** That is their superpower. So when we do that, **we fuse together <code>勉強</code> with <code>する</code>** **and make what we really can call a <code>する verb</code>.**
@@ -101,7 +101,7 @@ So, we'll take one that ends in the typical <code>り</code>: <code>ゆっくり
 
 So, **that's the one and only superpower of the adverbial noun.** And it's important to understand this because when you start trying to explain them without recognizing this fundamental fact, you can get into all kinds of difficulty.
 
-Let's take another one: <code>余り/あまり</code>.
+Let's take another one: <code>[余]{あま}り</code>.
 
 #### あまり
 
@@ -135,7 +135,7 @@ And it's just the same with <code>あまり</code>. If we say <code>あまり勉
 
 #### 随分
 
-So, let's just take one more that doesn't end in <code>り</code>, and that's <code>随分/ずいぶん</code>. What it really means is <code>sufficiently</code>.
+So, let's just take one more that doesn't end in <code>り</code>, and that's <code>[随分]{ずいぶん}</code>. What it really means is <code>sufficiently</code>.
 
 And you may say, <code>Well, **sufficiently** isn't a noun</code>. And that's true — in English it isn't a noun.
 

@@ -44,7 +44,7 @@ It's very similar to what we might say in English: we might say <code>I only hav
 
 It has this negative emphasis because we're putting all the emphasis on what I don't have, not what I do have. And that, in this context, is the difference between <code>だけ</code> and <code>しか... ない</code>.
 
-And <code>しか... ない</code> can also be used in circumstances such as <code>にげるしかない</code>. <code>にげる/*逃げる*</code> is to <code>run away</code> or <code>escape</code>; if we say <code>にげるしかない</code> we're saying <code>There's nothing for it but to run / There's no other course of action but to run.</code>
+And <code>しか... ない</code> can also be used in circumstances such as <code>にげるしかない</code>. <code>[逃]{に}げる</code> is to <code>run away</code> or <code>escape</code>; if we say <code>にげるしかない</code> we're saying <code>There's nothing for it but to run / There's no other course of action but to run.</code>
 
 So just as <code>千円しかない</code> means (I) have nothing more than a thousand yen, <code>にげるしかない</code> means there's nothing we can do other than — or more than — run. So now let's go back to some of the other uses of <code>だけ</code>.
 
@@ -56,10 +56,10 @@ Is this a completely different kind of <code>だけ</code>? No, it's exactly the
 
 <code>できるだけ勉強します</code> — <code>I will study if I can</code> or <code>I will study as much as I can</code> / <code>to the limit of the possibility I will study.</code>
 
-![](../media/image837.webp)
-
 ::: info
 In case someone may have been wondering…
+
+![](../media/image837.webp)
 :::
 
 Another use which you'll certainly see quite often is <code>だけあって</code>. Now this <code>あって</code> is <code>ある</code> — to <code>be</code>. And we're often told that it means something like <code>not for nothing</code>.

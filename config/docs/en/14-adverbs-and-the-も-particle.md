@@ -12,7 +12,7 @@ Today we're going to go back to Alice's adventures. If you remember, Alice had s
 
 ![](../media/image1015.webp)
 
-The first verb here is とぶ/飛ぶ, which means either `jump` or `fly`. In this case, it obviously means `jump`, since Alice can't fly. And 上がる means `rise up`. So when you put them together, 飛び上がる means `jump up`. 
+The first verb here is [飛]{と}ぶ, which means either `jump` or `fly`. In this case, it obviously means `jump`, since Alice can't fly. And 上がる means `rise up`. So when you put them together, 飛び上がる means `jump up`. 
 
 ![](../media/image798.webp)
 
@@ -38,7 +38,7 @@ What is meant is the 後 part being a noun, since 後を追う should be a verb.
 
 We talk about the `on` of the table, the `under` of the table, the `beside` of the river. And here we're talking about the `behind` or the `after` of the rabbit. So Alice followed the `rabbit's after` or the `rabbit's behind`. This is how we put it in Japanese.
 
-> アルスは飛び上がって、ウサギの後を追った。
+> アリスは飛び上がって、ウサギの後を追った。
 
 (Alice jumped up and followed after the rabbit.)
 
@@ -50,7 +50,7 @@ We talk about the `on` of the table, the `under` of the table, the `beside` of t
 
 ![](../media/image1088.webp)
 
-しゃべる/喋るmeans `talk` or `chatter`. It's a bit like `jabber` in English, isn't it? 「しゃべるウサギ」in this case obviously **しゃべる, the verb, is being used, as any verb-engine can be used, as an adjective.** 
+[喋]{しゃべ}るmeans `talk` or `chatter`. It's a bit like `jabber` in English, isn't it? 「しゃべるウサギ」in this case obviously **しゃべる, the verb, is being used, as any verb-engine can be used, as an adjective.** 
 
 ![](../media/image144.webp)
 
@@ -76,7 +76,7 @@ It's telling us what kind of こと it is, and in this case 見る means `see`, 
 
 ![](../media/image240.webp)
 
-So what this is saying is, `Alice had never seen a talking rabbit`. ( `**The fact of having seen a talking rabbit does not exist**`)
+So what this is saying is, `Alice had never seen a talking rabbit`. ( <code>**The fact of having seen a talking rabbit does not exist**</code>)
 
 > しゃべるウサギを見たことがない
 
@@ -120,7 +120,7 @@ Now, 走る, as we know, is `run`; 早い is an adjective meaning `fast` or `ear
 
 > ...急にウサギの穴にとび込んだ。
 
-Now,「ウサギの穴」: 穴 means `hole`, so ウサギの穴 means `rabbit-hole`. とび込む is another one of these compound verbs. とぶ/飛ぶ, as we know, means `jump`, and 込む means to `go into` something. **It's not just like `enter`; it tends to be to `put into`, to `force into`, to do an action into something.** So we have a lot of verbs actually which are made up with **`込む`, which is `doing an action into` something.** So `とび込む` means `jump into`, quite simply `jump into`. So, the rabbit `jumped into a rabbit-hole.`
+Now,「ウサギの穴」: 穴 means `hole`, so ウサギの穴 means `rabbit-hole`. とび込む is another one of these compound verbs. [飛]{と}ぶ, as we know, means `jump`, and 込む means to `go into` something. **It's not just like `enter`; it tends to be to `put into`, to `force into`, to do an action into something.** So we have a lot of verbs actually which are made up with **`込む`, which is `doing an action into` something.** So `とび込む` means `jump into`, quite simply `jump into`. So, the rabbit `jumped into a rabbit-hole.`
 
 ---
 
@@ -174,7 +174,7 @@ Now, **も declares the topic of the sentence as well, but it always changes it.
 
 ---
 
-If we'd used が: 「**アリスが**お姉ちゃんのところに戻った」, we'd simply have been saying, `The rabbit jumped into the rabbit-hole and **Alice** went back to her sister.`
+If we'd used が: 「**アリスが**お姉ちゃんのところに戻った」, we'd simply have been saying, <code>The rabbit jumped into the rabbit-hole and **Alice** went back to her sister.</code>
 
 ::: info
 Alice = subject of its clause here, marked by が.
@@ -187,7 +187,7 @@ Now, **if we say も instead of は, then we are making the opposite point: we a
 
 ![](../media/image365.webp)
 
-`The rabbit jumped into the rabbit-hole and Alice **also** jumped into the rabbit-hole.` 
+<code>The rabbit jumped into the rabbit-hole and Alice **also** jumped into the rabbit-hole.</code> 
 
 So, there are various uses of も, which we'll look at later, but this is the most fundamental one. **It's the topic-marking particle that tells us that the comment on the new topic is the same as the comment on the old topic.** 
 
@@ -197,7 +197,7 @@ So, there are various uses of も, which we'll look at later, but this is the mo
 
 ![](../media/image714.webp)
 
-中 means `the inside`, either the middle or the inside of something, so 穴の中 is the inside of the hole. たて穴/縦穴: the word たて/縦 means `vertical` or `upright` (and you can see it's related to 立つ – to stand). So, 「穴の中は竪穴だった」`the inside of the hole was a vertical hole` – it went straight down. 
+中 means `the inside`, either the middle or the inside of something, so 穴の中 is the inside of the hole. たて穴/縦穴: the word [縦]{たて} means `vertical` or `upright` (and you can see it's related to 立つ – to stand). So, 「穴の中は竪穴だった」`the inside of the hole was a vertical hole` – it went straight down. 
 
 > アリスは**すぐ**下に落ちた。
 
@@ -221,9 +221,9 @@ So **`驚いたこと` here doesn't mean a `surprised thing`, it means a `surpri
 
 ---
 
-And に ( `こと**に**`), **is once again that technique of putting a に**, putting に, **after a noun to turn it into an adverb.** 
+And に ( <code>こと**に**</code>), **is once again that technique of putting a に**, putting に, **after a noun to turn it into an adverb.** 
 
-So, `驚いたことに落ちた.` (We'll come to `ゆっくり` in just a moment.) It means `surprisingly fell / she fell in a surprising manner`. And what kind of a surprising manner was this? `**ゆっくりゆっくり**`.
+So, `驚いたことに落ちた.` (We'll come to `ゆっくり` in just a moment.) It means `surprisingly fell / she fell in a surprising manner`. And what kind of a surprising manner was this? <code>**ゆっくりゆっくり**</code>.
 
 ## ゆっくり adverb
 

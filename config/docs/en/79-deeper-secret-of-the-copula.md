@@ -128,7 +128,7 @@ But there's another point that we have to consider here, and that is that while 
 
 ***Like I mentioned earlier, です / ます are rather politeness markers, not formality markers.*** ***They are part of the 丁寧語 (polite language). So it is more accurate to call them polite instead.***
 
-As we know, **there are only two kind of sentences, A-is-B sentences and A-does-B sentences**, and **in Japanese there are two kinds of A-is-B sentences**, that is, **adjective sentences**, **that in their simple form have to end in -い**, and **copular sentences**, which have to **end in <code>だ</code> or <code>です</code>.
+As we know, **there are only two kind of sentences, A-is-B sentences and A-does-B sentences**, and **in Japanese there are two kinds of A-is-B sentences**, that is, **adjective sentences**, **that in their simple form have to end in -い**, and **copular sentences**, which have to **end in <code>だ</code> or <code>です</code>**.
 
 ![](../media/image90.webp)
 
@@ -139,7 +139,7 @@ This is also why だ is not used with it since it is redundant as the -い alrea
 Dolly explains it that way - carrying a copular function within itself & likely why だ isn’t used.
 
 But there are different stances you can check by searching on this issue, some refer to -い as “sort of a copula”, others don’t, some even question whether Japanese has adjectives at all.  
-But overall it does not entirely matter how it is called, what matters is that you understand how it works in the language & how it is used properly. As [**not all words ending in -い are an adjective**](https://jisho.org/search/%E6%B4%97%E3%81%84) automatically, since there may be a hidden Kanji form etc. Although in 98% it is an adjective.*
+But overall it does not entirely matter how it is called, what matters is that you understand how it works in the language & how it is used properly. As [**not all words ending in -い are an adjective**](https://jisho.org/search/%E6%B4%97%E3%81%84) automatically, since there may be a hidden Kanji form etc. Although in 98% it is an adjective.
 
 Basically, Dolly is there to give you the basics, if you go into the depths, things are rarely straightforward & universal. Language is a very complex construct & doesn’t quite work like that.  
 E.g. why there are so many ways to study it, interpret it & explain it. Choose what works for you.
@@ -157,8 +157,8 @@ We're doubling that copular. **So while <code>です</code> is an empty formalit
 
 **And that's the only actual case where <code>です</code> does something different from <code>だ</code>.**
 
-![](../media/image563.webp)
+::: info
+Recommend reading the comments [**under the video**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly) as usual. Zoom-in if anything.
 
-::: tip
- Recommend reading the comments [**under the video**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly) as usual. Zoom-in if anything.
- :::
+![](../media/image563.webp)
+:::

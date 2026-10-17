@@ -54,7 +54,7 @@ We can say that <code>I</code> is the default value of the zero pronoun, the inv
 
 ![](../media/image617.webp)
 
-If I say, <code>土曜日だ</code> (土曜日/どようび means Saturday), I'm saying <code>(It) is Saturday</code>. What's <code>it</code>? Today is. All these sentences are full, complete Japanese sentences, with a が-marked subject/ A carriage/main carriage, and an engine.
+If I say, <code>土曜日だ</code> ([土曜日]{どようび} means Saturday), I'm saying <code>(It) is Saturday</code>. What's <code>it</code>? Today is. All these sentences are full, complete Japanese sentences, with a が-marked subject/ A carriage/main carriage, and an engine.
 
 ![](../media/image490.webp)
 
@@ -79,5 +79,5 @@ Now, the interesting thing here is that we may often see this said like this: <c
 **We can't have a sentence without a が. We can't have an action being done without a doer.** If we say <code>ケーキをたべる</code>, what we're really saying is <code>(zeroが)ケーキをたべる</code>. And the default value for <code>zero</code>, for the invisible carriage, is <code>わたし</code>. So usually this is going to be <code>I eat cake</code>, although if you were talking about someone else at the time, it might mean that that person eats cake.
 
 ::: info
-Just in case - as can be seen from from the pictures, every particle attaches to/assigns itself to the word BEFORE it, Not after it.
+Just in case - as can be seen from the pictures, every particle attaches to/assigns itself to the word BEFORE it, Not after it.
 :::

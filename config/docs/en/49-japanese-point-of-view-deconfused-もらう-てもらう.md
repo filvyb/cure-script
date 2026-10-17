@@ -26,7 +26,7 @@ And the reason for that is that <code>あげる</code> is not in fact honorific 
 
 ![](../media/image693.webp)
 
-**So if you talk to a superior in such a way as to imply that you're doing them a favor,** **this is going to cause offence**, so we should not regard <code>あげる</code> and <code>くれる</code> as being actually honorific or humble. **They're not けいご/敬語.**
+**So if you talk to a superior in such a way as to imply that you're doing them a favor,** **this is going to cause offence**, so we should not regard <code>あげる</code> and <code>くれる</code> as being actually honorific or humble. **They're not [敬語]{けいご}.**
 
 **<code>くれる</code> can imply gratitude but it doesn't imply humility.** **And <code>あげる</code> doesn't imply honoring the person to whom it's applied.** All right. So now let's move on to <code>もらう</code>.
 ::: info
@@ -57,18 +57,18 @@ In a push-sentence, the に marks the indirect object, the ultimate receiver of 
 
 In a pull-sentence, where the receiver is the が-marked actor, then the に-marked person is the ultimate giver, the ultimate source of the action. So it's actually much more useful to compare <code>もらう</code> to <code>-れる/-られる</code>, the receptive helper, because it does almost exactly the same thing.
 
-It takes a verb, adds another, helper verb to it which tells us that the action is being received and the actor of the sentence is doing the action of receiving the action from somebody else. And this similarity, this likeness, between <code>もらう</code> and <code>-れる/-</code>られる<code></code> is not pointed out by conventional Japanese grammar, although it's really by far the best way of understanding it, because of course they confuse the whole issue by calling the receptive <code>-れる/-られる</code> helper <code>passive</code>.
+It takes a verb, adds another, helper verb to it which tells us that the action is being received and the actor of the sentence is doing the action of receiving the action from somebody else. And this similarity, this likeness, between <code>もらう</code> and <code>-れる/-られる</code> is not pointed out by conventional Japanese grammar, although it's really by far the best way of understanding it, because of course they confuse the whole issue by calling the receptive <code>-れる/-られる</code> helper <code>passive</code>.
 
-It's not passive, **it's receptive, just like *<code>もらう</code>****.*
+It's not passive, **it's receptive, just like *<code>もらう</code>***.
 
 ::: info
-Btw. you can’t use both of these receptives at once. Dolly explains in the* [**comments**](https://www.youtube.com/watch?v=CESFJaFp8FI&lc=UgwTi3XYA1fzqe30n-14AaABAg.8x4VnfQdsss8x57oxMYR66&ab_channel=OrganicJapanesewithCureDolly).
+Btw. you can’t use both of these receptives at once. Dolly explains in the [**comments**](https://www.youtube.com/watch?v=CESFJaFp8FI&lc=UgwTi3XYA1fzqe30n-14AaABAg.8x4VnfQdsss8x57oxMYR66&ab_channel=OrganicJapanesewithCureDolly).
 
 ![](../media/image890.webp)
 :::
 
 
-And they work very similarly. The difference between them is that <code>-れる/-</code>られる<code></code> implies that the action just happened to us. We may or may not have wanted it, but it wasn't really our doing.
+And they work very similarly. The difference between them is that <code>-れる/-られる</code> implies that the action just happened to us. We may or may not have wanted it, but it wasn't really our doing.
 
 <code>もらう</code> implies that we took the action, that we actively brought the action upon ourself from somebody else; we got them to do it for us. So let's talk about receiving a service.
 
@@ -80,7 +80,7 @@ I don't know why they do this exactly. I think it's because they feel that the l
 
 <code>お医者さんに見てもらう</code> doesn't mean <code>I will see a doctor</code>; it means <code>I will have a doctor see me / I will get examined by a doctor</code>. Now, we can see this much more clearly if we're talking about hairdressing or a haircut.
 
-<code>さんぱつ/散髪</code> means <code>hairdressing</code> or <code>haircut</code>. And if we say <code>散髪をしてもらう</code>, we're saying <code>have someone cut my hair</code>.
+<code>[散髪]{さんぱつ}</code> means <code>hairdressing</code> or <code>haircut</code>. And if we say <code>散髪をしてもらう</code>, we're saying <code>have someone cut my hair</code>.
 
 ![](../media/image417.webp)
 

@@ -6,7 +6,7 @@
 
 Today we're going to talk about one of the most versatile aspects of Japanese structure. It covers a number of areas that can be compared to other aspects of Japanese structure and it'll make life a lot simpler if we make those comparisons, so that's what we're going to do. This is something that isn't really explained well by most textbooks, largely because they don't recognize the verb-stem system, which is absolutely central to the way Japanese verbs work.
 
-So, what it is, what we are going to talk about, is the い-stem of Japanese verbs. In Japanese this is called the <code>連用形 / れんようけい</code>, which means the <code>connective use form</code>.
+So, what it is, what we are going to talk about, is the い-stem of Japanese verbs. In Japanese this is called the <code>[連用形]{れんようけい}</code>, which means the <code>connective use form</code>.
 
 ![](../media/image918.webp)
 
@@ -18,7 +18,7 @@ In English it's sometimes called the <code>ます stem</code>, which is not inac
 
 It's not the base-form of verbs. It's just verbs with one among many other helper-elements attached to them. And if we think it's the base-form of verbs we're going to get very confused about what verbs are and how they work.
 
-And I've done a video about that, so if you're in any doubt about all of this, you might want to watch that. So, what is this い-stem, this <code>連用形 / れんようけい</code> and why is it so important? Well, obviously, what it is is simply the verb shifted from its base う-row form to the い-row.
+And I've done a video about that, so if you're in any doubt about all of this, you might want to watch that. So, what is this い-stem, this <code>[連用形]{れんようけい}</code> and why is it so important? Well, obviously, what it is is simply the verb shifted from its base う-row form to the い-row.
 
 ![](../media/image614.webp)
 
@@ -97,7 +97,7 @@ And to come again to our friend <code>読む</code>, we can have <code>読み方
 
 ![](../media/image221.webp)
 
-<code>方 / かた</code> means <code>form, or manner, or way</code> — you may have heard of <code>方</code> in karate, the martial art — so <code>読み方</code> means <code>form or manner or way of reading</code>, and what this usually means is the pronunciation of a kanji, the way of reading the kanji in a particular context.
+<code>[方]{かた}</code> means <code>form, or manner, or way</code> — you may have heard of <code>方</code> in karate, the martial art — so <code>読み方</code> means <code>form or manner or way of reading</code>, and what this usually means is the pronunciation of a kanji, the way of reading the kanji in a particular context.
 
 So, the い-stem has the compound word capacity of the て-form and takes it further than the て-form. And it can also take on another of the て-form's fundamental functions, because, as we know, the て-form can connect the two halves of a compound sentence.
 
@@ -183,7 +183,7 @@ If we say <code>お店にパンを買いに行く</code>, we're saying <code>I'm
 And that's important, because as I taught in our lesson on the logical particles<sup>[[8b]](./8b-particles-explained.md)</sup>, the five main logical particles can only be attached to nouns. *(が, を, の, に, へ, で)*
 
 ::: info
-Just like Dolly remarks in Lesson 8b, の is also part of the logical particles,
+Just like Dolly remarks in Lesson 8b, の is also part of the logical particles.
 :::
 
 So if it's not explained that the <code>遊び</code> here and the <code>買い</code> here are nouns, I'm not sure what most learners think the structure actually is.
@@ -201,8 +201,9 @@ If you have any questions or comments *(again, it’s a good idea to read video 
 I'd like to thank my Gold Kokeshi patrons and all of my patrons and supporters on Patreon and everywhere, who make all of this possible.
 ::: info
 In the comments, there is this rather interesting comment by one shary0 about て-form.  
-If anyone wants to read up on い-stem in a more <code>text-booky</code> language - here is **[the source link](https://jref.com/articles/renyoukei.107/).  
-:::
-**Also, check [**this comment discussion under this video.**](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)*
+If anyone wants to read up on い-stem in a more <code>text-booky</code> language - here is **[the source link](https://jref.com/articles/renyoukei.107/)**.  
+
+**Also, check [this comment discussion under this video.](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)**
 
 ![](../media/image67.webp)
+:::

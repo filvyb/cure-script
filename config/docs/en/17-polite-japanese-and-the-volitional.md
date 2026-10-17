@@ -7,7 +7,7 @@
 Today we're going to talk about **formal** *(polite)* Japanese: です/ます.
 
 ::: info
-Whenever Dolly uses the term <code>formal</code> for です or ます, it should be POLITE instead, there is a difference between the two terms in Japanese, not sure why she did not bring this one up, but it is quite important to distinguish, if you look into their definitions, dictionaries mark them as polite.**
+Whenever Dolly uses the term <code>formal</code> for です or ます, it should be POLITE instead, there is a difference between the two terms in Japanese, not sure why she did not bring this one up, but it is quite important to distinguish, if you look into their definitions, dictionaries mark them as polite.
 :::
 
 ***They are part of the 丁寧語 (polite language). So it is more accurate to call them polite instead.***
@@ -62,7 +62,7 @@ Except that this also has a strange quirk, which is that if we take an adjective
 
 ![](../media/image178.webp)
 
-**It doesn't do anything; it just decorates the sentence and makes it formal.** Again, this is something you just have to learn and it's not very difficult to learn, but if you learn it at the beginning you get the impression that you need the copula with an adjective like <code>赤い</code> just as you need the copula with an adjectival noun like <code>綺麗/きれい</code>.
+**It doesn't do anything; it just decorates the sentence and makes it formal.** Again, this is something you just have to learn and it's not very difficult to learn, but if you learn it at the beginning you get the impression that you need the copula with an adjective like <code>赤い</code> just as you need the copula with an adjectival noun like <code>[綺麗]{きれい}</code>.
 
 ![](../media/image246.webp)
 

@@ -20,7 +20,7 @@ So you see this is in です/ます-style Japanese, so if you're a little bit un
 
 ![](../media/image641.webp)
 
-So, <code>犬が肉をくわえた</code> is <code>a dog held meat in its mouth</code>, but <code>肉をくわえた犬</code> is <code>a dog that was holding meat in its mouth</code>. So, that dog is the subject of our sentence, marked with が. <code>肉をくわえた犬がはしをわたっていました.</code> <code>橋/はし</code> is <code>bridge</code> and <code>わたる</code> is <code>cross</code>. So, the dog was in the process (<code>-ている</code>) of crossing the bridge. <code>肉をくわえた犬がはしをわたっていました.</code> So that set the scene. We know what's happening.
+So, <code>犬が肉をくわえた</code> is <code>a dog held meat in its mouth</code>, but <code>肉をくわえた犬</code> is <code>a dog that was holding meat in its mouth</code>. So, that dog is the subject of our sentence, marked with が. <code>肉をくわえた犬がはしをわたっていました.</code> <code>[橋]{はし}</code> is <code>bridge</code> and <code>わたる</code> is <code>cross</code>. So, the dog was in the process (<code>-ている</code>) of crossing the bridge. <code>肉をくわえた犬がはしをわたっていました.</code> So that set the scene. We know what's happening.
 
 <code>ふと下を見ると、川の中にも肉をくわえた犬がいます.</code>
 
@@ -64,7 +64,7 @@ And then we have a quotation from the dog: <code>そうだ、あいつを脅か�
 
 ![](../media/image388.webp)
 
-<code>そうだ</code> — <code>Okay then/that's the case</code>; <code>あいつを脅かして</code> — <code>脅かす</code> is to ****intimidate**** or to <code>scare (someone)</code>, so: <code>I'm going to scare that fellow and... あの肉を取ってやろう.</code>
+<code>そうだ</code> — <code>Okay then/that's the case</code>; <code>あいつを脅かして</code> — <code>脅かす</code> is to **intimidate** or to <code>scare (someone)</code>, so: <code>I'm going to scare that fellow and... あの肉を取ってやろう.</code>
 
 <code>あの肉</code>, of course, is <code>that meat</code>; <code>取る</code> is <code>take</code>. <code>取ってやろう</code> is related to <code>-てあげる</code>, to <code>do an action up to someone / to give someone the benefit of your action</code>.
 
@@ -96,13 +96,13 @@ And again we've switched into the present tense to give more immediacy to this. 
 
 <code>さっきの川の中の犬は水に映った自分の顔だったのです</code> <code>のです</code> — <code>The fact is that it was...</code> The fact is that it was what?
 
-The fact is that... さっきの川の中の犬は" — <code>さっき</code> in this case means <code>just before</code> or <code>previous</code>. So <code>さっきの川の中の犬</code> is <code>the dog in the river from just before</code>; <code>水に映った自分の顔だった</code> — <code>自分</code> is <code>oneself</code>, so it's <code>one's own face reflected in the water</code>: <code>水に映った自分の顔だったのです.</code>
+The fact is that... <code>さっきの川の中の犬は</code> — <code>さっき</code> in this case means <code>just before</code> or <code>previous</code>. So <code>さっきの川の中の犬</code> is <code>the dog in the river from just before</code>; <code>水に映った自分の顔だった</code> — <code>自分</code> is <code>oneself</code>, so it's <code>one's own face reflected in the water</code>: <code>水に映った自分の顔だったのです.</code>
 
 The fact is that it was... the fact is that the previous dog in the river was one's own face reflected in the water. And now there are two morals that follow this story. And they're put into one long compound sentence, which looks a bit difficult, so let's just break it into two parts.
 
 ![](../media/image331.webp)
 
-<code>同じ物を持っていても人が持っている物のほうが良く見え、</code> Now, first of all, that <code>見え</code> is the <code>連用形/れんようけい</code>, the い-stem of <code>見える</code>, to <code>be visible or look like</code>. It doesn't look like an い-stem because it's an ichidan verb and, as we know, all the stems of the ichidan verb look the same. But the い-stem of a verb can be used, especially in literary contexts, like the て-form, to connect two logical clauses within a compound sentence. So, that <code>見え</code> is completing a logical clause and then leading onto the second logical clause which is the other moral of the story.
+<code>同じ物を持っていても人が持っている物のほうが良く見え、</code> Now, first of all, that <code>見え</code> is the <code>[連用形]{れんようけい}</code>, the い-stem of <code>見える</code>, to <code>be visible or look like</code>. It doesn't look like an い-stem because it's an ichidan verb and, as we know, all the stems of the ichidan verb look the same. But the い-stem of a verb can be used, especially in literary contexts, like the て-form, to connect two logical clauses within a compound sentence. So, that <code>見え</code> is completing a logical clause and then leading onto the second logical clause which is the other moral of the story.
 
 So, let's look at the first moral first. <code>同じ物を持っていても</code> — now, the <code>-ても</code> ending, as we know, means <code>even though</code>, so we're saying <code>同じ物</code> — <code>the same thing</code> — <code>を持っていても</code> — <code>is in a state of carrying</code> (or holding or possessing). So, even though they possess the same thing (<code>同じ物</code>) <code>人が持っている物</code> — <code>the thing that people have</code> — and <code>人</code> here means <code>other people</code>.
 

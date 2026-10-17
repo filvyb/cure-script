@@ -162,7 +162,7 @@ Now, what we're really saying is that I'm letting that into my soul.
 
 ![](../media/image998.webp)
 
-What's confusing here is that <code>入る/いる</code> is not being used in its normal way. <code>入る</code> usually means to enter or come in. And if we're talking about putting something into something, we say <code>入れる</code>.
+What's confusing here is that <code>[入]{い}る</code> is not being used in its normal way. <code>入る</code> usually means to enter or come in. And if we're talking about putting something into something, we say <code>入れる</code>.
 
 But in this case, <code>入る</code>, probably because it's an older usage that's cemented into the language in this particular very common phrase, <code>入る</code> actually means allow into one's spirit.
 
@@ -179,5 +179,6 @@ So you'll very often see <code>気に入る</code> in references to other people
 So, I hope this makes the whole <code>気</code> usage a little clearer…  
 ::: info
 [**The Buddhist concept of <code>non-self</code>**](https://en.wikipedia.org/wiki/Anatt%C4%81) may be a good study to see how Japanese works.
-:::
+
 ![](../media/image99.webp)
+:::
